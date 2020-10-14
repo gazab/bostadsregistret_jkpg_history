@@ -202,12 +202,12 @@
     "statusCode": 1,
     "hidden": false,
     "comments": "",
-    "mayManageApplicants": false,
+    "mayManageApplicants": true,
     "registerIdSelectedByLandlord": 0,
     "rented": 0,
     "cancelled": 0,
     "copyright": "Copyright Bostadsregistret AB",
-    "timeWhenLandlordMaySeeApplicants": 1602972000
+    "timeWhenLandlordMaySeeApplicants": 1602540000
   },
   {
     "id": 7391,
