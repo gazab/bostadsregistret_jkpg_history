@@ -187,7 +187,7 @@
     "elevator": false,
     "balcony": false,
     "floor1Sub": false,
-    "floor1Ground": false,
+    "floor1Ground": true,
     "floor1Stairs": true,
     "attic": false,
     "duplex": false,
