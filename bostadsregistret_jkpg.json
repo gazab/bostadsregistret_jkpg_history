@@ -268,7 +268,7 @@
     "rooms": 3,
     "rent": 7736,
     "warm": 2,
-    "elevator": true,
+    "elevator": false,
     "balcony": false,
     "floor1Sub": false,
     "floor1Ground": false,
