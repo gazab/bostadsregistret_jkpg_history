@@ -76,12 +76,12 @@
     "statusCode": 1,
     "hidden": false,
     "comments": "",
-    "mayManageApplicants": false,
+    "mayManageApplicants": true,
     "registerIdSelectedByLandlord": 0,
     "rented": 0,
     "cancelled": 0,
     "copyright": "Copyright Bostadsregistret AB",
-    "timeWhenLandlordMaySeeApplicants": 1613257200
+    "timeWhenLandlordMaySeeApplicants": 1612825200
   },
   {
     "id": 7836,
