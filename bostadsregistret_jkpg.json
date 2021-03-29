@@ -2286,7 +2286,7 @@
     "warm": 2,
     "elevator": false,
     "balcony": true,
-    "floor1Sub": true,
+    "floor1Sub": false,
     "floor1Ground": false,
     "floor1Stairs": false,
     "attic": false,
