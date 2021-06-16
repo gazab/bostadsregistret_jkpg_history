@@ -17,7 +17,7 @@
     "rent": 7950,
     "warm": 2,
     "elevator": false,
-    "balcony": false,
+    "balcony": true,
     "floor1Sub": false,
     "floor1Ground": true,
     "floor1Stairs": false,
