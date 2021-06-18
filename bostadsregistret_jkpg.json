@@ -13,7 +13,7 @@
     "contractLength": 3,
     "otherLength": "0",
     "area": 105,
-    "rooms": 5,
+    "rooms": 4,
     "rent": 6000,
     "warm": 2,
     "elevator": false,
