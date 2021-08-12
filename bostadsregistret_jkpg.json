@@ -32,14 +32,13 @@
     "adText": "Lägenhet om 1rok i Nässjö/Forserum. \n@bostadsregistret #bostadsregistret",
     "statusText": "Published",
     "statusCode": 1,
-    "hidden": false,
-    "comments": "",
     "mayManageApplicants": false,
-    "registerIdSelectedByLandlord": 0,
+    "timeWhenLandlordMaySeeApplicants": 1629151200,
+    "hidden": false,
     "rented": 0,
     "cancelled": 0,
-    "copyright": "Copyright Bostadsregistret AB",
-    "timeWhenLandlordMaySeeApplicants": 1629151200
+    "published": 0,
+    "copyright": "Copyright Bostadsregistret AB"
   },
   {
     "id": 8411,
@@ -74,14 +73,13 @@
     "adText": "Lägenhet om 3rok i Nässjö/Forserum. \n@bostadsregistret #bostadsregistret",
     "statusText": "Published",
     "statusCode": 1,
-    "hidden": false,
-    "comments": "",
     "mayManageApplicants": false,
-    "registerIdSelectedByLandlord": 0,
+    "timeWhenLandlordMaySeeApplicants": 1629151200,
+    "hidden": false,
     "rented": 0,
     "cancelled": 0,
-    "copyright": "Copyright Bostadsregistret AB",
-    "timeWhenLandlordMaySeeApplicants": 1629151200
+    "published": 0,
+    "copyright": "Copyright Bostadsregistret AB"
   },
   {
     "id": 8410,
@@ -116,14 +114,13 @@
     "adText": "Nymålad lägenhet med totalrenoverat badrum och kök om 2rok i Nässjö/Forserum.\n@bostadsregistret #bostadsregistret",
     "statusText": "Published",
     "statusCode": 1,
-    "hidden": false,
-    "comments": "",
     "mayManageApplicants": false,
-    "registerIdSelectedByLandlord": 0,
+    "timeWhenLandlordMaySeeApplicants": 1629151200,
+    "hidden": false,
     "rented": 0,
     "cancelled": 0,
-    "copyright": "Copyright Bostadsregistret AB",
-    "timeWhenLandlordMaySeeApplicants": 1629151200
+    "published": 0,
+    "copyright": "Copyright Bostadsregistret AB"
   },
   {
     "id": 8405,
@@ -158,14 +155,13 @@
     "adText": "Nymålad och nytapetserad lägenhet om 1rok i Nässjö/Egnahem.\n@bostadsregistret #bostadsregistret",
     "statusText": "Published",
     "statusCode": 1,
-    "hidden": false,
-    "comments": "",
     "mayManageApplicants": false,
-    "registerIdSelectedByLandlord": 0,
+    "timeWhenLandlordMaySeeApplicants": 1629064800,
+    "hidden": false,
     "rented": 0,
     "cancelled": 0,
-    "copyright": "Copyright Bostadsregistret AB",
-    "timeWhenLandlordMaySeeApplicants": 1629064800
+    "published": 1,
+    "copyright": "Copyright Bostadsregistret AB"
   },
   {
     "id": 8406,
@@ -200,14 +196,13 @@
     "adText": "Fin gammal, charmig lägenhet om 2rok med två balkonger. \n@bostadsregistret #bostadsregistret",
     "statusText": "Published",
     "statusCode": 1,
-    "hidden": false,
-    "comments": "",
     "mayManageApplicants": false,
-    "registerIdSelectedByLandlord": 0,
+    "timeWhenLandlordMaySeeApplicants": 1629064800,
+    "hidden": false,
     "rented": 0,
     "cancelled": 0,
-    "copyright": "Copyright Bostadsregistret AB",
-    "timeWhenLandlordMaySeeApplicants": 1629064800
+    "published": 1,
+    "copyright": "Copyright Bostadsregistret AB"
   },
   {
     "id": 8407,
@@ -242,14 +237,13 @@
     "adText": "Mycket fin lägenhet om 1rok med balkong. Lägenheten har diskmaskin samt tvättmaskin och torktumlare.\n@bostadsregistret #bostadsregistret",
     "statusText": "Published",
     "statusCode": 1,
-    "hidden": false,
-    "comments": "",
     "mayManageApplicants": false,
-    "registerIdSelectedByLandlord": 0,
+    "timeWhenLandlordMaySeeApplicants": 1629064800,
+    "hidden": false,
     "rented": 0,
     "cancelled": 0,
-    "copyright": "Copyright Bostadsregistret AB",
-    "timeWhenLandlordMaySeeApplicants": 1629064800
+    "published": 1,
+    "copyright": "Copyright Bostadsregistret AB"
   },
   {
     "id": 8404,
@@ -284,14 +278,13 @@
     "adText": "Lägenhet om 1rok i centrala Jönköping. Kabel-tv tillkommer med 129kr/mån.\n@bostadsregistret #bostadsregistret",
     "statusText": "Published",
     "statusCode": 1,
-    "hidden": false,
-    "comments": "",
     "mayManageApplicants": false,
-    "registerIdSelectedByLandlord": 0,
+    "timeWhenLandlordMaySeeApplicants": 1629064800,
+    "hidden": false,
     "rented": 0,
     "cancelled": 0,
-    "copyright": "Copyright Bostadsregistret AB",
-    "timeWhenLandlordMaySeeApplicants": 1629064800
+    "published": 1,
+    "copyright": "Copyright Bostadsregistret AB"
   },
   {
     "id": 8409,
@@ -326,14 +319,13 @@
     "adText": "Lägenhet om 3rok i Jönköping/Rosenlund. Lägenheten har balkong. Kabel-Tv tillkommer med 129kr/mån. Trappstädning tillkommer med 80kr/mån.\n@bostadsregistret #bostadsregistret",
     "statusText": "Published",
     "statusCode": 1,
-    "hidden": false,
-    "comments": "",
     "mayManageApplicants": false,
-    "registerIdSelectedByLandlord": 0,
+    "timeWhenLandlordMaySeeApplicants": 1629064800,
+    "hidden": false,
     "rented": 0,
     "cancelled": 0,
-    "copyright": "Copyright Bostadsregistret AB",
-    "timeWhenLandlordMaySeeApplicants": 1629064800
+    "published": 1,
+    "copyright": "Copyright Bostadsregistret AB"
   },
   {
     "id": 8402,
@@ -368,14 +360,13 @@
     "adText": "Lägenhet om 3rok i Jönköping, Norrahammar. Lgh i 2 plan allrum i källarplan m öppen spis , egen uteplats m gräsyta nära skog o strövområden, nära åsasjön m fin badplats sommartid, busshållsplats utanför tomtgräns m bra förbindelse till centrala Jönköping , egen ingång, lugnt o fint område. @bostadsregistret #bostadsregistret ",
     "statusText": "Published",
     "statusCode": 1,
-    "hidden": false,
-    "comments": "",
     "mayManageApplicants": false,
-    "registerIdSelectedByLandlord": 0,
+    "timeWhenLandlordMaySeeApplicants": 1628978400,
+    "hidden": false,
     "rented": 0,
     "cancelled": 0,
-    "copyright": "Copyright Bostadsregistret AB",
-    "timeWhenLandlordMaySeeApplicants": 1628978400
+    "published": 2,
+    "copyright": "Copyright Bostadsregistret AB"
   },
   {
     "id": 8391,
@@ -410,14 +401,13 @@
     "adText": "Lägenhet om 3rok. Helt nyrenoverat kök med induktion, diskmaskin m.m. Helt nyrenoverat badrum med kakel,plastmatta, dusch. Alla rum nymålade samt nyslipade golv v-rum samt sovrum.\n@bostadsregistret #bostadsregistret",
     "statusText": "Published",
     "statusCode": 1,
-    "hidden": false,
-    "comments": "",
     "mayManageApplicants": true,
-    "registerIdSelectedByLandlord": 0,
+    "timeWhenLandlordMaySeeApplicants": 1628460000,
+    "hidden": false,
     "rented": 0,
     "cancelled": 0,
-    "copyright": "Copyright Bostadsregistret AB",
-    "timeWhenLandlordMaySeeApplicants": 1628460000
+    "published": 8,
+    "copyright": "Copyright Bostadsregistret AB"
   },
   {
     "id": 8390,
@@ -452,14 +442,13 @@
     "adText": "Lägenhet om 2rok i centrala Nässjö\n@bostadsregistret #bostadsregistret",
     "statusText": "Published",
     "statusCode": 1,
-    "hidden": false,
-    "comments": "",
     "mayManageApplicants": true,
-    "registerIdSelectedByLandlord": 0,
+    "timeWhenLandlordMaySeeApplicants": 1628460000,
+    "hidden": false,
     "rented": 0,
     "cancelled": 0,
-    "copyright": "Copyright Bostadsregistret AB",
-    "timeWhenLandlordMaySeeApplicants": 1628460000
+    "published": 8,
+    "copyright": "Copyright Bostadsregistret AB"
   },
   {
     "id": 8378,
@@ -494,14 +483,13 @@
     "adText": "Lägenhet om 1rok i Nässjö/Forserum. \n@bostadsregistret #bostadsregistret",
     "statusText": "Published",
     "statusCode": 1,
-    "hidden": false,
-    "comments": "",
     "mayManageApplicants": true,
-    "registerIdSelectedByLandlord": 0,
+    "timeWhenLandlordMaySeeApplicants": 1628373600,
+    "hidden": false,
     "rented": 0,
     "cancelled": 0,
-    "copyright": "Copyright Bostadsregistret AB",
-    "timeWhenLandlordMaySeeApplicants": 1628373600
+    "published": 9,
+    "copyright": "Copyright Bostadsregistret AB"
   },
   {
     "id": 8377,
@@ -536,14 +524,13 @@
     "adText": "Lägenhet om 2rok i Nässjö/Handskeryd.\n@bostadsregistret #bostadsregistret",
     "statusText": "Published",
     "statusCode": 1,
-    "hidden": false,
-    "comments": "",
     "mayManageApplicants": true,
-    "registerIdSelectedByLandlord": 0,
+    "timeWhenLandlordMaySeeApplicants": 1628287200,
+    "hidden": false,
     "rented": 0,
     "cancelled": 0,
-    "copyright": "Copyright Bostadsregistret AB",
-    "timeWhenLandlordMaySeeApplicants": 1628287200
+    "published": 10,
+    "copyright": "Copyright Bostadsregistret AB"
   },
   {
     "id": 8376,
@@ -578,14 +565,13 @@
     "adText": "Lägenhet om 3rok i Vaggeryd/Skillingaryd. Lägenheten ligger på 1a våningen och är fördelad på 69kvm. \n@bostadsregistret #bostadsregistret",
     "statusText": "Published",
     "statusCode": 1,
-    "hidden": false,
-    "comments": "",
     "mayManageApplicants": true,
-    "registerIdSelectedByLandlord": 0,
+    "timeWhenLandlordMaySeeApplicants": 1628028000,
+    "hidden": false,
     "rented": 0,
     "cancelled": 0,
-    "copyright": "Copyright Bostadsregistret AB",
-    "timeWhenLandlordMaySeeApplicants": 1628028000
+    "published": 13,
+    "copyright": "Copyright Bostadsregistret AB"
   },
   {
     "id": 8373,
@@ -620,14 +606,13 @@
     "adText": "Lägenhet om 1rok i Nässjö, Åker. Lägenheten har nyrenoverat badrum.\n@bostadsregistret #bostadsregistret",
     "statusText": "Published",
     "statusCode": 1,
-    "hidden": false,
-    "comments": "",
     "mayManageApplicants": true,
-    "registerIdSelectedByLandlord": 0,
+    "timeWhenLandlordMaySeeApplicants": 1627941600,
+    "hidden": false,
     "rented": 0,
     "cancelled": 0,
-    "copyright": "Copyright Bostadsregistret AB",
-    "timeWhenLandlordMaySeeApplicants": 1627941600
+    "published": 14,
+    "copyright": "Copyright Bostadsregistret AB"
   },
   {
     "id": 8372,
@@ -662,14 +647,13 @@
     "adText": "Lägenhet om 3rok på 76kvm i Nässjö. Lägenheten har egen uteplats.\n@bostadsregistret #bostadsregistret",
     "statusText": "Published",
     "statusCode": 1,
-    "hidden": false,
-    "comments": "",
     "mayManageApplicants": true,
-    "registerIdSelectedByLandlord": 0,
+    "timeWhenLandlordMaySeeApplicants": 1627941600,
+    "hidden": false,
     "rented": 0,
     "cancelled": 0,
-    "copyright": "Copyright Bostadsregistret AB",
-    "timeWhenLandlordMaySeeApplicants": 1627941600
+    "published": 14,
+    "copyright": "Copyright Bostadsregistret AB"
   },
   {
     "id": 8356,
@@ -704,14 +688,13 @@
     "adText": "Lägenhet om 3rok i Nässjö, Åker. Balkong. Parkering finns att hyra för 100:-/månad. Lägenheten renoverades för ca 1,5 år sedan och är i gott skick. \n@bostadsregistret #bostadsregistret",
     "statusText": "Published",
     "statusCode": 1,
-    "hidden": false,
-    "comments": "",
     "mayManageApplicants": true,
-    "registerIdSelectedByLandlord": 0,
+    "timeWhenLandlordMaySeeApplicants": 1627336800,
+    "hidden": false,
     "rented": 0,
     "cancelled": 0,
-    "copyright": "Copyright Bostadsregistret AB",
-    "timeWhenLandlordMaySeeApplicants": 1627336800
+    "published": 21,
+    "copyright": "Copyright Bostadsregistret AB"
   },
   {
     "id": 8352,
@@ -746,14 +729,13 @@
     "adText": "Lägenhet om 1rok i Jönköping/Huskvarna. Lägenheten är belägen på 3e våningen.\n@bostadsregistret #bostadsregistret",
     "statusText": "Published",
     "statusCode": 1,
-    "hidden": false,
-    "comments": "",
     "mayManageApplicants": true,
-    "registerIdSelectedByLandlord": 0,
+    "timeWhenLandlordMaySeeApplicants": 1627250400,
+    "hidden": false,
     "rented": 0,
     "cancelled": 0,
-    "copyright": "Copyright Bostadsregistret AB",
-    "timeWhenLandlordMaySeeApplicants": 1627250400
+    "published": 22,
+    "copyright": "Copyright Bostadsregistret AB"
   },
   {
     "id": 8345,
@@ -788,14 +770,13 @@
     "adText": "Lägenhet om 2rok i Nässjö. Lägenheten ligger på andra våningen. \n@bostadsregistret #bostadsregistret",
     "statusText": "Published",
     "statusCode": 1,
-    "hidden": false,
-    "comments": "",
     "mayManageApplicants": true,
-    "registerIdSelectedByLandlord": 0,
+    "timeWhenLandlordMaySeeApplicants": 1626472800,
+    "hidden": false,
     "rented": 0,
     "cancelled": 0,
-    "copyright": "Copyright Bostadsregistret AB",
-    "timeWhenLandlordMaySeeApplicants": 1626472800
+    "published": 31,
+    "copyright": "Copyright Bostadsregistret AB"
   },
   {
     "id": 8318,
@@ -830,14 +811,13 @@
     "adText": "Nyrenoverad lägenhet om 4rok i Nässjö Centrum med balkong. \n@bostadsregistret #bostadsregistret ",
     "statusText": "Published",
     "statusCode": 1,
-    "hidden": false,
-    "comments": "",
     "mayManageApplicants": true,
-    "registerIdSelectedByLandlord": 0,
+    "timeWhenLandlordMaySeeApplicants": 1625868000,
+    "hidden": false,
     "rented": 0,
     "cancelled": 0,
-    "copyright": "Copyright Bostadsregistret AB",
-    "timeWhenLandlordMaySeeApplicants": 1625868000
+    "published": 38,
+    "copyright": "Copyright Bostadsregistret AB"
   },
   {
     "id": 8310,
@@ -872,14 +852,13 @@
     "adText": "Lägenhet om 3rok i Nässjö, Handskeryd. Balkong. Fin lägenhet i lugn och stabil fastighet med god service och möjlighet till parkering utanför. ",
     "statusText": "Published",
     "statusCode": 1,
-    "hidden": false,
-    "comments": "",
     "mayManageApplicants": true,
-    "registerIdSelectedByLandlord": 0,
+    "timeWhenLandlordMaySeeApplicants": 1625522400,
+    "hidden": false,
     "rented": 0,
     "cancelled": 0,
-    "copyright": "Copyright Bostadsregistret AB",
-    "timeWhenLandlordMaySeeApplicants": 1625522400
+    "published": 42,
+    "copyright": "Copyright Bostadsregistret AB"
   },
   {
     "id": 8308,
@@ -914,14 +893,13 @@
     "adText": "Hyresrätt/Hus om 8rok i Äng, mellan Jönköping och Nässjö. Ett stort hus med högt till tak kakelugnar garage uthus balkongen uterum och stor trädgård. Nära Jönköping, Forserum och Nässjö. @bostadsregistret #bostadsregistret ",
     "statusText": "Published",
     "statusCode": 1,
-    "hidden": false,
-    "comments": "",
     "mayManageApplicants": true,
-    "registerIdSelectedByLandlord": 0,
+    "timeWhenLandlordMaySeeApplicants": 1625436000,
+    "hidden": false,
     "rented": 0,
     "cancelled": 0,
-    "copyright": "Copyright Bostadsregistret AB",
-    "timeWhenLandlordMaySeeApplicants": 1625436000
+    "published": 43,
+    "copyright": "Copyright Bostadsregistret AB"
   },
   {
     "id": 8300,
@@ -956,14 +934,13 @@
     "adText": "Lägenhet om 3rok i Centrala Nässjö. \tTillträde kan ev. ske tidigare enligt ök. Parkeringsplats finns 215 kr/mån. @bostadsregistret #bostadsregistret ",
     "statusText": "Published",
     "statusCode": 1,
-    "hidden": false,
-    "comments": "",
     "mayManageApplicants": true,
-    "registerIdSelectedByLandlord": 0,
+    "timeWhenLandlordMaySeeApplicants": 1625436000,
+    "hidden": false,
     "rented": 0,
     "cancelled": 0,
-    "copyright": "Copyright Bostadsregistret AB",
-    "timeWhenLandlordMaySeeApplicants": 1625436000
+    "published": 43,
+    "copyright": "Copyright Bostadsregistret AB"
   },
   {
     "id": 8299,
@@ -998,14 +975,13 @@
     "adText": "Lägenhet om 2rok i Malmbäck, Nässjö kommun. Renoverad lägenhet uthyres i Malmbäck. 2rok 59m2 med balkong. Långt område. Gemensam tvättstuga. Vindsförråd. @bostadsregistret #bostadsregistret ",
     "statusText": "Published",
     "statusCode": 1,
-    "hidden": false,
-    "comments": "",
     "mayManageApplicants": true,
-    "registerIdSelectedByLandlord": 0,
+    "timeWhenLandlordMaySeeApplicants": 1625436000,
+    "hidden": false,
     "rented": 0,
     "cancelled": 0,
-    "copyright": "Copyright Bostadsregistret AB",
-    "timeWhenLandlordMaySeeApplicants": 1625436000
+    "published": 43,
+    "copyright": "Copyright Bostadsregistret AB"
   },
   {
     "id": 8298,
@@ -1040,14 +1016,13 @@
     "adText": "Lägenhet om 3rok i Malmbäck, Nässjö kommun. Lägenhet mitt I centrum ca 50m till Ica, buss, tåg, lekplats. Balkong ut mot torget. Gemensam tvättstuga. Nytt kök hösten 2019. @bostadsregistret #bostadsregistret ",
     "statusText": "Published",
     "statusCode": 1,
-    "hidden": false,
-    "comments": "",
     "mayManageApplicants": true,
-    "registerIdSelectedByLandlord": 0,
+    "timeWhenLandlordMaySeeApplicants": 1625436000,
+    "hidden": false,
     "rented": 0,
     "cancelled": 0,
-    "copyright": "Copyright Bostadsregistret AB",
-    "timeWhenLandlordMaySeeApplicants": 1625436000
+    "published": 43,
+    "copyright": "Copyright Bostadsregistret AB"
   },
   {
     "id": 8293,
@@ -1082,14 +1057,13 @@
     "adText": "Lägenhet om 2rok i Jönköping Centrum. Rymlig och fräsch 2:a. I hyran ingår värme, varm- och kallvatten, Kanalpaket Lagom Telia, Telia internet 100/10 mbit/s. Tryck på fler bilder nedan för planritning och fler interiörbilder. @bostadsregistret #bostadsregistret ",
     "statusText": "Published",
     "statusCode": 1,
-    "hidden": false,
-    "comments": "",
     "mayManageApplicants": true,
-    "registerIdSelectedByLandlord": 0,
+    "timeWhenLandlordMaySeeApplicants": 1624917600,
+    "hidden": false,
     "rented": 0,
     "cancelled": 0,
-    "copyright": "Copyright Bostadsregistret AB",
-    "timeWhenLandlordMaySeeApplicants": 1624917600
+    "published": 49,
+    "copyright": "Copyright Bostadsregistret AB"
   },
   {
     "id": 8288,
@@ -1124,14 +1098,13 @@
     "adText": "Lägenhet om 2rok i Nässjö Centrum. @bostadsregistret #bostadsregistret ",
     "statusText": "Published",
     "statusCode": 1,
-    "hidden": false,
-    "comments": "",
     "mayManageApplicants": true,
-    "registerIdSelectedByLandlord": 0,
+    "timeWhenLandlordMaySeeApplicants": 1625263200,
+    "hidden": false,
     "rented": 0,
     "cancelled": 0,
-    "copyright": "Copyright Bostadsregistret AB",
-    "timeWhenLandlordMaySeeApplicants": 1625263200
+    "published": 45,
+    "copyright": "Copyright Bostadsregistret AB"
   },
   {
     "id": 8280,
@@ -1166,14 +1139,13 @@
     "adText": "Lägenhet om 3rok i Centrala Nässjö. Balkong. En ljus och trevlig 3ROK blir ledig 1 oktober, centralt i Nässjö. Bara någon minut gångväg till tågstationen. Bra förvaringsmöjligheter inne i lägenheten och även förråd i källare. Det är ett Tele2 hus där 12 tv-kanaler ingår i hyran. Möjlighet till garageplats finns. @bostadsregistret #bostadsregistret ",
     "statusText": "Published",
     "statusCode": 1,
-    "hidden": false,
-    "comments": "",
     "mayManageApplicants": true,
-    "registerIdSelectedByLandlord": 0,
+    "timeWhenLandlordMaySeeApplicants": 1624917600,
+    "hidden": false,
     "rented": 0,
     "cancelled": 0,
-    "copyright": "Copyright Bostadsregistret AB",
-    "timeWhenLandlordMaySeeApplicants": 1624917600
+    "published": 49,
+    "copyright": "Copyright Bostadsregistret AB"
   },
   {
     "id": 8275,
@@ -1208,14 +1180,13 @@
     "adText": "Lägenhet om 3rok i Skillingaryd, Vaggeryds kommun. Balkong. Nytt och fräscht. Pendlingsavstånd till Jönköping, Vaggeryd, Värnamo, Gnosjö, Gislaved och Sävsjö. @bostadsregistret #bostadsregistret ",
     "statusText": "Published",
     "statusCode": 1,
-    "hidden": false,
-    "comments": "",
     "mayManageApplicants": true,
-    "registerIdSelectedByLandlord": 0,
+    "timeWhenLandlordMaySeeApplicants": 1624744800,
+    "hidden": false,
     "rented": 0,
     "cancelled": 0,
-    "copyright": "Copyright Bostadsregistret AB",
-    "timeWhenLandlordMaySeeApplicants": 1624744800
+    "published": 51,
+    "copyright": "Copyright Bostadsregistret AB"
   },
   {
     "id": 8257,
@@ -1250,14 +1221,13 @@
     "adText": "Lägenhet om 1rokv i Nässjö, Nyhem. Delad dusch och toalett. @bostadsregistret #bostadsregistret ",
     "statusText": "Published",
     "statusCode": 1,
-    "hidden": false,
-    "comments": "",
     "mayManageApplicants": true,
-    "registerIdSelectedByLandlord": 0,
+    "timeWhenLandlordMaySeeApplicants": 1624226400,
+    "hidden": false,
     "rented": 0,
     "cancelled": 0,
-    "copyright": "Copyright Bostadsregistret AB",
-    "timeWhenLandlordMaySeeApplicants": 1624226400
+    "published": 57,
+    "copyright": "Copyright Bostadsregistret AB"
   },
   {
     "id": 8217,
@@ -1292,14 +1262,13 @@
     "adText": "Lägenhet om 3rok i Malmbäck, Nässjö kommun. Balkong. Ledig from 1Sep. Gemensam tvättstuga I källaren. Fiber finns. @bostadsregistret #bostadsregistret ",
     "statusText": "Published",
     "statusCode": 1,
-    "hidden": false,
-    "comments": "",
     "mayManageApplicants": true,
-    "registerIdSelectedByLandlord": 0,
+    "timeWhenLandlordMaySeeApplicants": 1623016800,
+    "hidden": false,
     "rented": 0,
     "cancelled": 0,
-    "copyright": "Copyright Bostadsregistret AB",
-    "timeWhenLandlordMaySeeApplicants": 1623016800
+    "published": 71,
+    "copyright": "Copyright Bostadsregistret AB"
   },
   {
     "id": 8209,
@@ -1334,14 +1303,13 @@
     "adText": "Lägenhet om 2rok i Skillingaryd, Vaggeryds kommun. Fint och nytt. Pendlingsavstånd till Jönköping, Vaggeryd, Värnamo och Sävsjö. @bostadsregistret #bostadsregistret ",
     "statusText": "Published",
     "statusCode": 1,
-    "hidden": false,
-    "comments": "",
     "mayManageApplicants": true,
-    "registerIdSelectedByLandlord": 0,
+    "timeWhenLandlordMaySeeApplicants": 1622930400,
+    "hidden": false,
     "rented": 0,
     "cancelled": 0,
-    "copyright": "Copyright Bostadsregistret AB",
-    "timeWhenLandlordMaySeeApplicants": 1622930400
+    "published": 72,
+    "copyright": "Copyright Bostadsregistret AB"
   },
   {
     "id": 8207,
@@ -1376,14 +1344,13 @@
     "adText": "Lägenhet om 1rok i Skillingaryd, Vaggeryds kommun. Ny fin bostad. Pendlingsavstånd till Vaggeryd, Jönköping och Värnamo. @bostadsregistret #bostadsregistret ",
     "statusText": "Published",
     "statusCode": 1,
-    "hidden": false,
-    "comments": "",
     "mayManageApplicants": true,
-    "registerIdSelectedByLandlord": 0,
+    "timeWhenLandlordMaySeeApplicants": 1622844000,
+    "hidden": false,
     "rented": 0,
     "cancelled": 0,
-    "copyright": "Copyright Bostadsregistret AB",
-    "timeWhenLandlordMaySeeApplicants": 1622844000
+    "published": 73,
+    "copyright": "Copyright Bostadsregistret AB"
   },
   {
     "id": 8195,
@@ -1418,14 +1385,13 @@
     "adText": "Lägenhet om 3rok i Jönköping Centrum. Balkong. Mitt i stan hittar ni denna stora 3:a med närhet till det mesta. @bostadsregistret #bostadsregistret ",
     "statusText": "Published",
     "statusCode": 1,
-    "hidden": false,
-    "comments": "",
     "mayManageApplicants": true,
-    "registerIdSelectedByLandlord": 0,
+    "timeWhenLandlordMaySeeApplicants": 1622498400,
+    "hidden": false,
     "rented": 0,
     "cancelled": 0,
-    "copyright": "Copyright Bostadsregistret AB",
-    "timeWhenLandlordMaySeeApplicants": 1622498400
+    "published": 77,
+    "copyright": "Copyright Bostadsregistret AB"
   },
   {
     "id": 8138,
@@ -1460,14 +1426,13 @@
     "adText": "Lägenhet om 1rok i Malmbäck, Nässjö kommun. 1rok 42m2 uthyres i Malmbäck. Gemensam tvättstuga I källaren. Värme och vatten ingår. Fiber är installerat. @bostadsregistret #bostadsregistret ",
     "statusText": "Published",
     "statusCode": 1,
-    "hidden": false,
-    "comments": "",
     "mayManageApplicants": true,
-    "registerIdSelectedByLandlord": 0,
+    "timeWhenLandlordMaySeeApplicants": 1621029600,
+    "hidden": false,
     "rented": 0,
     "cancelled": 0,
-    "copyright": "Copyright Bostadsregistret AB",
-    "timeWhenLandlordMaySeeApplicants": 1621029600
+    "published": 94,
+    "copyright": "Copyright Bostadsregistret AB"
   },
   {
     "id": 8135,
@@ -1502,14 +1467,13 @@
     "adText": "Lägenhet om 2rok i Jönköping, Torpa. Balkong. Hiss. Nydligen renoverad. @bostadsregistret #bostadsregistret ",
     "statusText": "Published",
     "statusCode": 1,
-    "hidden": false,
-    "comments": "",
     "mayManageApplicants": true,
-    "registerIdSelectedByLandlord": 0,
+    "timeWhenLandlordMaySeeApplicants": 1620770400,
+    "hidden": false,
     "rented": 0,
     "cancelled": 0,
-    "copyright": "Copyright Bostadsregistret AB",
-    "timeWhenLandlordMaySeeApplicants": 1620770400
+    "published": 97,
+    "copyright": "Copyright Bostadsregistret AB"
   },
   {
     "id": 8111,
@@ -1544,14 +1508,13 @@
     "adText": "Lägenhet om 4rok i Nässjö Centrum. Balkong. Hiss. Mitt i Centrum. Bra läge vid tåg/buss. @bostadsregistret #bostadsregistret ",
     "statusText": "Published",
     "statusCode": 1,
-    "hidden": false,
-    "comments": "",
     "mayManageApplicants": true,
-    "registerIdSelectedByLandlord": 0,
+    "timeWhenLandlordMaySeeApplicants": 1620597600,
+    "hidden": false,
     "rented": 0,
     "cancelled": 0,
-    "copyright": "Copyright Bostadsregistret AB",
-    "timeWhenLandlordMaySeeApplicants": 1620597600
+    "published": 99,
+    "copyright": "Copyright Bostadsregistret AB"
   },
   {
     "id": 8079,
@@ -1586,14 +1549,13 @@
     "adText": "Lägenhet om 1rok i Skillingaryd, Vaggeryds kommun. Pendlingsavstånd till Värnamo och Jönköping. @bostadsregistret #bostadsregistret ",
     "statusText": "Published",
     "statusCode": 1,
-    "hidden": false,
-    "comments": "",
     "mayManageApplicants": true,
-    "registerIdSelectedByLandlord": 0,
+    "timeWhenLandlordMaySeeApplicants": 1619906400,
+    "hidden": false,
     "rented": 0,
     "cancelled": 0,
-    "copyright": "Copyright Bostadsregistret AB",
-    "timeWhenLandlordMaySeeApplicants": 1619906400
+    "published": 107,
+    "copyright": "Copyright Bostadsregistret AB"
   },
   {
     "id": 8007,
@@ -1628,14 +1590,13 @@
     "adText": "Lägenhet om 1rok i Huskvarna, Jönköping. Trevlig etta med mindre köksdel. @bostadsregistret #bostadsregistret ",
     "statusText": "Published",
     "statusCode": 1,
-    "hidden": false,
-    "comments": "",
     "mayManageApplicants": true,
-    "registerIdSelectedByLandlord": 0,
+    "timeWhenLandlordMaySeeApplicants": 1618092000,
+    "hidden": false,
     "rented": 0,
     "cancelled": 0,
-    "copyright": "Copyright Bostadsregistret AB",
-    "timeWhenLandlordMaySeeApplicants": 1618092000
+    "published": 128,
+    "copyright": "Copyright Bostadsregistret AB"
   },
   {
     "id": 8009,
@@ -1670,14 +1631,13 @@
     "adText": "Lägenhet/Radhus om 4rok i Nässjö, Åker. Nybyggt radhus på SNICKAREN på 94 m2 4 ROK med 7 m2 inglasat uterum samt liten täppa utanför. Detta är ett mellanradhus. @bostadsregistret #bostadsregistret ",
     "statusText": "Published",
     "statusCode": 1,
-    "hidden": false,
-    "comments": "",
     "mayManageApplicants": true,
-    "registerIdSelectedByLandlord": 0,
+    "timeWhenLandlordMaySeeApplicants": 1618092000,
+    "hidden": false,
     "rented": 0,
     "cancelled": 0,
-    "copyright": "Copyright Bostadsregistret AB",
-    "timeWhenLandlordMaySeeApplicants": 1618092000
+    "published": 128,
+    "copyright": "Copyright Bostadsregistret AB"
   },
   {
     "id": 7982,
@@ -1712,14 +1672,13 @@
     "adText": "Lägenhet om 4rok i Nässjö, Handskeryd. Balkong. Hiss. Bilderna är exempelbilder. @bostadsregistret #bostadsregistret ",
     "statusText": "Published",
     "statusCode": 1,
-    "hidden": false,
-    "comments": "",
     "mayManageApplicants": true,
-    "registerIdSelectedByLandlord": 0,
+    "timeWhenLandlordMaySeeApplicants": 1617487200,
+    "hidden": false,
     "rented": 0,
     "cancelled": 0,
-    "copyright": "Copyright Bostadsregistret AB",
-    "timeWhenLandlordMaySeeApplicants": 1617487200
+    "published": 135,
+    "copyright": "Copyright Bostadsregistret AB"
   },
   {
     "id": 7981,
@@ -1754,14 +1713,13 @@
     "adText": "Lägenhet om 2rok  i Nässjö, Handskeryd. Balkong. Hiss. Bilderna är exempelbilder. @bostadsregistret #bostadsregistret ",
     "statusText": "Published",
     "statusCode": 1,
-    "hidden": false,
-    "comments": "",
     "mayManageApplicants": true,
-    "registerIdSelectedByLandlord": 0,
+    "timeWhenLandlordMaySeeApplicants": 1617487200,
+    "hidden": false,
     "rented": 0,
     "cancelled": 0,
-    "copyright": "Copyright Bostadsregistret AB",
-    "timeWhenLandlordMaySeeApplicants": 1617487200
+    "published": 135,
+    "copyright": "Copyright Bostadsregistret AB"
   },
   {
     "id": 7980,
@@ -1796,14 +1754,13 @@
     "adText": "Lägenhet om 3rok i Nässjö, Handskeryd. Balkong. Hiss. Bilderna är exempelbilder. @bostadsregistret #bostadsregistret ",
     "statusText": "Published",
     "statusCode": 1,
-    "hidden": false,
-    "comments": "",
     "mayManageApplicants": true,
-    "registerIdSelectedByLandlord": 0,
+    "timeWhenLandlordMaySeeApplicants": 1617487200,
+    "hidden": false,
     "rented": 0,
     "cancelled": 0,
-    "copyright": "Copyright Bostadsregistret AB",
-    "timeWhenLandlordMaySeeApplicants": 1617487200
+    "published": 135,
+    "copyright": "Copyright Bostadsregistret AB"
   },
   {
     "id": 7946,
@@ -1838,14 +1795,13 @@
     "adText": "Hyresrätt/Studentrum i Centrala Jönköping. Hyresgästen delar kök, wc och duschar med övriga 9 studenter/hyresgäster. Internet via Junet ingår samt kabel-tv via ComHem. @bostadsregistret #bostadsregistret ",
     "statusText": "Published",
     "statusCode": 1,
-    "hidden": false,
-    "comments": "",
     "mayManageApplicants": true,
-    "registerIdSelectedByLandlord": 0,
+    "timeWhenLandlordMaySeeApplicants": 1616281200,
+    "hidden": false,
     "rented": 0,
     "cancelled": 0,
-    "copyright": "Copyright Bostadsregistret AB",
-    "timeWhenLandlordMaySeeApplicants": 1616281200
+    "published": 149,
+    "copyright": "Copyright Bostadsregistret AB"
   },
   {
     "id": 7937,
@@ -1880,14 +1836,13 @@
     "adText": "Lägenhet/Studentrum i Jönköping, Bäckalyckan. Gemensamt kök, gemensam WC/dusch, gemensam tvättstuga. Lägenheten delas med två andra hyresgäster. @bostadsregistret #bostadsregistret ",
     "statusText": "Published",
     "statusCode": 1,
-    "hidden": false,
-    "comments": "",
     "mayManageApplicants": true,
-    "registerIdSelectedByLandlord": 0,
+    "timeWhenLandlordMaySeeApplicants": 1616194800,
+    "hidden": false,
     "rented": 0,
     "cancelled": 0,
-    "copyright": "Copyright Bostadsregistret AB",
-    "timeWhenLandlordMaySeeApplicants": 1616194800
+    "published": 150,
+    "copyright": "Copyright Bostadsregistret AB"
   },
   {
     "id": 7909,
@@ -1922,14 +1877,13 @@
     "adText": "Lägenhet om 2rok i Skillingaryd, Vaggeryds kommun.  Pendlingsavstånd till Jönköping, Värnamo, Vaggeryd och Sävsjö. @bostadsregistret #bostadsregistret ",
     "statusText": "Published",
     "statusCode": 1,
-    "hidden": false,
-    "comments": "",
     "mayManageApplicants": true,
-    "registerIdSelectedByLandlord": 0,
+    "timeWhenLandlordMaySeeApplicants": 1615676400,
+    "hidden": false,
     "rented": 0,
     "cancelled": 0,
-    "copyright": "Copyright Bostadsregistret AB",
-    "timeWhenLandlordMaySeeApplicants": 1615676400
+    "published": 156,
+    "copyright": "Copyright Bostadsregistret AB"
   },
   {
     "id": 7906,
@@ -1964,14 +1918,13 @@
     "adText": "Lägenhet om 2rok i Malmbäck, Nässjö kommun. 2rok uthyres i Centrala Malmbäck. Balkong ut mot torget ca 50m till affär, 50m till busshållplats, ca 50m till tågstation. Gemensam tvättstuga. Egen elpanna i varje lägenhet. @bostadsregistret #bostadsregistret ",
     "statusText": "Published",
     "statusCode": 1,
-    "hidden": false,
-    "comments": "",
     "mayManageApplicants": true,
-    "registerIdSelectedByLandlord": 0,
+    "timeWhenLandlordMaySeeApplicants": 1615676400,
+    "hidden": false,
     "rented": 0,
     "cancelled": 0,
-    "copyright": "Copyright Bostadsregistret AB",
-    "timeWhenLandlordMaySeeApplicants": 1615676400
+    "published": 156,
+    "copyright": "Copyright Bostadsregistret AB"
   },
   {
     "id": 7563,
@@ -2006,14 +1959,13 @@
     "adText": "Lägenhet om 2rok i Nässjö, Nyhem. Trevlig lägenhet på 2:a våningen. Hushållsel tillkommer. @bostadsregistret #bostadsregistret ",
     "statusText": "Published",
     "statusCode": 1,
-    "hidden": false,
-    "comments": "",
     "mayManageApplicants": true,
-    "registerIdSelectedByLandlord": 0,
+    "timeWhenLandlordMaySeeApplicants": 1606604400,
+    "hidden": false,
     "rented": 0,
     "cancelled": 0,
-    "copyright": "Copyright Bostadsregistret AB",
-    "timeWhenLandlordMaySeeApplicants": 1606604400
+    "published": 261,
+    "copyright": "Copyright Bostadsregistret AB"
   },
   {
     "id": 7048,
@@ -2048,14 +2000,13 @@
     "adText": "Lägenhet om 2rok i Nässjö Centrum. Bo Tryggt och Bekvämt mitt i stan. Hög standard med tvättmaskin/torktumlare, diskmaskin och fiber.. Tillgång till samlingslokal, bastu och övernattningslägenhet. Nära till allt även tåg och buss. @bostadsregistret #bostadsregistret ",
     "statusText": "Published",
     "statusCode": 1,
-    "hidden": false,
-    "comments": "",
     "mayManageApplicants": true,
-    "registerIdSelectedByLandlord": 0,
+    "timeWhenLandlordMaySeeApplicants": 1596578400,
+    "hidden": false,
     "rented": 0,
     "cancelled": 0,
-    "copyright": "Copyright Bostadsregistret AB",
-    "timeWhenLandlordMaySeeApplicants": 1596578400
+    "published": 378,
+    "copyright": "Copyright Bostadsregistret AB"
   },
   {
     "id": 6798,
@@ -2090,14 +2041,13 @@
     "adText": "Lägenhet om 3rok i Gränna, Jönköpings kommun. @bostadsregistret #bostadsregistret ",
     "statusText": "Published",
     "statusCode": 1,
-    "hidden": false,
-    "comments": "",
     "mayManageApplicants": true,
-    "registerIdSelectedByLandlord": 0,
+    "timeWhenLandlordMaySeeApplicants": 1590616800,
+    "hidden": false,
     "rented": 0,
     "cancelled": 0,
-    "copyright": "Copyright Bostadsregistret AB",
-    "timeWhenLandlordMaySeeApplicants": 1590616800
+    "published": 446,
+    "copyright": "Copyright Bostadsregistret AB"
   },
   {
     "id": 6537,
@@ -2132,14 +2082,13 @@
     "adText": "Lägenhet om 2rok i Huskvarna, Jönköping. Vätterutsikt. @bostadsregistret #bostadsregistret ",
     "statusText": "Published",
     "statusCode": 1,
-    "hidden": false,
-    "comments": "",
     "mayManageApplicants": true,
-    "registerIdSelectedByLandlord": 0,
+    "timeWhenLandlordMaySeeApplicants": 1584399600,
+    "hidden": false,
     "rented": 0,
     "cancelled": 0,
-    "copyright": "Copyright Bostadsregistret AB",
-    "timeWhenLandlordMaySeeApplicants": 1584399600
+    "published": 518,
+    "copyright": "Copyright Bostadsregistret AB"
   },
   {
     "id": 5391,
@@ -2174,13 +2123,12 @@
     "adText": "Lägenhet om 3rok i Nässjö, Åker. Lägenhet i fint skick och på bottenvåning med öppen spis i vardagsrummet i en stor villa med ca 950m2 trädgård. Stor balkong med tak. Diskmaskin, tvättmaskin och torktumlare. 1 parkeringsplats ingår. Ca 5 minuter ifrån centrum med bil.",
     "statusText": "Published",
     "statusCode": 1,
-    "hidden": false,
-    "comments": "",
     "mayManageApplicants": true,
-    "registerIdSelectedByLandlord": 0,
+    "timeWhenLandlordMaySeeApplicants": 1555279200,
+    "hidden": false,
     "rented": 0,
     "cancelled": 0,
-    "copyright": "Copyright Bostadsregistret AB",
-    "timeWhenLandlordMaySeeApplicants": 1555279200
+    "published": 855,
+    "copyright": "Copyright Bostadsregistret AB"
   }
 ]
