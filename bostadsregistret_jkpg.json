@@ -37,7 +37,7 @@
     "hidden": false,
     "rented": 0,
     "cancelled": 0,
-    "published": 0,
+    "published": 1,
     "copyright": "Copyright Bostadsregistret AB"
   },
   {
@@ -980,7 +980,7 @@
     "hidden": false,
     "rented": 0,
     "cancelled": 0,
-    "published": 44,
+    "published": 45,
     "copyright": "Copyright Bostadsregistret AB"
   },
   {
@@ -1431,7 +1431,7 @@
     "hidden": false,
     "rented": 0,
     "cancelled": 0,
-    "published": 78,
+    "published": 79,
     "copyright": "Copyright Bostadsregistret AB"
   },
   {
