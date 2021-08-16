@@ -196,7 +196,7 @@
     "adText": "Lägenhet om 1rok i Nässjö/Forserum. \n@bostadsregistret #bostadsregistret",
     "statusText": "Published",
     "statusCode": 1,
-    "mayManageApplicants": false,
+    "mayManageApplicants": true,
     "timeWhenLandlordMaySeeApplicants": 1629151200,
     "hidden": false,
     "rented": 0,
@@ -237,7 +237,7 @@
     "adText": "Lägenhet om 3rok i Nässjö/Forserum. \n@bostadsregistret #bostadsregistret",
     "statusText": "Published",
     "statusCode": 1,
-    "mayManageApplicants": false,
+    "mayManageApplicants": true,
     "timeWhenLandlordMaySeeApplicants": 1629151200,
     "hidden": false,
     "rented": 0,
@@ -278,7 +278,7 @@
     "adText": "Nymålad lägenhet med totalrenoverat badrum och kök om 2rok i Nässjö/Forserum.\n@bostadsregistret #bostadsregistret",
     "statusText": "Published",
     "statusCode": 1,
-    "mayManageApplicants": false,
+    "mayManageApplicants": true,
     "timeWhenLandlordMaySeeApplicants": 1629151200,
     "hidden": false,
     "rented": 0,
@@ -1472,7 +1472,7 @@
     "hidden": false,
     "rented": 0,
     "cancelled": 0,
-    "published": 77,
+    "published": 78,
     "copyright": "Copyright Bostadsregistret AB"
   },
   {
@@ -1554,7 +1554,7 @@
     "hidden": false,
     "rented": 0,
     "cancelled": 0,
-    "published": 98,
+    "published": 99,
     "copyright": "Copyright Bostadsregistret AB"
   },
   {
@@ -1636,7 +1636,7 @@
     "hidden": false,
     "rented": 0,
     "cancelled": 0,
-    "published": 103,
+    "published": 104,
     "copyright": "Copyright Bostadsregistret AB"
   },
   {
