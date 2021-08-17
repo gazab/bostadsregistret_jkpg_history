@@ -237,7 +237,7 @@
     "adText": "Lägenhet om 1rok i Nässjö/Åker. Lägenheten har balkong och är belägen på 3e våningen. \n@bostadsregistret #bostadsregistret",
     "statusText": "Published",
     "statusCode": 1,
-    "mayManageApplicants": false,
+    "mayManageApplicants": true,
     "timeWhenLandlordMaySeeApplicants": 1629237600,
     "hidden": false,
     "rented": 0,
@@ -1554,7 +1554,7 @@
     "hidden": false,
     "rented": 0,
     "cancelled": 0,
-    "published": 78,
+    "published": 79,
     "copyright": "Copyright Bostadsregistret AB"
   },
   {
@@ -1636,7 +1636,7 @@
     "hidden": false,
     "rented": 0,
     "cancelled": 0,
-    "published": 99,
+    "published": 100,
     "copyright": "Copyright Bostadsregistret AB"
   },
   {
@@ -1718,7 +1718,7 @@
     "hidden": false,
     "rented": 0,
     "cancelled": 0,
-    "published": 104,
+    "published": 105,
     "copyright": "Copyright Bostadsregistret AB"
   },
   {
