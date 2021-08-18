@@ -222,7 +222,7 @@
     "rent": 3693,
     "warm": 2,
     "elevator": false,
-    "balcony": true,
+    "balcony": false,
     "floor1Sub": false,
     "floor1Ground": false,
     "floor1Stairs": false,
