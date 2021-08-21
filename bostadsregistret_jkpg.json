@@ -360,7 +360,7 @@
     "adText": "Lägenhet om 3rok i Nässjö/Handskeryd. Lägenheten ligger i en välskött fastighet och har egen balkong. \n@bostadsregistret #bostadsregistret",
     "statusText": "Published",
     "statusCode": 1,
-    "mayManageApplicants": false,
+    "mayManageApplicants": true,
     "timeWhenLandlordMaySeeApplicants": 1629583200,
     "hidden": false,
     "rented": 0,
@@ -1759,7 +1759,7 @@
     "hidden": false,
     "rented": 0,
     "cancelled": 0,
-    "published": 103,
+    "published": 104,
     "copyright": "Copyright Bostadsregistret AB"
   },
   {
@@ -1841,7 +1841,7 @@
     "hidden": false,
     "rented": 0,
     "cancelled": 0,
-    "published": 108,
+    "published": 109,
     "copyright": "Copyright Bostadsregistret AB"
   },
   {
