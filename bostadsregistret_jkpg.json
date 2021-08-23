@@ -278,7 +278,7 @@
     "adText": "Lägenhet om 2rok i Jönköping Centrum. Balkong. En lägenhet belägen mitt i Östra Centrum. I hyran ingår värme, varm- och kallvatten. Hiss saknas.  @bostadsregistret #bostadsregistret ",
     "statusText": "Published",
     "statusCode": 1,
-    "mayManageApplicants": false,
+    "mayManageApplicants": true,
     "timeWhenLandlordMaySeeApplicants": 1629756000,
     "hidden": false,
     "rented": 0,
@@ -1677,7 +1677,7 @@
     "hidden": false,
     "rented": 0,
     "cancelled": 0,
-    "published": 84,
+    "published": 85,
     "copyright": "Copyright Bostadsregistret AB"
   },
   {
@@ -1800,7 +1800,7 @@
     "hidden": false,
     "rented": 0,
     "cancelled": 0,
-    "published": 110,
+    "published": 111,
     "copyright": "Copyright Bostadsregistret AB"
   },
   {
