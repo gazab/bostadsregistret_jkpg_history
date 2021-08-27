@@ -319,7 +319,7 @@
     "adText": "Lägenhet om 1rok i centrala Nässjö. \n@bostadsregistret #bostadsregistret",
     "statusText": "Published",
     "statusCode": 1,
-    "mayManageApplicants": false,
+    "mayManageApplicants": true,
     "timeWhenLandlordMaySeeApplicants": 1630101600,
     "hidden": false,
     "rented": 0,
@@ -360,7 +360,7 @@
     "adText": "Ljus och fin Lägenhet uthyres I Malmbäck from 1/10 1rok 39m2. Gemensam tvättstuga I källaren samt förråd. Fiber finns att ansluta sig till.",
     "statusText": "Published",
     "statusCode": 1,
-    "mayManageApplicants": false,
+    "mayManageApplicants": true,
     "timeWhenLandlordMaySeeApplicants": 1630101600,
     "hidden": false,
     "rented": 0,
@@ -1964,7 +1964,7 @@
     "hidden": false,
     "rented": 0,
     "cancelled": 0,
-    "published": 114,
+    "published": 115,
     "copyright": "Copyright Bostadsregistret AB"
   },
   {
