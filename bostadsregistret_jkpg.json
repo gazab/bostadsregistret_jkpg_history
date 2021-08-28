@@ -278,7 +278,7 @@
     "adText": "Lägenhet om 1rok i Centrala Nässjö. En delvis renoverad 1ROK i centrala Nässjö med hiss, blir ledig from 1 jan. Materialen i lägenheten är genomgående hög standard. Nytt Kök med integrerad varmluftsugn, micro och diskmaskin. Badrumet har fått en översyn med ny matta och dusch. Samtlig rum har nytt parkettgolv. Hyran är preliminär då förhandling är påkallad hos Hyresgästföreningen för att sätta ny hyresnivå. @bostadsregistret #bostadsregistret ",
     "statusText": "Published",
     "statusCode": 1,
-    "mayManageApplicants": false,
+    "mayManageApplicants": true,
     "timeWhenLandlordMaySeeApplicants": 1630188000,
     "hidden": false,
     "rented": 0,
@@ -1923,7 +1923,7 @@
     "hidden": false,
     "rented": 0,
     "cancelled": 0,
-    "published": 115,
+    "published": 116,
     "copyright": "Copyright Bostadsregistret AB"
   },
   {
