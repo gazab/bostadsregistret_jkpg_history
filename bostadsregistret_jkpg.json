@@ -685,7 +685,7 @@
     "reference": "31800025",
     "postalCode": "55320",
     "otherInfo": "En lägenhet med balkong belägen mitt i Östra Centrum. I hyran ingår värme, varm- och kallvatten.\nHiss finns ej.\nMöjlighet till tillträde 1/11 finns. Angiven hyra är 2021 års hyra.",
-    "adText": "Lägenhet om 2rok i Jönköping Centrum. Balkong. En lägenhet belägen mitt i Östra Centrum. I hyran ingår värme, varm- och kallvatten. Hiss saknas.  @bostadsregistret #bostadsregistret ",
+    "adText": "En lägenhet med balkong belägen mitt i Östra Centrum. I hyran ingår värme, varm- och kallvatten. Hiss finns ej. Möjlighet till tillträde 1/11 finns. Angiven hyra är 2021 års hyra. @bostadsregistret #bostadsregistret ",
     "statusText": "Published",
     "statusCode": 1,
     "mayManageApplicants": true,
@@ -1554,7 +1554,7 @@
     "hidden": false,
     "rented": 0,
     "cancelled": 0,
-    "published": 61,
+    "published": 62,
     "copyright": "Copyright Bostadsregistret AB"
   },
   {
