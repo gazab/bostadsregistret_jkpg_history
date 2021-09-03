@@ -360,7 +360,7 @@
     "adText": "Totalrenoverad 2ROK med balkong i centrala Nässjö. Modernt kök med induktionshäll och diskmaskin.\n@bostadsregistret #bostadsregistret",
     "statusText": "Published",
     "statusCode": 1,
-    "mayManageApplicants": false,
+    "mayManageApplicants": true,
     "timeWhenLandlordMaySeeApplicants": 1630706400,
     "hidden": false,
     "rented": 0,
@@ -401,7 +401,7 @@
     "adText": "Lägenhet om 3rok i Nässjö, Handskeryd. Lägenheten har balkong.\n@bostadsregistret #bostadsregistret",
     "statusText": "Published",
     "statusCode": 1,
-    "mayManageApplicants": false,
+    "mayManageApplicants": true,
     "timeWhenLandlordMaySeeApplicants": 1630706400,
     "hidden": false,
     "rented": 0,
@@ -2005,7 +2005,7 @@
     "hidden": false,
     "rented": 0,
     "cancelled": 0,
-    "published": 95,
+    "published": 96,
     "copyright": "Copyright Bostadsregistret AB"
   },
   {
@@ -2087,7 +2087,7 @@
     "hidden": false,
     "rented": 0,
     "cancelled": 0,
-    "published": 121,
+    "published": 122,
     "copyright": "Copyright Bostadsregistret AB"
   },
   {
