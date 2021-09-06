@@ -283,7 +283,7 @@
     "hidden": false,
     "rented": 0,
     "cancelled": 0,
-    "published": 3,
+    "published": 4,
     "copyright": "Copyright Bostadsregistret AB"
   },
   {
@@ -611,7 +611,7 @@
     "hidden": false,
     "rented": 0,
     "cancelled": 0,
-    "published": 10,
+    "published": 11,
     "copyright": "Copyright Bostadsregistret AB"
   },
   {
@@ -980,7 +980,7 @@
     "hidden": false,
     "rented": 0,
     "cancelled": 0,
-    "published": 18,
+    "published": 19,
     "copyright": "Copyright Bostadsregistret AB"
   },
   {
@@ -1021,7 +1021,7 @@
     "hidden": false,
     "rented": 0,
     "cancelled": 0,
-    "published": 18,
+    "published": 19,
     "copyright": "Copyright Bostadsregistret AB"
   },
   {
@@ -1062,7 +1062,7 @@
     "hidden": false,
     "rented": 0,
     "cancelled": 0,
-    "published": 20,
+    "published": 21,
     "copyright": "Copyright Bostadsregistret AB"
   },
   {
@@ -1390,7 +1390,7 @@
     "hidden": false,
     "rented": 0,
     "cancelled": 0,
-    "published": 26,
+    "published": 27,
     "copyright": "Copyright Bostadsregistret AB"
   },
   {
@@ -1431,7 +1431,7 @@
     "hidden": false,
     "rented": 0,
     "cancelled": 0,
-    "published": 32,
+    "published": 33,
     "copyright": "Copyright Bostadsregistret AB"
   },
   {
@@ -1595,7 +1595,7 @@
     "hidden": false,
     "rented": 0,
     "cancelled": 0,
-    "published": 45,
+    "published": 46,
     "copyright": "Copyright Bostadsregistret AB"
   },
   {
@@ -2497,7 +2497,7 @@
     "hidden": false,
     "rented": 0,
     "cancelled": 0,
-    "published": 879,
+    "published": 880,
     "copyright": "Copyright Bostadsregistret AB"
   }
 ]
