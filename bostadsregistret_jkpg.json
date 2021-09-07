@@ -14,6 +14,8 @@
     "otherLength": "0",
     "area": 67,
     "rooms": 2,
+    "kitchenette": false,
+    "sovalkov": false,
     "rent": 6061,
     "warm": 2,
     "elevator": true,
@@ -37,7 +39,6 @@
     "hidden": false,
     "rented": 0,
     "cancelled": 0,
-    "published": 0,
     "copyright": "Copyright Bostadsregistret AB"
   },
   {
@@ -55,6 +56,8 @@
     "otherLength": "0",
     "area": 58,
     "rooms": 2,
+    "kitchenette": false,
+    "sovalkov": false,
     "rent": 7750,
     "warm": 2,
     "elevator": false,
@@ -78,7 +81,6 @@
     "hidden": false,
     "rented": 0,
     "cancelled": 0,
-    "published": 0,
     "copyright": "Copyright Bostadsregistret AB"
   },
   {
@@ -96,6 +98,8 @@
     "otherLength": "0",
     "area": 73,
     "rooms": 3,
+    "kitchenette": false,
+    "sovalkov": false,
     "rent": 5898,
     "warm": 2,
     "elevator": false,
@@ -119,7 +123,6 @@
     "hidden": false,
     "rented": 0,
     "cancelled": 0,
-    "published": 1,
     "copyright": "Copyright Bostadsregistret AB"
   },
   {
@@ -137,6 +140,8 @@
     "otherLength": "0",
     "area": 65,
     "rooms": 2,
+    "kitchenette": false,
+    "sovalkov": false,
     "rent": 5313,
     "warm": 2,
     "elevator": false,
@@ -160,7 +165,6 @@
     "hidden": false,
     "rented": 0,
     "cancelled": 0,
-    "published": 1,
     "copyright": "Copyright Bostadsregistret AB"
   },
   {
@@ -178,6 +182,8 @@
     "otherLength": "0",
     "area": 90,
     "rooms": 3,
+    "kitchenette": false,
+    "sovalkov": false,
     "rent": 8000,
     "warm": 2,
     "elevator": false,
@@ -201,7 +207,6 @@
     "hidden": false,
     "rented": 0,
     "cancelled": 0,
-    "published": 1,
     "copyright": "Copyright Bostadsregistret AB"
   },
   {
@@ -219,6 +224,8 @@
     "otherLength": "0",
     "area": 103,
     "rooms": 3,
+    "kitchenette": false,
+    "sovalkov": false,
     "rent": 9044,
     "warm": 2,
     "elevator": true,
@@ -242,7 +249,6 @@
     "hidden": false,
     "rented": 0,
     "cancelled": 0,
-    "published": 1,
     "copyright": "Copyright Bostadsregistret AB"
   },
   {
@@ -260,6 +266,8 @@
     "otherLength": "0",
     "area": 72,
     "rooms": 3,
+    "kitchenette": false,
+    "sovalkov": false,
     "rent": 8797,
     "warm": 2,
     "elevator": true,
@@ -278,12 +286,11 @@
     "adText": "Lägenhet om 2rok i Jönköping Centrum. Balkong. Hiss. En lägenhet i Östra Centrum. I hyran ingår: TV (Telia kanalpaket lagom), värme, varm- och kallvatten. Köket är utrustat med mikro och diskmaskin. Helkaklat badrum med tvättmaskin och torktumlare. Telia fiber finns i fastigheten. Hyran är 2021 års hyresnivå.",
     "statusText": "Published",
     "statusCode": 1,
-    "mayManageApplicants": false,
+    "mayManageApplicants": true,
     "timeWhenLandlordMaySeeApplicants": 1631052000,
     "hidden": false,
     "rented": 0,
     "cancelled": 0,
-    "published": 4,
     "copyright": "Copyright Bostadsregistret AB"
   },
   {
@@ -301,6 +308,8 @@
     "otherLength": "0",
     "area": 57,
     "rooms": 2,
+    "kitchenette": false,
+    "sovalkov": false,
     "rent": 6060,
     "warm": 2,
     "elevator": false,
@@ -319,12 +328,11 @@
     "adText": "Lägenhet om 2rok. Trevlig lägenhet med bra planlösning. Stor inglasad balkong och nära till allt. ",
     "statusText": "Published",
     "statusCode": 1,
-    "mayManageApplicants": false,
+    "mayManageApplicants": true,
     "timeWhenLandlordMaySeeApplicants": 1631052000,
     "hidden": false,
     "rented": 0,
     "cancelled": 0,
-    "published": 4,
     "copyright": "Copyright Bostadsregistret AB"
   },
   {
@@ -342,6 +350,8 @@
     "otherLength": "0",
     "area": 40,
     "rooms": 1,
+    "kitchenette": false,
+    "sovalkov": false,
     "rent": 4008,
     "warm": 2,
     "elevator": false,
@@ -360,12 +370,11 @@
     "adText": "Lägenhet om 1rok på tredje våningen. Mysig lägenhet med bra planlösning. Nyligen renoverad och nära till skola och köpcentrum..",
     "statusText": "Published",
     "statusCode": 1,
-    "mayManageApplicants": false,
+    "mayManageApplicants": true,
     "timeWhenLandlordMaySeeApplicants": 1631052000,
     "hidden": false,
     "rented": 0,
     "cancelled": 0,
-    "published": 4,
     "copyright": "Copyright Bostadsregistret AB"
   },
   {
@@ -383,6 +392,8 @@
     "otherLength": "0",
     "area": 121,
     "rooms": 4,
+    "kitchenette": false,
+    "sovalkov": false,
     "rent": 10528,
     "warm": 2,
     "elevator": true,
@@ -401,12 +412,11 @@
     "adText": "Lägenhet om 4rok. Härlig stor lägenhet mitt i stan. Trevlig planlösning med 2 st balkonger tvätt- / diskmaskin. Hiss, parkeringsgarage och nära till allt..",
     "statusText": "Published",
     "statusCode": 1,
-    "mayManageApplicants": false,
+    "mayManageApplicants": true,
     "timeWhenLandlordMaySeeApplicants": 1631052000,
     "hidden": false,
     "rented": 0,
     "cancelled": 0,
-    "published": 4,
     "copyright": "Copyright Bostadsregistret AB"
   },
   {
@@ -424,6 +434,8 @@
     "otherLength": "0",
     "area": 95,
     "rooms": 3,
+    "kitchenette": false,
+    "sovalkov": false,
     "rent": 11060,
     "warm": 2,
     "elevator": true,
@@ -442,12 +454,11 @@
     "adText": "Lägenhet om 3rok på tredje våningen. Bo Tryggt och Bekvämt mitt i stan. Hiss. Hög standard med tvättmaskion/diskmaskin och fiber. Tillgång till samlingslokal, bastu och övernattningslägenhet. Nära till tåg och buss.",
     "statusText": "Published",
     "statusCode": 1,
-    "mayManageApplicants": false,
+    "mayManageApplicants": true,
     "timeWhenLandlordMaySeeApplicants": 1631052000,
     "hidden": false,
     "rented": 0,
     "cancelled": 0,
-    "published": 4,
     "copyright": "Copyright Bostadsregistret AB"
   },
   {
@@ -465,6 +476,8 @@
     "otherLength": "0",
     "area": 71,
     "rooms": 2,
+    "kitchenette": false,
+    "sovalkov": false,
     "rent": 9070,
     "warm": 2,
     "elevator": true,
@@ -483,12 +496,11 @@
     "adText": "Lägenhet om 2rok. Bo Tryggt och Bekvämt mitt i stan. Hiss. Hög standard med tvättmaskin/diskmaskin och fiber mm. Tillgång till samlingslokal, bastu och övernattningslägenhet. Nära till tåg och buss.",
     "statusText": "Published",
     "statusCode": 1,
-    "mayManageApplicants": false,
+    "mayManageApplicants": true,
     "timeWhenLandlordMaySeeApplicants": 1631052000,
     "hidden": false,
     "rented": 0,
     "cancelled": 0,
-    "published": 4,
     "copyright": "Copyright Bostadsregistret AB"
   },
   {
@@ -506,6 +518,8 @@
     "otherLength": "0",
     "area": 60,
     "rooms": 2,
+    "kitchenette": false,
+    "sovalkov": false,
     "rent": 5033,
     "warm": 2,
     "elevator": false,
@@ -529,7 +543,6 @@
     "hidden": false,
     "rented": 0,
     "cancelled": 0,
-    "published": 5,
     "copyright": "Copyright Bostadsregistret AB"
   },
   {
@@ -547,6 +560,8 @@
     "otherLength": "0",
     "area": 80,
     "rooms": 2,
+    "kitchenette": false,
+    "sovalkov": false,
     "rent": 8429,
     "warm": 2,
     "elevator": false,
@@ -570,7 +585,6 @@
     "hidden": false,
     "rented": 0,
     "cancelled": 0,
-    "published": 13,
     "copyright": "Copyright Bostadsregistret AB"
   },
   {
@@ -588,6 +602,8 @@
     "otherLength": "0",
     "area": 42,
     "rooms": 2,
+    "kitchenette": false,
+    "sovalkov": false,
     "rent": 5025,
     "warm": 2,
     "elevator": false,
@@ -611,7 +627,6 @@
     "hidden": false,
     "rented": 0,
     "cancelled": 0,
-    "published": 8,
     "copyright": "Copyright Bostadsregistret AB"
   },
   {
@@ -629,6 +644,8 @@
     "otherLength": "0",
     "area": 75,
     "rooms": 3,
+    "kitchenette": false,
+    "sovalkov": false,
     "rent": 7446,
     "warm": 2,
     "elevator": false,
@@ -652,7 +669,6 @@
     "hidden": false,
     "rented": 0,
     "cancelled": 0,
-    "published": 8,
     "copyright": "Copyright Bostadsregistret AB"
   },
   {
@@ -670,6 +686,8 @@
     "otherLength": "0",
     "area": 98,
     "rooms": 3,
+    "kitchenette": false,
+    "sovalkov": false,
     "rent": 10962,
     "warm": 2,
     "elevator": true,
@@ -693,7 +711,6 @@
     "hidden": false,
     "rented": 0,
     "cancelled": 0,
-    "published": 11,
     "copyright": "Copyright Bostadsregistret AB"
   },
   {
@@ -711,6 +728,8 @@
     "otherLength": "0",
     "area": 74,
     "rooms": 3,
+    "kitchenette": false,
+    "sovalkov": false,
     "rent": 5876,
     "warm": 2,
     "elevator": false,
@@ -734,7 +753,6 @@
     "hidden": false,
     "rented": 0,
     "cancelled": 0,
-    "published": 11,
     "copyright": "Copyright Bostadsregistret AB"
   },
   {
@@ -752,6 +770,8 @@
     "otherLength": "0",
     "area": 56,
     "rooms": 2,
+    "kitchenette": false,
+    "sovalkov": false,
     "rent": 6400,
     "warm": 2,
     "elevator": false,
@@ -775,7 +795,6 @@
     "hidden": false,
     "rented": 0,
     "cancelled": 0,
-    "published": 11,
     "copyright": "Copyright Bostadsregistret AB"
   },
   {
@@ -793,6 +812,8 @@
     "otherLength": "0",
     "area": 65,
     "rooms": 2,
+    "kitchenette": false,
+    "sovalkov": false,
     "rent": 5892,
     "warm": 2,
     "elevator": false,
@@ -816,7 +837,6 @@
     "hidden": false,
     "rented": 0,
     "cancelled": 0,
-    "published": 11,
     "copyright": "Copyright Bostadsregistret AB"
   },
   {
@@ -834,6 +854,8 @@
     "otherLength": "0",
     "area": 84,
     "rooms": 3,
+    "kitchenette": false,
+    "sovalkov": false,
     "rent": 10800,
     "warm": 2,
     "elevator": false,
@@ -857,7 +879,6 @@
     "hidden": false,
     "rented": 0,
     "cancelled": 0,
-    "published": 12,
     "copyright": "Copyright Bostadsregistret AB"
   },
   {
@@ -875,6 +896,8 @@
     "otherLength": "0",
     "area": 81,
     "rooms": 4,
+    "kitchenette": false,
+    "sovalkov": false,
     "rent": 7484,
     "warm": 2,
     "elevator": false,
@@ -898,7 +921,6 @@
     "hidden": false,
     "rented": 0,
     "cancelled": 0,
-    "published": 12,
     "copyright": "Copyright Bostadsregistret AB"
   },
   {
@@ -916,6 +938,8 @@
     "otherLength": "0",
     "area": 42,
     "rooms": 1,
+    "kitchenette": false,
+    "sovalkov": false,
     "rent": 4967,
     "warm": 2,
     "elevator": true,
@@ -939,7 +963,6 @@
     "hidden": false,
     "rented": 0,
     "cancelled": 0,
-    "published": 15,
     "copyright": "Copyright Bostadsregistret AB"
   },
   {
@@ -957,6 +980,8 @@
     "otherLength": "0",
     "area": 40,
     "rooms": 1,
+    "kitchenette": false,
+    "sovalkov": false,
     "rent": 4350,
     "warm": 2,
     "elevator": false,
@@ -980,7 +1005,6 @@
     "hidden": false,
     "rented": 0,
     "cancelled": 0,
-    "published": 16,
     "copyright": "Copyright Bostadsregistret AB"
   },
   {
@@ -998,6 +1022,8 @@
     "otherLength": "0",
     "area": 39,
     "rooms": 1,
+    "kitchenette": false,
+    "sovalkov": false,
     "rent": 2845,
     "warm": 2,
     "elevator": false,
@@ -1021,7 +1047,6 @@
     "hidden": false,
     "rented": 0,
     "cancelled": 0,
-    "published": 16,
     "copyright": "Copyright Bostadsregistret AB"
   },
   {
@@ -1039,6 +1064,8 @@
     "otherLength": "0",
     "area": 86,
     "rooms": 4,
+    "kitchenette": false,
+    "sovalkov": false,
     "rent": 12213,
     "warm": 2,
     "elevator": true,
@@ -1062,7 +1089,6 @@
     "hidden": false,
     "rented": 0,
     "cancelled": 0,
-    "published": 18,
     "copyright": "Copyright Bostadsregistret AB"
   },
   {
@@ -1080,6 +1106,8 @@
     "otherLength": "0",
     "area": 80,
     "rooms": 3,
+    "kitchenette": false,
+    "sovalkov": false,
     "rent": 7069,
     "warm": 2,
     "elevator": false,
@@ -1103,7 +1131,6 @@
     "hidden": false,
     "rented": 0,
     "cancelled": 0,
-    "published": 18,
     "copyright": "Copyright Bostadsregistret AB"
   },
   {
@@ -1121,6 +1148,8 @@
     "otherLength": "0",
     "area": 74,
     "rooms": 3,
+    "kitchenette": false,
+    "sovalkov": false,
     "rent": 8108,
     "warm": 2,
     "elevator": false,
@@ -1144,7 +1173,6 @@
     "hidden": false,
     "rented": 0,
     "cancelled": 0,
-    "published": 20,
     "copyright": "Copyright Bostadsregistret AB"
   },
   {
@@ -1162,6 +1190,8 @@
     "otherLength": "0",
     "area": 65,
     "rooms": 3,
+    "kitchenette": false,
+    "sovalkov": false,
     "rent": 5213,
     "warm": 2,
     "elevator": false,
@@ -1185,7 +1215,6 @@
     "hidden": false,
     "rented": 0,
     "cancelled": 0,
-    "published": 20,
     "copyright": "Copyright Bostadsregistret AB"
   },
   {
@@ -1203,6 +1232,8 @@
     "otherLength": "0",
     "area": 76,
     "rooms": 3,
+    "kitchenette": false,
+    "sovalkov": false,
     "rent": 6564,
     "warm": 2,
     "elevator": false,
@@ -1226,7 +1257,6 @@
     "hidden": false,
     "rented": 0,
     "cancelled": 0,
-    "published": 20,
     "copyright": "Copyright Bostadsregistret AB"
   },
   {
@@ -1244,6 +1274,8 @@
     "otherLength": "0",
     "area": 58,
     "rooms": 2,
+    "kitchenette": false,
+    "sovalkov": false,
     "rent": 5559,
     "warm": 2,
     "elevator": true,
@@ -1267,7 +1299,6 @@
     "hidden": false,
     "rented": 0,
     "cancelled": 0,
-    "published": 22,
     "copyright": "Copyright Bostadsregistret AB"
   },
   {
@@ -1285,6 +1316,8 @@
     "otherLength": "0",
     "area": 74,
     "rooms": 2,
+    "kitchenette": false,
+    "sovalkov": false,
     "rent": 7185,
     "warm": 2,
     "elevator": false,
@@ -1308,7 +1341,6 @@
     "hidden": false,
     "rented": 0,
     "cancelled": 0,
-    "published": 22,
     "copyright": "Copyright Bostadsregistret AB"
   },
   {
@@ -1326,6 +1358,8 @@
     "otherLength": "0",
     "area": 39,
     "rooms": 1,
+    "kitchenette": false,
+    "sovalkov": false,
     "rent": 4310,
     "warm": 2,
     "elevator": false,
@@ -1349,7 +1383,6 @@
     "hidden": false,
     "rented": 0,
     "cancelled": 0,
-    "published": 22,
     "copyright": "Copyright Bostadsregistret AB"
   },
   {
@@ -1367,6 +1400,8 @@
     "otherLength": "0",
     "area": 49,
     "rooms": 1,
+    "kitchenette": false,
+    "sovalkov": false,
     "rent": 3693,
     "warm": 2,
     "elevator": false,
@@ -1390,7 +1425,6 @@
     "hidden": false,
     "rented": 0,
     "cancelled": 0,
-    "published": 26,
     "copyright": "Copyright Bostadsregistret AB"
   },
   {
@@ -1408,6 +1442,8 @@
     "otherLength": "0",
     "area": 43,
     "rooms": 1,
+    "kitchenette": false,
+    "sovalkov": false,
     "rent": 3795,
     "warm": 2,
     "elevator": false,
@@ -1431,7 +1467,6 @@
     "hidden": false,
     "rented": 0,
     "cancelled": 0,
-    "published": 27,
     "copyright": "Copyright Bostadsregistret AB"
   },
   {
@@ -1449,6 +1484,8 @@
     "otherLength": "0",
     "area": 74,
     "rooms": 3,
+    "kitchenette": false,
+    "sovalkov": false,
     "rent": 6236,
     "warm": 2,
     "elevator": false,
@@ -1472,7 +1509,6 @@
     "hidden": false,
     "rented": 0,
     "cancelled": 0,
-    "published": 27,
     "copyright": "Copyright Bostadsregistret AB"
   },
   {
@@ -1490,6 +1526,8 @@
     "otherLength": "0",
     "area": 64,
     "rooms": 2,
+    "kitchenette": false,
+    "sovalkov": false,
     "rent": 6248,
     "warm": 2,
     "elevator": false,
@@ -1513,7 +1551,6 @@
     "hidden": false,
     "rented": 0,
     "cancelled": 0,
-    "published": 27,
     "copyright": "Copyright Bostadsregistret AB"
   },
   {
@@ -1531,6 +1568,8 @@
     "otherLength": "0",
     "area": 98,
     "rooms": 2,
+    "kitchenette": false,
+    "sovalkov": false,
     "rent": 8749,
     "warm": 2,
     "elevator": false,
@@ -1554,7 +1593,6 @@
     "hidden": false,
     "rented": 0,
     "cancelled": 0,
-    "published": 27,
     "copyright": "Copyright Bostadsregistret AB"
   },
   {
@@ -1572,6 +1610,8 @@
     "otherLength": "0",
     "area": 71,
     "rooms": 2,
+    "kitchenette": false,
+    "sovalkov": false,
     "rent": 5840,
     "warm": 2,
     "elevator": false,
@@ -1595,7 +1635,6 @@
     "hidden": false,
     "rented": 0,
     "cancelled": 0,
-    "published": 34,
     "copyright": "Copyright Bostadsregistret AB"
   },
   {
@@ -1613,6 +1652,8 @@
     "otherLength": "0",
     "area": 42,
     "rooms": 1,
+    "kitchenette": false,
+    "sovalkov": false,
     "rent": 3677,
     "warm": 2,
     "elevator": false,
@@ -1636,7 +1677,6 @@
     "hidden": false,
     "rented": 0,
     "cancelled": 0,
-    "published": 36,
     "copyright": "Copyright Bostadsregistret AB"
   },
   {
@@ -1654,6 +1694,8 @@
     "otherLength": "0",
     "area": 69,
     "rooms": 3,
+    "kitchenette": false,
+    "sovalkov": false,
     "rent": 8783,
     "warm": 1,
     "elevator": false,
@@ -1677,7 +1719,6 @@
     "hidden": false,
     "rented": 0,
     "cancelled": 0,
-    "published": 39,
     "copyright": "Copyright Bostadsregistret AB"
   },
   {
@@ -1695,6 +1736,8 @@
     "otherLength": "0",
     "area": 33,
     "rooms": 1,
+    "kitchenette": false,
+    "sovalkov": false,
     "rent": 3635,
     "warm": 2,
     "elevator": false,
@@ -1718,7 +1761,6 @@
     "hidden": false,
     "rented": 0,
     "cancelled": 0,
-    "published": 41,
     "copyright": "Copyright Bostadsregistret AB"
   },
   {
@@ -1736,6 +1778,8 @@
     "otherLength": "0",
     "area": 65,
     "rooms": 3,
+    "kitchenette": false,
+    "sovalkov": false,
     "rent": 6597,
     "warm": 2,
     "elevator": false,
@@ -1759,7 +1803,6 @@
     "hidden": false,
     "rented": 0,
     "cancelled": 0,
-    "published": 47,
     "copyright": "Copyright Bostadsregistret AB"
   },
   {
@@ -1777,6 +1820,8 @@
     "otherLength": "0",
     "area": 25,
     "rooms": 1,
+    "kitchenette": false,
+    "sovalkov": false,
     "rent": 2778,
     "warm": 2,
     "elevator": false,
@@ -1800,7 +1845,6 @@
     "hidden": false,
     "rented": 0,
     "cancelled": 0,
-    "published": 49,
     "copyright": "Copyright Bostadsregistret AB"
   },
   {
@@ -1818,6 +1862,8 @@
     "otherLength": "0",
     "area": 90,
     "rooms": 4,
+    "kitchenette": false,
+    "sovalkov": false,
     "rent": 8450,
     "warm": 2,
     "elevator": false,
@@ -1841,7 +1887,6 @@
     "hidden": false,
     "rented": 0,
     "cancelled": 0,
-    "published": 65,
     "copyright": "Copyright Bostadsregistret AB"
   },
   {
@@ -1859,6 +1904,8 @@
     "otherLength": "0",
     "area": 200,
     "rooms": 8,
+    "kitchenette": false,
+    "sovalkov": false,
     "rent": 9900,
     "warm": 1,
     "elevator": false,
@@ -1882,7 +1929,6 @@
     "hidden": false,
     "rented": 0,
     "cancelled": 0,
-    "published": 69,
     "copyright": "Copyright Bostadsregistret AB"
   },
   {
@@ -1900,6 +1946,8 @@
     "otherLength": "0",
     "area": 59,
     "rooms": 2,
+    "kitchenette": false,
+    "sovalkov": false,
     "rent": 4829,
     "warm": 2,
     "elevator": false,
@@ -1923,7 +1971,6 @@
     "hidden": false,
     "rented": 0,
     "cancelled": 0,
-    "published": 70,
     "copyright": "Copyright Bostadsregistret AB"
   },
   {
@@ -1941,6 +1988,8 @@
     "otherLength": "0",
     "area": 51,
     "rooms": 2,
+    "kitchenette": false,
+    "sovalkov": false,
     "rent": 5896,
     "warm": 2,
     "elevator": false,
@@ -1964,7 +2013,6 @@
     "hidden": false,
     "rented": 0,
     "cancelled": 0,
-    "published": 71,
     "copyright": "Copyright Bostadsregistret AB"
   },
   {
@@ -1982,6 +2030,8 @@
     "otherLength": "0",
     "area": 73,
     "rooms": 3,
+    "kitchenette": false,
+    "sovalkov": false,
     "rent": 5843,
     "warm": 2,
     "elevator": false,
@@ -2005,7 +2055,6 @@
     "hidden": false,
     "rented": 0,
     "cancelled": 0,
-    "published": 75,
     "copyright": "Copyright Bostadsregistret AB"
   },
   {
@@ -2023,6 +2072,8 @@
     "otherLength": "0",
     "area": 69,
     "rooms": 3,
+    "kitchenette": false,
+    "sovalkov": false,
     "rent": 8783,
     "warm": 1,
     "elevator": false,
@@ -2046,7 +2097,6 @@
     "hidden": false,
     "rented": 0,
     "cancelled": 0,
-    "published": 77,
     "copyright": "Copyright Bostadsregistret AB"
   },
   {
@@ -2064,6 +2114,8 @@
     "otherLength": "0",
     "area": 35,
     "rooms": 1,
+    "kitchenette": false,
+    "sovalkov": false,
     "rent": 5115,
     "warm": 1,
     "elevator": false,
@@ -2087,7 +2139,6 @@
     "hidden": false,
     "rented": 0,
     "cancelled": 0,
-    "published": 99,
     "copyright": "Copyright Bostadsregistret AB"
   },
   {
@@ -2105,6 +2156,8 @@
     "otherLength": "0",
     "area": 104,
     "rooms": 3,
+    "kitchenette": false,
+    "sovalkov": false,
     "rent": 13853,
     "warm": 2,
     "elevator": false,
@@ -2128,7 +2181,6 @@
     "hidden": false,
     "rented": 0,
     "cancelled": 0,
-    "published": 104,
     "copyright": "Copyright Bostadsregistret AB"
   },
   {
@@ -2146,6 +2198,8 @@
     "otherLength": "0",
     "area": 108,
     "rooms": 4,
+    "kitchenette": false,
+    "sovalkov": false,
     "rent": 12878,
     "warm": 2,
     "elevator": true,
@@ -2169,7 +2223,6 @@
     "hidden": false,
     "rented": 0,
     "cancelled": 0,
-    "published": 125,
     "copyright": "Copyright Bostadsregistret AB"
   },
   {
@@ -2187,6 +2240,8 @@
     "otherLength": "0",
     "area": 35,
     "rooms": 1,
+    "kitchenette": false,
+    "sovalkov": false,
     "rent": 5115,
     "warm": 1,
     "elevator": false,
@@ -2210,7 +2265,6 @@
     "hidden": false,
     "rented": 0,
     "cancelled": 0,
-    "published": 134,
     "copyright": "Copyright Bostadsregistret AB"
   },
   {
@@ -2228,6 +2282,8 @@
     "otherLength": "0",
     "area": 35,
     "rooms": 1,
+    "kitchenette": false,
+    "sovalkov": false,
     "rent": 4759,
     "warm": 2,
     "elevator": false,
@@ -2251,7 +2307,6 @@
     "hidden": false,
     "rented": 0,
     "cancelled": 0,
-    "published": 154,
     "copyright": "Copyright Bostadsregistret AB"
   },
   {
@@ -2269,6 +2324,8 @@
     "otherLength": "0",
     "area": 94,
     "rooms": 4,
+    "kitchenette": false,
+    "sovalkov": false,
     "rent": 10993,
     "warm": 1,
     "elevator": false,
@@ -2292,7 +2349,6 @@
     "hidden": false,
     "rented": 0,
     "cancelled": 0,
-    "published": 154,
     "copyright": "Copyright Bostadsregistret AB"
   },
   {
@@ -2310,6 +2366,8 @@
     "otherLength": "0",
     "area": 79,
     "rooms": 4,
+    "kitchenette": false,
+    "sovalkov": false,
     "rent": 9905,
     "warm": 1,
     "elevator": true,
@@ -2333,7 +2391,6 @@
     "hidden": false,
     "rented": 0,
     "cancelled": 0,
-    "published": 162,
     "copyright": "Copyright Bostadsregistret AB"
   },
   {
@@ -2351,6 +2408,8 @@
     "otherLength": "0",
     "area": 52,
     "rooms": 2,
+    "kitchenette": false,
+    "sovalkov": false,
     "rent": 6987,
     "warm": 1,
     "elevator": true,
@@ -2374,7 +2433,6 @@
     "hidden": false,
     "rented": 0,
     "cancelled": 0,
-    "published": 162,
     "copyright": "Copyright Bostadsregistret AB"
   },
   {
@@ -2392,6 +2450,8 @@
     "otherLength": "0",
     "area": 65,
     "rooms": 3,
+    "kitchenette": false,
+    "sovalkov": false,
     "rent": 8446,
     "warm": 1,
     "elevator": true,
@@ -2415,7 +2475,6 @@
     "hidden": false,
     "rented": 0,
     "cancelled": 0,
-    "published": 162,
     "copyright": "Copyright Bostadsregistret AB"
   },
   {
@@ -2433,6 +2492,8 @@
     "otherLength": "0",
     "area": 14,
     "rooms": 1,
+    "kitchenette": false,
+    "sovalkov": false,
     "rent": 2981,
     "warm": 2,
     "elevator": false,
@@ -2456,7 +2517,6 @@
     "hidden": false,
     "rented": 0,
     "cancelled": 0,
-    "published": 175,
     "copyright": "Copyright Bostadsregistret AB"
   },
   {
@@ -2474,6 +2534,8 @@
     "otherLength": "0",
     "area": 20,
     "rooms": 1,
+    "kitchenette": false,
+    "sovalkov": false,
     "rent": 4000,
     "warm": 2,
     "elevator": false,
@@ -2497,7 +2559,6 @@
     "hidden": false,
     "rented": 0,
     "cancelled": 0,
-    "published": 176,
     "copyright": "Copyright Bostadsregistret AB"
   },
   {
@@ -2515,6 +2576,8 @@
     "otherLength": "0",
     "area": 69,
     "rooms": 2,
+    "kitchenette": false,
+    "sovalkov": false,
     "rent": 6806,
     "warm": 2,
     "elevator": false,
@@ -2538,7 +2601,6 @@
     "hidden": false,
     "rented": 0,
     "cancelled": 0,
-    "published": 287,
     "copyright": "Copyright Bostadsregistret AB"
   },
   {
@@ -2556,6 +2618,8 @@
     "otherLength": "0",
     "area": 100,
     "rooms": 3,
+    "kitchenette": false,
+    "sovalkov": false,
     "rent": 9500,
     "warm": 2,
     "elevator": false,
@@ -2579,7 +2643,6 @@
     "hidden": false,
     "rented": 0,
     "cancelled": 0,
-    "published": 472,
     "copyright": "Copyright Bostadsregistret AB"
   },
   {
@@ -2597,6 +2660,8 @@
     "otherLength": "0",
     "area": 60,
     "rooms": 2,
+    "kitchenette": false,
+    "sovalkov": false,
     "rent": 7200,
     "warm": 2,
     "elevator": false,
@@ -2620,7 +2685,6 @@
     "hidden": false,
     "rented": 0,
     "cancelled": 0,
-    "published": 544,
     "copyright": "Copyright Bostadsregistret AB"
   },
   {
@@ -2638,6 +2702,8 @@
     "otherLength": "0",
     "area": 90,
     "rooms": 3,
+    "kitchenette": false,
+    "sovalkov": false,
     "rent": 8600,
     "warm": 2,
     "elevator": false,
@@ -2661,7 +2727,6 @@
     "hidden": false,
     "rented": 0,
     "cancelled": 0,
-    "published": 881,
     "copyright": "Copyright Bostadsregistret AB"
   }
 ]
