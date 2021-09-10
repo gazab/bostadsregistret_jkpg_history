@@ -538,7 +538,7 @@
     "adText": "Lägenhet om 3rok i centrala Nässjö. Parkeringsplats, diskmaskin och tvättmaskin ingår i hyran. Lägenheten är nyrenoverad för cirka 1 år sedan och mycket representativ! Balkong och hiss finns.",
     "statusText": "Published",
     "statusCode": 1,
-    "mayManageApplicants": false,
+    "mayManageApplicants": true,
     "timeWhenLandlordMaySeeApplicants": 1631311200,
     "hidden": false,
     "rented": 0,
