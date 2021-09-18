@@ -496,7 +496,7 @@
     "adText": "Lägenhet om 2rok i Jönköping Centrum. Lägenhet på Atollen hörnet Lantmätargränd/Fiskargränd. Hyran är 2020 års hyresnivå. I hyran ingår följande: Tv, internet, värme, varm- och kallvatten. Kök från HTH med kyl/frys, mikro och diskmaskin. Helkaklat badrum med tvättmaskin och torktumlare. OBS! Hela fastigheten är rökfri. @bostadsregistret #bostadsregistret ",
     "statusText": "Published",
     "statusCode": 1,
-    "mayManageApplicants": false,
+    "mayManageApplicants": true,
     "timeWhenLandlordMaySeeApplicants": 1632002400,
     "hidden": false,
     "rented": 0,
