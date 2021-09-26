@@ -118,7 +118,7 @@
     "adText": "Lägenhet om 1rok med sovalkov i de centrala delarna av Jönköping. Kabel-tv ( Tele2 ) tillkommer med 129:-/mån. \n@bostadsregistret #bostadsregistret. ",
     "statusText": "Published",
     "statusCode": 1,
-    "mayManageApplicants": false,
+    "mayManageApplicants": true,
     "timeWhenLandlordMaySeeApplicants": 1632693600,
     "hidden": false,
     "rented": 0,
