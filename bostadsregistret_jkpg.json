@@ -328,7 +328,7 @@
     "adText": "Lägenhet om 2rok i Forserum, Nässjö. Lägenheten är belägen på tredje våningen. Förstahandskontrakt med tillträde 2022-01-01.\n@bostadsregistret #bostadsregistret ",
     "statusText": "Published",
     "statusCode": 1,
-    "mayManageApplicants": false,
+    "mayManageApplicants": true,
     "timeWhenLandlordMaySeeApplicants": 1633730400,
     "hidden": false,
     "rented": 0,
