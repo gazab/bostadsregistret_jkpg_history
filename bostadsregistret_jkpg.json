@@ -76,7 +76,7 @@
     "adText": "Lägenhet om 3rok i Ingsberg, Nässjö. Lägenheten är belägen på första våningen och har balkong. \n@bostadsregistret #bostadsregistret",
     "statusText": "Published",
     "statusCode": 1,
-    "mayManageApplicants": false,
+    "mayManageApplicants": true,
     "timeWhenLandlordMaySeeApplicants": 1633989600,
     "hidden": false,
     "rented": 0,
