@@ -286,7 +286,7 @@
     "adText": "Lägenhet om 3rok i Huskvarna, Jönköping. Fin lägenhet i ett mycket lugnt område. Det finns kabel-tv och fiber i huset. Parkering ingår. Hiss och balkong. \n@bostadsregistret #bostadsregistret ",
     "statusText": "Published",
     "statusCode": 1,
-    "mayManageApplicants": false,
+    "mayManageApplicants": true,
     "timeWhenLandlordMaySeeApplicants": 1634335200,
     "hidden": false,
     "rented": 0,
