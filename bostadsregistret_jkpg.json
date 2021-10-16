@@ -202,7 +202,7 @@
     "adText": "Lägenhet om 2rok i Centrala Nässjö. Lägenheten som är fördelad på 60kvm är belägen på andra våningen. \n@bostadsregistret #bostadsregistret ",
     "statusText": "Published",
     "statusCode": 1,
-    "mayManageApplicants": false,
+    "mayManageApplicants": true,
     "timeWhenLandlordMaySeeApplicants": 1634421600,
     "hidden": false,
     "rented": 0,
