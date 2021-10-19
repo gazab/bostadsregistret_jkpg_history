@@ -454,7 +454,7 @@
     "adText": "Lägenhet om 2rok. Centralt läge, solig balkong med fri utsikt över järnvägen och mot TV-masten. Varmförråd i källaren, stor ljus tvättstuga i markplan. Litet hus med 4 lägenheter. Söker lugn hyresgäst med egen inkomst. Finns parkeringsplats att hyra på bakgården.\n@bostadsregistret #bostadsregistret",
     "statusText": "Published",
     "statusCode": 1,
-    "mayManageApplicants": false,
+    "mayManageApplicants": true,
     "timeWhenLandlordMaySeeApplicants": 1634680800,
     "hidden": false,
     "rented": 0,
