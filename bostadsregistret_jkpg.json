@@ -286,7 +286,7 @@
     "adText": "Lägenhet om 2rok i Norrahammar, Jönköping. Lägenheten är belägen på andra våningen och ligger med närhet till busshållplats, badsjö och vandringsleder. Ca 1 mil söder om Jönköping. Rök- och djurfri hyresgäst. ",
     "statusText": "Published",
     "statusCode": 1,
-    "mayManageApplicants": false,
+    "mayManageApplicants": true,
     "timeWhenLandlordMaySeeApplicants": 1635026400,
     "hidden": false,
     "rented": 0,
