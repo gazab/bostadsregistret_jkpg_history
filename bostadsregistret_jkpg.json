@@ -118,7 +118,7 @@
     "adText": "Lägenhet om 2rok i centrala Nässjö. Lägenheten har balkong. \nVälkommen att skicka in din intresseanmälan till oss redan idag! \n@bostadsregistret #bostadsregistret",
     "statusText": "Published",
     "statusCode": 1,
-    "mayManageApplicants": false,
+    "mayManageApplicants": true,
     "timeWhenLandlordMaySeeApplicants": 1635199200,
     "hidden": false,
     "rented": 0,
