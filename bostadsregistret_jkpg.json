@@ -76,7 +76,7 @@
     "adText": "Nyrenoverad lägenhet om 3rok i Nyhem, Nässjö. Helt nytt kök, nya golv, tapeter och nya vitvaror. Diskmaskin finns. Gemensam tvättstuga I källaren. Parkering på gårdsplan. Värme och vatten ingår. Ordnad ekonomi krävs.",
     "statusText": "Published",
     "statusCode": 1,
-    "mayManageApplicants": false,
+    "mayManageApplicants": true,
     "timeWhenLandlordMaySeeApplicants": 1635721200,
     "hidden": false,
     "rented": 0,
