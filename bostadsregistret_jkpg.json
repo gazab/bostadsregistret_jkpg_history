@@ -454,7 +454,7 @@
     "adText": "Lägenhet uthyres I Malmbäck. 2rok 68m2. Hyra - 4824kr/mån. Fiber finns indraget i fastigheten. Tillgång till en gemensam tvättstuga I källaren. Ledig 1Feb ev tidigare om så önskas. \n@bostadsregistret #bostadsregistret",
     "statusText": "Published",
     "statusCode": 1,
-    "mayManageApplicants": false,
+    "mayManageApplicants": true,
     "timeWhenLandlordMaySeeApplicants": 1635894000,
     "hidden": false,
     "rented": 0,
