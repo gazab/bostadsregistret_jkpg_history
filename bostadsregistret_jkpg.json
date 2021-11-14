@@ -76,7 +76,7 @@
     "adText": "Lägenhet om 2rok i Ingsberg, Nässjö. Nyrenoverad lägenhet med balkong och egen parkering. Tvättstuga i källaren och tillgång till trädgården. Datumet är inte skrivet i sten, utan går att anpassa.",
     "statusText": "Published",
     "statusCode": 1,
-    "mayManageApplicants": false,
+    "mayManageApplicants": true,
     "timeWhenLandlordMaySeeApplicants": 1636930800,
     "hidden": false,
     "rented": 0,
