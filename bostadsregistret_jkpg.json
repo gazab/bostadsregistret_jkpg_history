@@ -160,7 +160,7 @@
     "adText": "Mycket fin och ljus 3 rok i centrala Nässjö. Nyligen renoverad med nytt badrum. Högt till tak, platsbyggda serveringsskåp, skafferi, klädkammare mm. Ledig från 1/2 eller tidigare om så önskas. @bostadsregistret #bostadsregistret ",
     "statusText": "Published",
     "statusCode": 1,
-    "mayManageApplicants": false,
+    "mayManageApplicants": true,
     "timeWhenLandlordMaySeeApplicants": 1637103600,
     "hidden": false,
     "rented": 0,
