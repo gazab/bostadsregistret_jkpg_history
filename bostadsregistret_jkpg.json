@@ -412,7 +412,7 @@
     "adText": "Fräsch lägenhet som är en stor/öppen 2:a på 88 kvm2 bestående av ett stort och härligt vardagsrum med trevligt ljusinflöde och balkong med utsikt över Nässjö, bra sovrum med goda förvaringar. Till fastigheten finns en trevlig trädgård som ger en villakänsla med en trevlig vistelse. Lägenheten befinner sig i Handskeryd på en bussgata och gångavstånd mot ICA och Nässjö stad. Hyra 6900:- inkl värme, vatten, parkerings-plats Tillträde 2022-03-01",
     "statusText": "Published",
     "statusCode": 1,
-    "mayManageApplicants": false,
+    "mayManageApplicants": true,
     "timeWhenLandlordMaySeeApplicants": 1638226800,
     "hidden": false,
     "rented": 0,
