@@ -34,7 +34,7 @@
     "adText": "Lägenhet om 2rok i Nässjö, Norrboda. Vindsvåning med snedtak. Verklig golvyta ca 50 kvm. El ingår. Parkering ingår. Dusch i källaren. Ledig 2022-03-01. Ev tidigare.",
     "statusText": "Published",
     "statusCode": 1,
-    "mayManageApplicants": false,
+    "mayManageApplicants": true,
     "timeWhenLandlordMaySeeApplicants": 1639350000,
     "hidden": false,
     "rented": 0,
