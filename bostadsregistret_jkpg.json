@@ -118,7 +118,7 @@
     "adText": "Nu har vi fått en fin tre rums lägenhet ledig i det fina huset på Rådhusgatan 70 i centrala Nässjö. Ny-renoverad i gammal stil. P plats på innergården , cykelförråd mm.",
     "statusText": "Published",
     "statusCode": 1,
-    "mayManageApplicants": false,
+    "mayManageApplicants": true,
     "timeWhenLandlordMaySeeApplicants": 1639868400,
     "hidden": false,
     "rented": 0,
