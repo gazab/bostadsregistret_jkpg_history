@@ -76,7 +76,7 @@
     "adText": "Lägenhet om 2rok i Jönköping, Norrahammar. Lägenhet i 2 plan. Egen ingång. Samt en trappa ner till allrum. Här bor du med närhet till bland annat badplats och vandringsleder. Busshållplats ligger med 20 meters avstånd från bostaden.",
     "statusText": "Published",
     "statusCode": 1,
-    "mayManageApplicants": false,
+    "mayManageApplicants": true,
     "timeWhenLandlordMaySeeApplicants": 1639954800,
     "hidden": false,
     "rented": 0,
