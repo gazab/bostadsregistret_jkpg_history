@@ -76,7 +76,7 @@
     "adText": "Fin ljus lägenhet om 2rok i Hembygdsparken, Nässjö. Hörnlägenhet med fönster från tre väderstreck samt balkong. Kök med mindre köksö samt plats för matbord. Tvättrum och torkrum i källaren. Tillgänglig redan 1 februari.",
     "statusText": "Published",
     "statusCode": 1,
-    "mayManageApplicants": false,
+    "mayManageApplicants": true,
     "timeWhenLandlordMaySeeApplicants": 1640646000,
     "hidden": false,
     "rented": 0,
