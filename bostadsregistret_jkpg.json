@@ -286,7 +286,7 @@
     "adText": "Lägenhet om 2rok i Centrala Nässjö. Gammal kioskbyggnad omgjord till lägenhet med ny köksdel. Egen ingång. Fristående byggnad. Luftkonditionering. El ingår. @bostadsregistret #bostadsregistret",
     "statusText": "Published",
     "statusCode": 1,
-    "mayManageApplicants": false,
+    "mayManageApplicants": true,
     "timeWhenLandlordMaySeeApplicants": 1640991600,
     "hidden": false,
     "rented": 0,
