@@ -361,7 +361,7 @@
     "floor1Stairs": false,
     "attic": false,
     "duplex": false,
-    "furnished": false,
+    "furnished": true,
     "entryDate": "2022-04-01",
     "floor": 2,
     "reference": "",
