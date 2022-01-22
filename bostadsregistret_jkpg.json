@@ -244,7 +244,7 @@
     "adText": "Lägenhet om 2rok i Nyhem, Nässjö med balkong. I lägenheten hittar du även tvättmaskin och diskmaskin. ",
     "statusText": "Published",
     "statusCode": 1,
-    "mayManageApplicants": false,
+    "mayManageApplicants": true,
     "timeWhenLandlordMaySeeApplicants": 1642892400,
     "hidden": false,
     "rented": 0,
