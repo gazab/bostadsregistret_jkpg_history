@@ -76,7 +76,7 @@
     "adText": "Lägenhet om 1 rum, sovalkov och kokvrå på ca 30 kvm ledig fr o m 1 maj. Hushållsel ingår. Gemensam tvättstuga i källare. Möjlighet att hyra garage till finns. Nära till centrum, hembygdspark, träningsmöjligheter, simhall och till trevligt promenadstråk kring Ingsbergssjön.",
     "statusText": "Published",
     "statusCode": 1,
-    "mayManageApplicants": false,
+    "mayManageApplicants": true,
     "timeWhenLandlordMaySeeApplicants": 1643497200,
     "hidden": false,
     "rented": 0,
