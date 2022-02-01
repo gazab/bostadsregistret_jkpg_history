@@ -454,7 +454,7 @@
     "adText": "Lägenhet om 1rok i Centrala Nässjö. Köksdelen i ena delen av lägenheten öppen mot rummet. Stor garderob med snedtak som kan användas till t ex kontor.",
     "statusText": "Published",
     "statusCode": 1,
-    "mayManageApplicants": false,
+    "mayManageApplicants": true,
     "timeWhenLandlordMaySeeApplicants": 1643756400,
     "hidden": false,
     "rented": 0,
