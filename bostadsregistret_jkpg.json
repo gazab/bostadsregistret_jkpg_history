@@ -370,7 +370,7 @@
     "adText": "Lägenhet om 1rok i centrala Nässjö med balkong. Sök lägenheten inne på Bostadsregistret.se",
     "statusText": "Published",
     "statusCode": 1,
-    "mayManageApplicants": false,
+    "mayManageApplicants": true,
     "timeWhenLandlordMaySeeApplicants": 1644793200,
     "hidden": false,
     "rented": 0,
