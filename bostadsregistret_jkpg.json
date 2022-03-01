@@ -118,7 +118,7 @@
     "adText": "Lägenhet om 2rok i Jönköping Centrum. I hyran ingår värme, varm- och kallvatten. Köket är utrustat med mikro och diskmaskin. Helkaklade badrum, ett med badkar och det andra med dusch, tvättmaskin och torktumlare. Telia fiberanslutning finns in i lägenheten.\nSök lägenheten inne på Bostadsregistret.se",
     "statusText": "Published",
     "statusCode": 1,
-    "mayManageApplicants": false,
+    "mayManageApplicants": true,
     "timeWhenLandlordMaySeeApplicants": 1646175600,
     "hidden": false,
     "rented": 0,
