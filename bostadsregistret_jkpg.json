@@ -202,7 +202,7 @@
     "adText": "Lägenhet om 3rok i Centrala Nässjö. Ljus och fräsch trea på nedre våningen med högt i tak, höga fönster i tre väderstreck och kakelugn. Kaklat badrum. Tvättstugan är belägen i källaren. Sök lägenhet inne på Bostadsregistret.se",
     "statusText": "Published",
     "statusCode": 1,
-    "mayManageApplicants": false,
+    "mayManageApplicants": true,
     "timeWhenLandlordMaySeeApplicants": 1646694000,
     "hidden": false,
     "rented": 0,
