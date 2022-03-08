@@ -202,7 +202,7 @@
     "adText": "Lägenheten om 2rok i Forserum, Nässjö som kommer  att totalrenoveras innan inflytt . Ligger i centrala delarna av Forserum och här bor du med närhet till stadens utbud. Sök lägenheten inne på Bostadsregistret.se",
     "statusText": "Published",
     "statusCode": 1,
-    "mayManageApplicants": false,
+    "mayManageApplicants": true,
     "timeWhenLandlordMaySeeApplicants": 1646780400,
     "hidden": false,
     "rented": 0,
