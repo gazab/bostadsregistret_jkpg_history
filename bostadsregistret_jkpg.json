@@ -76,7 +76,7 @@
     "adText": "Lägenhet om 3rok i Nässjö, Handskeryd. Mysig lägenhet med ett sovrum i källaren. Stor altan med trappa ner till trädgården. Fiber ingår i hyran. Ej djur. Sök lägenheten inne på Bostadsregistret.se",
     "statusText": "Published",
     "statusCode": 1,
-    "mayManageApplicants": false,
+    "mayManageApplicants": true,
     "timeWhenLandlordMaySeeApplicants": 1647126000,
     "hidden": false,
     "rented": 0,
