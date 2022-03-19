@@ -118,7 +118,7 @@
     "adText": "1rok uthyres I Malmbäck, Nässjö. Ljus lägenhet på första plan. Fiber finns som man kan ansluta sig till. Gemensam tvättstuga och torkrum i källaren. Skicka in din intresseanmälan via Bostadsregistret.se",
     "statusText": "Published",
     "statusCode": 1,
-    "mayManageApplicants": false,
+    "mayManageApplicants": true,
     "timeWhenLandlordMaySeeApplicants": 1647730800,
     "hidden": false,
     "rented": 0,
