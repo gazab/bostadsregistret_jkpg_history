@@ -328,7 +328,7 @@
     "adText": "Fin 1 rum i Huskvarna, Jönköping med nyrenoverat badrum och utrymme för matlagning med diskmaskin i lägenheten. ",
     "statusText": "Published",
     "statusCode": 1,
-    "mayManageApplicants": false,
+    "mayManageApplicants": true,
     "timeWhenLandlordMaySeeApplicants": 1648591200,
     "hidden": false,
     "rented": 0,
