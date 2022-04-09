@@ -538,7 +538,7 @@
     "adText": "Lägenhet om 2rok med balkong centralt i Nässjö.",
     "statusText": "Published",
     "statusCode": 1,
-    "mayManageApplicants": false,
+    "mayManageApplicants": true,
     "timeWhenLandlordMaySeeApplicants": 1649541600,
     "hidden": false,
     "rented": 0,
