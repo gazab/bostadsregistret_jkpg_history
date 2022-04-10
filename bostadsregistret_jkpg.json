@@ -496,7 +496,7 @@
     "adText": "Lägenhet om 2rok med balkong i centrala Jönköping.  Kabel-tv ( Tele2 ) tillkommer med 133:-/mån Trappstädning tillkommer med 83:-/mån\n",
     "statusText": "Published",
     "statusCode": 1,
-    "mayManageApplicants": false,
+    "mayManageApplicants": true,
     "timeWhenLandlordMaySeeApplicants": 1649628000,
     "hidden": false,
     "rented": 0,
