@@ -901,7 +901,7 @@
     "rent": 5892,
     "warm": 2,
     "elevator": true,
-    "balcony": false,
+    "balcony": true,
     "floor1Sub": false,
     "floor1Ground": false,
     "floor1Stairs": true,
