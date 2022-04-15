@@ -286,7 +286,7 @@
     "adText": "Nyrenoverade lägenhet på 2rok i Åkersområdet (Nässjök) på ca 90kvm. Passar perfekt för ett par som vill ha ett lite större lägenhet. Lägenheten har 2st nyrenoverade toaletter, en inglasad altan. Lägenheten har egen tvättmaskinen och torktumlare. I hyran ingår en parkeringsplats. Hyra 8500 kr",
     "statusText": "Published",
     "statusCode": 1,
-    "mayManageApplicants": false,
+    "mayManageApplicants": true,
     "timeWhenLandlordMaySeeApplicants": 1650060000,
     "hidden": false,
     "rented": 0,
