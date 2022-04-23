@@ -286,7 +286,7 @@
     "adText": "Stor 2a med möblerbar hall i Nässjö. Tvättmaskin/torktumlare , diskmaskin finns i lägenheten.",
     "statusText": "Published",
     "statusCode": 1,
-    "mayManageApplicants": false,
+    "mayManageApplicants": true,
     "timeWhenLandlordMaySeeApplicants": 1650751200,
     "hidden": false,
     "rented": 0,
