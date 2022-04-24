@@ -244,7 +244,7 @@
     "adText": "Ljus fin lägenhet om 2rok på markplan i centrum. Stor innergård precis utanför dörren.\n",
     "statusText": "Published",
     "statusCode": 1,
-    "mayManageApplicants": false,
+    "mayManageApplicants": true,
     "timeWhenLandlordMaySeeApplicants": 1650837600,
     "hidden": false,
     "rented": 0,
