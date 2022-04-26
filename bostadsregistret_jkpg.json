@@ -118,7 +118,7 @@
     "adText": "Norrhagagatan 21 lgh 1101 är en väldigt rymlig 2a i en nyrenoverad fastighet. Bostaden befinner sig Öst om Ingsbergssjön med bara 2 minuter gångavstånd till Nässjö Vårdcentrum. Parkering finns att hyra utanför bostaden.",
     "statusText": "Published",
     "statusCode": 1,
-    "mayManageApplicants": false,
+    "mayManageApplicants": true,
     "timeWhenLandlordMaySeeApplicants": 1651010400,
     "hidden": false,
     "rented": 0,
