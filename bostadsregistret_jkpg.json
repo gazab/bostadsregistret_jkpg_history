@@ -118,7 +118,7 @@
     "adText": "En fin och ljus trea med stora rum och högt i tak, parkeringsplats ingår i hyran.",
     "statusText": "Published",
     "statusCode": 1,
-    "mayManageApplicants": false,
+    "mayManageApplicants": true,
     "timeWhenLandlordMaySeeApplicants": 1652479200,
     "hidden": false,
     "rented": 0,
