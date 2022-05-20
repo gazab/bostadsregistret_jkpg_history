@@ -118,7 +118,7 @@
     "adText": "Lägenheten om 3rok ligger i det populära området Göransberg, som mest består av villor. Nära till naturen. Lägenheten har egen tvättstuga. Fiber finns.\n",
     "statusText": "Published",
     "statusCode": 1,
-    "mayManageApplicants": false,
+    "mayManageApplicants": true,
     "timeWhenLandlordMaySeeApplicants": 1653084000,
     "hidden": false,
     "rented": 0,
