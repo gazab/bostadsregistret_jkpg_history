@@ -76,7 +76,7 @@
     "adText": "2a om 65kvm på första planet med tillgänglighet till uteplats och parkeringsplats. Diskmaskin finns.",
     "statusText": "Published",
     "statusCode": 1,
-    "mayManageApplicants": false,
+    "mayManageApplicants": true,
     "timeWhenLandlordMaySeeApplicants": 1653170400,
     "hidden": false,
     "rented": 0,
