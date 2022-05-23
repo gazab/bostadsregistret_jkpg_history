@@ -118,7 +118,7 @@
     "adText": "Centralt läge på denna lägenhet om 1rok i Huskvarna, men ändå väldigt lugnt vid Esplanaden. Lägenheten har eldningsbar kakelugn.\n",
     "statusText": "Published",
     "statusCode": 1,
-    "mayManageApplicants": false,
+    "mayManageApplicants": true,
     "timeWhenLandlordMaySeeApplicants": 1653343200,
     "hidden": false,
     "rented": 0,
