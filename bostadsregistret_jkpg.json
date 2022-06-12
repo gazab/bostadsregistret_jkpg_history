@@ -118,7 +118,7 @@
     "adText": "Centralt belägen lägenhet om 3rok med utsikt över Munksjön. I hyran ingår, varm- och kallvatten, värme samt internet. I lägenheten finns, diskmaskin, tvättmaskin och torktumlare.",
     "statusText": "Published",
     "statusCode": 1,
-    "mayManageApplicants": false,
+    "mayManageApplicants": true,
     "timeWhenLandlordMaySeeApplicants": 1655071200,
     "hidden": false,
     "rented": 0,
