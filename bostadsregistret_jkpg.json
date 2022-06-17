@@ -286,7 +286,7 @@
     "adText": "Lägenhet om 3rok i Centrala Nässjö. Comhem TV-paket ingår. @bostadsregistret #bostadsregistret ",
     "statusText": "Published",
     "statusCode": 1,
-    "mayManageApplicants": false,
+    "mayManageApplicants": true,
     "timeWhenLandlordMaySeeApplicants": 1655503200,
     "hidden": false,
     "rented": 0,
