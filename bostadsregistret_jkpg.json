@@ -328,7 +328,7 @@
     "adText": "Övernattningslägenhet om 1rok i centrala Nässjö med separat badrum. 30 kvm. Källarplan. El ingår i hyran.\n",
     "statusText": "Published",
     "statusCode": 1,
-    "mayManageApplicants": false,
+    "mayManageApplicants": true,
     "timeWhenLandlordMaySeeApplicants": 1656194400,
     "hidden": false,
     "rented": 0,
