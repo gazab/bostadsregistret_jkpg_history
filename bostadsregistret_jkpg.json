@@ -244,7 +244,7 @@
     "adText": "Välkommen till Gärdesgatan 11, På en lugn gata på Söder i Huskvarna finns nu en ledig lägenhet på ca 60 kvm fördelat på 2 rok med balkong. Välplanerad planlösning med balkongen i sydost med utsikt över lummigt grönområde. Sovrummet möjliggörs för en dubbelsäng samt att det finns bra med förvaring med både klädkammare i sovrummet och garderober i hallen. Vardagsrummet har härligt ljusinsläpp med access till balkongen. Köket är stort och rymligt med ett trevligt L-kök, ljusinsläpp från två väderstreck samt plats för stort matbord. Närheten till kommunikationer och centrum är goda med en busshållplats inte långt från bostaden. Gångavstånd till Huskvarna centrum och dess breda utbud av butiker, restauranger, skolor och vårdcentral. Med en 15 minuters promenad tar du sig till Huskvarnas station där både buss och tågutbudet är stort. I huset erbjuds möjlighet att ansluta sig till fiber och tv. En serviceavgift om 27kr/mån tillkommer utöver hyran. Hyresgästen tecknar även eget elabonnemang. Varmt välkommen med din intresseanmälan!",
     "statusText": "Published",
     "statusCode": 1,
-    "mayManageApplicants": false,
+    "mayManageApplicants": true,
     "timeWhenLandlordMaySeeApplicants": 1656799200,
     "hidden": false,
     "rented": 0,
