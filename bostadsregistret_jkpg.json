@@ -160,7 +160,7 @@
     "adText": "Lägenhet om 1 rum och kokvrå. Lämplig som övernattningslägenhet eller första boende. Hushållsel ingår. Dusch i källaren. Nära till centrum, simhall, gym, promenad kring Ingsbergssjön mm.\n",
     "statusText": "Published",
     "statusCode": 1,
-    "mayManageApplicants": false,
+    "mayManageApplicants": true,
     "timeWhenLandlordMaySeeApplicants": 1657058400,
     "hidden": false,
     "rented": 0,
