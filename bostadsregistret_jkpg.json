@@ -34,7 +34,7 @@
     "adText": "Lägenhet om 2 rok med balkong. Trevligt område nära centrum, simhall, gym, sjukhus, promenadstråk kring Ingsbergssjön mm.",
     "statusText": "Published",
     "statusCode": 1,
-    "mayManageApplicants": false,
+    "mayManageApplicants": true,
     "timeWhenLandlordMaySeeApplicants": 1657576800,
     "hidden": false,
     "rented": 0,
