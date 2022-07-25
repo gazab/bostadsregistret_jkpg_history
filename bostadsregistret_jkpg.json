@@ -34,7 +34,7 @@
     "adText": "Ljus lägenhet med sovalkov i populärt område nära centrum, mataffär, sjukhus mm.",
     "statusText": "Published",
     "statusCode": 1,
-    "mayManageApplicants": false,
+    "mayManageApplicants": true,
     "timeWhenLandlordMaySeeApplicants": 1658786400,
     "hidden": false,
     "rented": 0,
