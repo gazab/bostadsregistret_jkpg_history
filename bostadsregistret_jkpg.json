@@ -118,7 +118,7 @@
     "adText": "Lägenhet i Jönköping. Finns uteplats på tomten 4st lägenheter i huset.",
     "statusText": "Published",
     "statusCode": 1,
-    "mayManageApplicants": false,
+    "mayManageApplicants": true,
     "timeWhenLandlordMaySeeApplicants": 1659218400,
     "hidden": false,
     "rented": 0,
