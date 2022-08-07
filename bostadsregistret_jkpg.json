@@ -118,7 +118,7 @@
     "adText": "Lägenhet om 2rok i centrala Nässjö med nytt badrum.",
     "statusText": "Published",
     "statusCode": 1,
-    "mayManageApplicants": false,
+    "mayManageApplicants": true,
     "timeWhenLandlordMaySeeApplicants": 1659909600,
     "hidden": false,
     "rented": 0,
