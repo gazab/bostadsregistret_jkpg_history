@@ -328,7 +328,7 @@
     "adText": "Lägenhet om 2rok i Centrala Nässjö. Lägenheten är belägen på andra våningen och ligger med korta avstånd till stadens butiker och restauranger.\n@bostadsregistret #bostadsregistret ",
     "statusText": "Published",
     "statusCode": 1,
-    "mayManageApplicants": false,
+    "mayManageApplicants": true,
     "timeWhenLandlordMaySeeApplicants": 1660946400,
     "hidden": false,
     "rented": 0,
