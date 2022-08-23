@@ -244,7 +244,7 @@
     "adText": "Ligger centralt belägen i östra kanten av esplanaden. Har två fungerande kakelugnar. Eldstadstillägg tillkommer med 246:-/mån samt serviceavgift. Wetternet 25:-/mån.\n",
     "statusText": "Published",
     "statusCode": 1,
-    "mayManageApplicants": false,
+    "mayManageApplicants": true,
     "timeWhenLandlordMaySeeApplicants": 1661292000,
     "hidden": false,
     "rented": 0,
