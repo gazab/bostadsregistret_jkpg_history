@@ -118,7 +118,7 @@
     "adText": "Gavel lgh i 2 plan, m egen uteplats, nära bad o strövområden, busshållsplats utanför tomtgräns, lugnt o fint område,\n",
     "statusText": "Published",
     "statusCode": 1,
-    "mayManageApplicants": false,
+    "mayManageApplicants": true,
     "timeWhenLandlordMaySeeApplicants": 1662415200,
     "hidden": false,
     "rented": 0,
