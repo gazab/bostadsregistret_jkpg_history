@@ -286,7 +286,7 @@
     "adText": "Stor lägenhet i etage. Två stora badrum, dusch i båda. Ljus och fräsch. Öppen planlösning Balkong på övre våningsplanet. Rökning ej tillåtet.\n",
     "statusText": "Published",
     "statusCode": 1,
-    "mayManageApplicants": false,
+    "mayManageApplicants": true,
     "timeWhenLandlordMaySeeApplicants": 1664748000,
     "hidden": false,
     "rented": 0,
