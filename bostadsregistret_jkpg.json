@@ -160,7 +160,7 @@
     "adText": "Trevlig lägenhet på 1 plan om 3rok",
     "statusText": "Published",
     "statusCode": 1,
-    "mayManageApplicants": false,
+    "mayManageApplicants": true,
     "timeWhenLandlordMaySeeApplicants": 1665266400,
     "hidden": false,
     "rented": 0,
