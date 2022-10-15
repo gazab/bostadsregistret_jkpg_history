@@ -160,7 +160,7 @@
     "adText": "Trevlig och yteffektiv lägenhet i centrala Huskvarna med närhet såväl service, kollektivtrafik och grönområden. Tillägg för comhem, kabeltv är förnärvarande: 133 kr/mån.",
     "statusText": "Published",
     "statusCode": 1,
-    "mayManageApplicants": false,
+    "mayManageApplicants": true,
     "timeWhenLandlordMaySeeApplicants": 1665871200,
     "hidden": false,
     "rented": 0,
