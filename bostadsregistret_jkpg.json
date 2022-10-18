@@ -244,7 +244,7 @@
     "adText": "3 rum och kök mitt i centrum. Trevlig lägenhet i 2 plan, 2 badrum med möjlighet att koppla in sin egna tvättmaskin. Balkong finns men delas med 2 andra på våningsplanet\n",
     "statusText": "Published",
     "statusCode": 1,
-    "mayManageApplicants": false,
+    "mayManageApplicants": true,
     "timeWhenLandlordMaySeeApplicants": 1666130400,
     "hidden": false,
     "rented": 0,
