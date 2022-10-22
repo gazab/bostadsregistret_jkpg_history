@@ -160,7 +160,7 @@
     "adText": "4 Rum och kök alt 3 då 2 vardagsrum hänger ihop med skjutdörrsparti. Lägeheten genomgick en större renovering 2021 med nytt kök (varmluftsugn samt häll med induktion) , diskmaskin, samt nytt badrum, kakel på väggar samt klinker på golv med golvvärme. Fiskbensparkett i stora delar av lägenheten (nyslipade) och väggytor är nymålade. Nyrenoverad tvättstuga 2018, 2 st tvättmaskiner och en torktumlare, stort torkrum. Cykelförråd i källaren samt parkeringsplats finns att tillgå. Fiber finns.\n",
     "statusText": "Published",
     "statusCode": 1,
-    "mayManageApplicants": false,
+    "mayManageApplicants": true,
     "timeWhenLandlordMaySeeApplicants": 1666476000,
     "hidden": false,
     "rented": 0,
