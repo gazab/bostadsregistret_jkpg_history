@@ -76,7 +76,7 @@
     "adText": "Lägenhet om 2rok i Jönköping, Norrahammar. Lägenhet våning 2 nära skog o vandringsleder. nära Åsasjön, Busshållplats vid tomtgränsen. Nära till Norrahammars centrum , ca 1mil till centrala Jönköping\n",
     "statusText": "Published",
     "statusCode": 1,
-    "mayManageApplicants": false,
+    "mayManageApplicants": true,
     "timeWhenLandlordMaySeeApplicants": 1667257200,
     "hidden": false,
     "rented": 0,
