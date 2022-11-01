@@ -286,7 +286,7 @@
     "adText": "Lägenhet om 3rok i Centrala Nässjö. Balkong. Två toaletter. Diskmaskin. @bostadsregistret #bostadsregistret ",
     "statusText": "Published",
     "statusCode": 1,
-    "mayManageApplicants": false,
+    "mayManageApplicants": true,
     "timeWhenLandlordMaySeeApplicants": 1667343600,
     "hidden": false,
     "rented": 0,
