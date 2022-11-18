@@ -496,7 +496,7 @@
     "adText": "Centralt nära Hovrättstorget. Intill Jönköpings teater. I byggnad mot Kanalgatan bottenvåningen. Lgh nr 1002. Fyra rum och kök. mot gata och innergård. Egen ingång från innergård. Träbyggnad från 1885. Helrenoverad 1998. Ingång genom veranda. En inre hall med ingång till stort rum med kakelugn och tre fönster mot söder. I hallen ingång till badrum och gästtoalett. Från hallen ingång till kök. Vidare i fil vardagsrum med utgång till uterum, ett stort sovrum, ett mindre sovrum och ett förrådsrum. Kök med snickerier i ek. Spis, diskmaskin och stora separerade kyl - och frysskåp. Badrummet är kombinerat med tvättrum med tvättmaskin och torktumlare.. Genomgående trägolv. Äldre och nytillverkade dörrar i gammal stil. Målade väggar i ljus färg. TV anslutning och tele i alla rum. Tele 2, med basutbud och eget tillval. Bredband och basutbud TV ingår i hyran. Värme och vatten ingår i hyran. Glasat uterum och tillgång till uteplats på innergården. Tillgång till nybyggt lusthus. Parkerings- och garageplatser finns ej på gården. Hyresreglering inför 2023. Årshyra nu är 139 200 och kvadratmeterpriset per år 1364.\n",
     "statusText": "Published",
     "statusCode": 1,
-    "mayManageApplicants": false,
+    "mayManageApplicants": true,
     "timeWhenLandlordMaySeeApplicants": 1668812400,
     "hidden": false,
     "rented": 0,
