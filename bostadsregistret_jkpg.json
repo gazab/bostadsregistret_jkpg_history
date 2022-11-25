@@ -496,7 +496,7 @@
     "adText": "Lägenhet om 3rok i Nässjö. Värme och vatten ingår. Hyresgäst står för el. Tillgänglig omgående\n",
     "statusText": "Published",
     "statusCode": 1,
-    "mayManageApplicants": false,
+    "mayManageApplicants": true,
     "timeWhenLandlordMaySeeApplicants": 1669417200,
     "hidden": false,
     "rented": 0,
