@@ -454,7 +454,7 @@
     "adText": "Ljus 2ROK med balkong i centrala Nässjö. Belägen på andra våningen. ",
     "statusText": "Published",
     "statusCode": 1,
-    "mayManageApplicants": false,
+    "mayManageApplicants": true,
     "timeWhenLandlordMaySeeApplicants": 1669503600,
     "hidden": false,
     "rented": 0,
