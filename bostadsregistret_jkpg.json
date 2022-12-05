@@ -76,7 +76,7 @@
     "adText": "Lägenhet om 3rok i Centrala Nässjö. Balkong. ",
     "statusText": "Published",
     "statusCode": 1,
-    "mayManageApplicants": false,
+    "mayManageApplicants": true,
     "timeWhenLandlordMaySeeApplicants": 1670281200,
     "hidden": false,
     "rented": 0,
