@@ -76,7 +76,7 @@
     "adText": "Ljus trevlig lägenhet i centrala Forserum.\n",
     "statusText": "Published",
     "statusCode": 1,
-    "mayManageApplicants": false,
+    "mayManageApplicants": true,
     "timeWhenLandlordMaySeeApplicants": 1670367600,
     "hidden": false,
     "rented": 0,
