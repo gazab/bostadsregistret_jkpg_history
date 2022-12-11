@@ -202,7 +202,7 @@
     "adText": "Lägenhet om 2rok i Centrala Nässjö. Diskmaskin. @bostadsregistret #bostadsregistret ",
     "statusText": "Published",
     "statusCode": 1,
-    "mayManageApplicants": false,
+    "mayManageApplicants": true,
     "timeWhenLandlordMaySeeApplicants": 1670799600,
     "hidden": false,
     "rented": 0,
