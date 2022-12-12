@@ -160,7 +160,7 @@
     "adText": "4 rum och kök. Delar av kök utbytt med diskmaskin, induktionshäll och integrerad ugn. helkaklat badrum med golvvärme samt tvätt/torkmaskin Nya golv i hela lägenhet och nymålade väggar\n",
     "statusText": "Published",
     "statusCode": 1,
-    "mayManageApplicants": false,
+    "mayManageApplicants": true,
     "timeWhenLandlordMaySeeApplicants": 1670886000,
     "hidden": false,
     "rented": 0,
