@@ -328,7 +328,7 @@
     "adText": "Lägenhet om 1 rok i Jönköping. Parkering ingår. Tvättmaskin finns i lägenheten. Fiber finns tillgänglig.\n",
     "statusText": "Published",
     "statusCode": 1,
-    "mayManageApplicants": false,
+    "mayManageApplicants": true,
     "timeWhenLandlordMaySeeApplicants": 1671836400,
     "hidden": false,
     "rented": 0,
