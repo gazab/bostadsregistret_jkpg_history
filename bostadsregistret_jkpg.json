@@ -286,7 +286,7 @@
     "adText": "Lägenhet om 3rok belägen på första våningen. Lägenheten ligger i Nässjö, Hembygdsparken med närhet till stora, vackra grönområden. Balkong, diskmaskin, tvättmaskin, torktumlare inne i lägenheten samt fiber.",
     "statusText": "Published",
     "statusCode": 1,
-    "mayManageApplicants": false,
+    "mayManageApplicants": true,
     "timeWhenLandlordMaySeeApplicants": 1671922800,
     "hidden": false,
     "rented": 0,
