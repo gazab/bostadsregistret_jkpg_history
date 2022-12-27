@@ -76,7 +76,7 @@
     "adText": "Lägenhet om 1rok. Möblerat studentrum på ett av Jönköpings mest centrala adresser. Här delar du kök, toa och duschutrymmen med övriga boenden. Månadskostnad: 3158 kr/mån (varmhyra) Kontraktstyp: Förstahandskontrakt Våning: 2 Möblerad: Ja Cykelförråd: Ja Internet: Ja ingår i hyran Tillgängligt från och med: 2023-03-01 ev. tidigare. I hyran ingår värme, vatten, el och internet.",
     "statusText": "Published",
     "statusCode": 1,
-    "mayManageApplicants": false,
+    "mayManageApplicants": true,
     "timeWhenLandlordMaySeeApplicants": 1672182000,
     "hidden": false,
     "rented": 0,
