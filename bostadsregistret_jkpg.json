@@ -118,7 +118,7 @@
     "adText": "20Kvm + 15kvm kall förråd/förvaring. Ingen ugn, uttag för micro finns. Dusch i källarplan. Nära till bussförbindelse.",
     "statusText": "Published",
     "statusCode": 1,
-    "mayManageApplicants": false,
+    "mayManageApplicants": true,
     "timeWhenLandlordMaySeeApplicants": 1672614000,
     "hidden": false,
     "rented": 0,
