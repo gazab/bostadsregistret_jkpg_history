@@ -76,7 +76,7 @@
     "adText": "En ljus och trevlig 4ROK med bra standard, mitt i centrum blir ledig 1 mars eller enligt överenskommelse. Hiss, stor balkong, diskmaskin och Micro. Två toaletter. Möjlighet att hyra garageplats i källaren. Ett bekvämt boende med närhet till gym, butiker, apotek, restauranger och stationen.\n",
     "statusText": "Published",
     "statusCode": 1,
-    "mayManageApplicants": false,
+    "mayManageApplicants": true,
     "timeWhenLandlordMaySeeApplicants": 1674342000,
     "hidden": false,
     "rented": 0,
