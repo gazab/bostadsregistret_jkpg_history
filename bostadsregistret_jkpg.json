@@ -34,7 +34,7 @@
     "adText": "Stor och fin 3:a på 109kvm. Nyrenoverad 2017 med ekparkett i hela lägenheten, 1 WC och 1 badrum med torktumlare och tvättmaskin, bägge våtutrymmen är helkaklade med klinker.\n",
     "statusText": "Published",
     "statusCode": 1,
-    "mayManageApplicants": false,
+    "mayManageApplicants": true,
     "timeWhenLandlordMaySeeApplicants": 1674514800,
     "hidden": false,
     "rented": 0,
