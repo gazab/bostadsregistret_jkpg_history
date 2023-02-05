@@ -328,7 +328,7 @@
     "adText": "Högstandard på lägenheten. Två toaletter med dusch. Två balkonger. Möjlighet för att hyra parkeringsplats. Högstandard kök med diskmaskin. Tillgång trädgård. Här bor du ett stenkast från Runneryd skolan och nära Brinellhögskolan och sporthallen. För att bli hyresgäst hos värden vill de att: Du ska ha fyllt 18 år när hyresavtalet undertecknas Du skriver dig på adressen som står på hyreskontraktet Du ska kunna visa på att du har en regelbunden inkomst. Inkomsten ska kunna styrkas. För att förhindra trångboddhet följer värden Boverkets norm för hur många personer som får bo i en och samma bostad (Max 5 för denna bostad). Du ska kunna lämna referenser från tidigare hyresvärd eller arbetsgivare. Du inte har några betalningsanmärkningar eller oreglerade skulder hos kronofogdemyndigheten. Du inte har några störningsanmärkningar från tidigare boende Du inte röker varken i lägenheten eller på balkongen. Ingen husdjur tillåtet.\n",
     "statusText": "Published",
     "statusCode": 1,
-    "mayManageApplicants": false,
+    "mayManageApplicants": true,
     "timeWhenLandlordMaySeeApplicants": 1675638000,
     "hidden": false,
     "rented": 0,
