@@ -328,7 +328,7 @@
     "adText": "Lägenhet 3 RoK, Balkong, Fiber finns att teckna eget avtal, Möjlighet till att hyra p-plats.\n",
     "statusText": "Published",
     "statusCode": 1,
-    "mayManageApplicants": false,
+    "mayManageApplicants": true,
     "timeWhenLandlordMaySeeApplicants": 1676761200,
     "hidden": false,
     "rented": 0,
