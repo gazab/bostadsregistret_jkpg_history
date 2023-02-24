@@ -286,7 +286,7 @@
     "adText": "Denna lägenhet ligger på Espingsgatan 10 och har 2 rum o kokvrå, 48 kvm och ligger på 4587 kr i månaden. Lägenheten har gångavstånd till Ingsbergssjön och centrum. Den är ledig för inflytt från 2023-05-01 och passar perfekt till student eller ungdom som letar sitt första boende. Lägenheten ligger två trappor upp och det finns en plats utanför bostaden för cyklar. Välkommen med ditt intresse!\n",
     "statusText": "Published",
     "statusCode": 1,
-    "mayManageApplicants": false,
+    "mayManageApplicants": true,
     "timeWhenLandlordMaySeeApplicants": 1677279600,
     "hidden": false,
     "rented": 0,
