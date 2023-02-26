@@ -76,7 +76,7 @@
     "adText": "Bo tryggt och bekvämt mitt i stan.. Hög standard på disk- tvättmaskin och fiber. Tillgång till bastu, samlingslokal och övernattningslägenhet. Nära till allt som staden har att erbjuda. ",
     "statusText": "Published",
     "statusCode": 1,
-    "mayManageApplicants": false,
+    "mayManageApplicants": true,
     "timeWhenLandlordMaySeeApplicants": 1677452400,
     "hidden": false,
     "rented": 0,
