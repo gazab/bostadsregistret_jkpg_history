@@ -160,7 +160,7 @@
     "adText": "Rymlig lägenhet med stort badrum med tvättmaskin och torktumlare. Kök med diskmaskin. 5 min till närmsta mataffär och ca 10 min till centrum och station.\n",
     "statusText": "Published",
     "statusCode": 1,
-    "mayManageApplicants": false,
+    "mayManageApplicants": true,
     "timeWhenLandlordMaySeeApplicants": 1677538800,
     "hidden": false,
     "rented": 0,
