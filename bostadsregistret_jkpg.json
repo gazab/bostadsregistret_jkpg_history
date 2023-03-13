@@ -412,7 +412,7 @@
     "adText": "En fräsch och rymlig lägenhet som passar perfekt till en familj. Egen balkong, stor trädgård, nära till både skola, dagis och även stan. Egen tvättmaskin och torktumlare. Diskmaskin finns i lägenheten. Eget garage. \n",
     "statusText": "Published",
     "statusCode": 1,
-    "mayManageApplicants": false,
+    "mayManageApplicants": true,
     "timeWhenLandlordMaySeeApplicants": 1678748400,
     "hidden": false,
     "rented": 0,
