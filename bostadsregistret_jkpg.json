@@ -580,7 +580,7 @@
     "adText": "Lägenhet om 3rok i Nässjö, Hembygdsparken. Tvättmaskin ,torktumlare ,diskmaskin finns inne i lgh. Ev finns garage\n",
     "statusText": "Published",
     "statusCode": 1,
-    "mayManageApplicants": false,
+    "mayManageApplicants": true,
     "timeWhenLandlordMaySeeApplicants": 1678834800,
     "hidden": false,
     "rented": 0,
