@@ -118,7 +118,7 @@
     "adText": "Lägenhet om 3 rok i Jönköping. En lägenhet med uteplats belägen mitt i Östra Centrum. I hyran ingår värme, varm- och kallvatten. Hiss finns ej.",
     "statusText": "Published",
     "statusCode": 1,
-    "mayManageApplicants": false,
+    "mayManageApplicants": true,
     "timeWhenLandlordMaySeeApplicants": 1680645600,
     "hidden": false,
     "rented": 0,
