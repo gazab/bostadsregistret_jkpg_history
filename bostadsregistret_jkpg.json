@@ -328,7 +328,7 @@
     "adText": "SÖKER DU EN VÄLPLANERAD LÄGENHET MED RADHUSKÄNSLA I NATURSKÖNT OMRÅDE? Då har du hittat hem! Med egen entré på entréplan finner du en 73 kvadratmeter stor lägenhet fördelat på 3 rum och kök. Lägenheten har trevligt ljusinsläpp från tre håll då det är en gavellägenhet. Här har du ett enkelt leverne med två stora sovrum, vardagsrum med terrass i västerläge, egen tvättstuga och ett möblerbart kök. Lägenheten är byggd på 90-talet och är inte renoverad sedan dess. I hyran ingår serviceavgift för wetternet. Kallförråd i sidobyggnad ingår i hyran. P-plats med motorvärmaruttag går att hyra för 490 kr/mån. Göransberg ligger uppe på berget i Huskvarna. Stadsdelen har direkt närhet till grönområden, vandringsleder, friluftsliv aktivtetsplan och lekplatser. Inom gångavstånd finns mataffären Tempo som med ett välsorterat och uppskattat utbud. Tar du dig ner för berget finner du Huskvarna centrum, där det finns ett större utbud at såväl service som affärer. Området har närhet till förskola och grundskola i form av Klerckerska Villans Förskola, Nordskogens förskola och Stensholmsskolan F-6. Kollektivtrafiken är välfungerande med täta turer såväl till Huskvarna centrum som till Jönköping. Granngemenskap och trivsel anordnas bla. via Göransbergs byalag. Bilderna är tagna i likvärdig bostad, ej den aktuella. Varmt välkommen med din intresseanmälan!\n",
     "statusText": "Published",
     "statusCode": 1,
-    "mayManageApplicants": false,
+    "mayManageApplicants": true,
     "timeWhenLandlordMaySeeApplicants": 1682287200,
     "hidden": false,
     "rented": 0,
