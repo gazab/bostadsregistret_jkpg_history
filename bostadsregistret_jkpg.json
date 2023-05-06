@@ -118,7 +118,7 @@
     "adText": "En ljus och nyrenoverad lägenhet i mindre fastighet. 2 ROK 65 kvm. Balkong, diskmaskin Fiber kommer installeras under året.",
     "statusText": "Published",
     "statusCode": 1,
-    "mayManageApplicants": false,
+    "mayManageApplicants": true,
     "timeWhenLandlordMaySeeApplicants": 1683410400,
     "hidden": false,
     "rented": 0,
