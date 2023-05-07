@@ -76,7 +76,7 @@
     "adText": "En mysig 3:a i etage med trevlig innergård och gemensam tvättstuga i källaren. P-plats finns att hyra för 215kr/månad. Balkong finnes.\n",
     "statusText": "Published",
     "statusCode": 1,
-    "mayManageApplicants": false,
+    "mayManageApplicants": true,
     "timeWhenLandlordMaySeeApplicants": 1683496800,
     "hidden": false,
     "rented": 0,
