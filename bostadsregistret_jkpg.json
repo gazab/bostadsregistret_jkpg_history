@@ -76,7 +76,7 @@
     "adText": "Hej, Vi hyr ut en lgh på ca. 120 kvm. 5 rum + kök. 2 toa och 1 badrum. Stor trädgård med bra asfalterade parkeringsyta + rymligt garage. Hyran avser varmhyra per månad. Hyresgästen betalar bara för hushållsel och V/A avgifter. Huset ligger i Malmbäck. Lägenheten finns tillgänglig från 2023-05-15 Vid intresse berätta gärna om dig själv, din familjesituation, hur många vill ni bo i lägenheten osv. Berätta gärna om ni har betalningsanmärkningar eller skulder.\n",
     "statusText": "Published",
     "statusCode": 1,
-    "mayManageApplicants": false,
+    "mayManageApplicants": true,
     "timeWhenLandlordMaySeeApplicants": 1683669600,
     "hidden": false,
     "rented": 0,
