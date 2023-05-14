@@ -286,7 +286,7 @@
     "adText": "”Slottet” - Skärsjö Gård Rymlig nyrenoverad etta med hög standard och stor balkong. Nytt modernt fullutrustat kök. Avstånd till sjön ca 50 m Fastigheten ligger i ett stort grönområde med möjlighet till fiske och närhet till bad. Finns också tallskogar med, vandrings- och cykelleder Avstånd: Nässjö 22 km, Aneby 3 km, Tranås 29 km, Huskvarna 36 km Kris-rabatt! - Hör av dig så förklarar jag.\n",
     "statusText": "Published",
     "statusCode": 1,
-    "mayManageApplicants": false,
+    "mayManageApplicants": true,
     "timeWhenLandlordMaySeeApplicants": 1684101600,
     "hidden": false,
     "rented": 0,
