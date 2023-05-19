@@ -412,7 +412,7 @@
     "adText": "Lägenhet om 3rok med flera rum nytapetserade\n",
     "statusText": "Published",
     "statusCode": 1,
-    "mayManageApplicants": false,
+    "mayManageApplicants": true,
     "timeWhenLandlordMaySeeApplicants": 1684533600,
     "hidden": false,
     "rented": 0,
