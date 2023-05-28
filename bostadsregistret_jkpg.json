@@ -664,7 +664,7 @@
     "adText": "Vi hyr ut denna 3-rumslägenhet i fint skick. Lägenheten har diskmaskin och ligger i ett lungt beläget område med närhet till sport- och aktivitetshall, Nyhemsskolan samt Ingsbergs förskola. Lägenheten är tillgänglig från 2023-07-01 och passar perfekt för en familj. Parkering finns att hyra utanför fastigheten.\n",
     "statusText": "Published",
     "statusCode": 1,
-    "mayManageApplicants": false,
+    "mayManageApplicants": true,
     "timeWhenLandlordMaySeeApplicants": 1685311200,
     "hidden": false,
     "rented": 0,
