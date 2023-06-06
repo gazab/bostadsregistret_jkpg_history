@@ -244,7 +244,7 @@
     "adText": "Trevlig lägenhet i lugnt område, nära till skola, förskola och grönområden. Totalrenoverat badrum med dusch. Balkong i söderläge.\n",
     "statusText": "Published",
     "statusCode": 1,
-    "mayManageApplicants": false,
+    "mayManageApplicants": true,
     "timeWhenLandlordMaySeeApplicants": 1686088800,
     "hidden": false,
     "rented": 0,
