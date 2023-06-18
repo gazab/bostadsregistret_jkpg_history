@@ -118,7 +118,7 @@
     "adText": "Hyra: 5573SEK / Månad (inklusive garage) Area: 60 m2, Antal rum: 2 rum och kök Våning: 1, Hiss: Nej Tillträde: 2023-09-01 Beskrivning Yteffektiv och rymlig 2a om 60 kvm på förstaplan. Bostaden finner du i eftertraktade Handskeryd med närhet till mycket. Hyran avser 2023 och inkluderar värme, vatten. Fibernät finns indragen i alla\n",
     "statusText": "Published",
     "statusCode": 1,
-    "mayManageApplicants": false,
+    "mayManageApplicants": true,
     "timeWhenLandlordMaySeeApplicants": 1687125600,
     "hidden": false,
     "rented": 0,
