@@ -244,7 +244,7 @@
     "adText": "Fin 2 rok i lugna åker. Närhet till Skogsvallen och almenäsområdet.\n",
     "statusText": "Published",
     "statusCode": 1,
-    "mayManageApplicants": false,
+    "mayManageApplicants": true,
     "timeWhenLandlordMaySeeApplicants": 1687557600,
     "hidden": false,
     "rented": 0,
