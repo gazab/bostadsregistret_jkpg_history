@@ -160,7 +160,7 @@
     "adText": "Lägenhet om 3 rok med balkong. Fiberinstallation beställd. Nära centrum, hembygdspark, simhall, träningsmöjligheter och promenadstråk kring Ingsbergssjön.\n",
     "statusText": "Published",
     "statusCode": 1,
-    "mayManageApplicants": false,
+    "mayManageApplicants": true,
     "timeWhenLandlordMaySeeApplicants": 1687730400,
     "hidden": false,
     "rented": 0,
