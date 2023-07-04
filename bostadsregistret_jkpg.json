@@ -202,7 +202,7 @@
     "adText": "Unikt boende. Helt nyrenoverad lägenhet i ett 1700-talshus. I lägenheten finns b.la ett 1600-1700 tals valvrum, egen tvättstuga, dubbla badrum, separat ingång med uteplats i kvällsolsläge. Golvvärme i alla rum även i valvrummet. I hyran ingår el och värme.\n",
     "statusText": "Published",
     "statusCode": 1,
-    "mayManageApplicants": false,
+    "mayManageApplicants": true,
     "timeWhenLandlordMaySeeApplicants": 1688508000,
     "hidden": false,
     "rented": 0,
