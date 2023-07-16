@@ -34,7 +34,7 @@
     "adText": "Lägenhet om 2rok i Nässjö, Handskeryd. Tvättmaskin. Torktumlare. @bostadsregistret #bostadsregistret ",
     "statusText": "Published",
     "statusCode": 1,
-    "mayManageApplicants": false,
+    "mayManageApplicants": true,
     "timeWhenLandlordMaySeeApplicants": 1689544800,
     "hidden": false,
     "rented": 0,
