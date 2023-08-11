@@ -328,7 +328,7 @@
     "adText": "4 rum och kök med god standard. Nyligen nya fönster insatta i hela huset. Inglasad balkong med utsikt mot Vättern. Tillgång till en välskött trädgård. Lägenheten kan överlåtas omgående vid önskemål om en snabb flytt.\n",
     "statusText": "Published",
     "statusCode": 1,
-    "mayManageApplicants": false,
+    "mayManageApplicants": true,
     "timeWhenLandlordMaySeeApplicants": 1691791200,
     "hidden": false,
     "rented": 0,
