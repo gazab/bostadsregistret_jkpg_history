@@ -118,7 +118,7 @@
     "adText": "Nyrenoverad rymlig lägenhet med balkong. Kaklar badrum med dusch. Modernt kök med integrerad diskmaskin och micro. Induktionshäll. Parkettgolv i vardagsrum. Centralt lägen med 2 min till Coop, station, gym och Medborgarkontor. Värme och vatten ingår. Fiber är indraget till lägenheten. Parkering finns att hyra för105:-/mån. Borgenär på samtliga under 25 år.\n",
     "statusText": "Published",
     "statusCode": 1,
-    "mayManageApplicants": false,
+    "mayManageApplicants": true,
     "timeWhenLandlordMaySeeApplicants": 1691964000,
     "hidden": false,
     "rented": 0,
