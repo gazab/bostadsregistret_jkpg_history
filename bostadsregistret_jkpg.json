@@ -76,7 +76,7 @@
     "adText": "Fin etagevåning mitt i centrum. Diskmaskin. Tillgång till gemensam balkong\n",
     "statusText": "Published",
     "statusCode": 1,
-    "mayManageApplicants": false,
+    "mayManageApplicants": true,
     "timeWhenLandlordMaySeeApplicants": 1692655200,
     "hidden": false,
     "rented": 0,
