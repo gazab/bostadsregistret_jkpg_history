@@ -202,7 +202,7 @@
     "adText": "Lugnt område med trevliga grannar i centrala Nässjö. Trevlig lägenhet med avskilt sovrum och billig hyra. På trädgården finns en mysig delad uteplats.\n",
     "statusText": "Published",
     "statusCode": 1,
-    "mayManageApplicants": false,
+    "mayManageApplicants": true,
     "timeWhenLandlordMaySeeApplicants": 1692741600,
     "hidden": false,
     "rented": 0,
