@@ -34,7 +34,7 @@
     "adText": "Mysig lägenhet i lugna åker. Nyligen renoverad och i mycket fint skick!\n",
     "statusText": "Published",
     "statusCode": 1,
-    "mayManageApplicants": false,
+    "mayManageApplicants": true,
     "timeWhenLandlordMaySeeApplicants": 1693173600,
     "hidden": false,
     "rented": 0,
