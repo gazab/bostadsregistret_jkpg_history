@@ -496,7 +496,7 @@
     "adText": "Trevlig och fräsch lägenhet. Lägenheten ligger i ett lugnt område nära till skola och Ingsbergssjön. Ingår en parkeringsplats. Obs alla väggar är vita i lägenheten.\n",
     "statusText": "Published",
     "statusCode": 1,
-    "mayManageApplicants": false,
+    "mayManageApplicants": true,
     "timeWhenLandlordMaySeeApplicants": 1693692000,
     "hidden": false,
     "rented": 0,
