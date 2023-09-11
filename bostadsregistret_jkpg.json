@@ -118,7 +118,7 @@
     "adText": "Totalrenoverad 2022. Modernt kök med integrerad diskmaskin och micro. Induktionshäll. Kaklat badrum med dusch. Stor balkong i söderläge. Centralt läge ca 2 min till Coop, medborgarkontor, station med ca 20 min avstånd till Nässjö och Jönköping.\n",
     "statusText": "Published",
     "statusCode": 1,
-    "mayManageApplicants": false,
+    "mayManageApplicants": true,
     "timeWhenLandlordMaySeeApplicants": 1694469600,
     "hidden": false,
     "rented": 0,
