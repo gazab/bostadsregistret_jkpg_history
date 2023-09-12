@@ -76,7 +76,7 @@
     "adText": "Fin etta med balkong ut mot Nässjö på 3e våningen. Rejält kök med plats för matbord. Stor klädkammare där kläder samt övrig förvaring får plats. Fiber är indraget i huset. Tvättrum och torkrum i källarplan/markplan. Cykelförråd på markplan.\n",
     "statusText": "Published",
     "statusCode": 1,
-    "mayManageApplicants": false,
+    "mayManageApplicants": true,
     "timeWhenLandlordMaySeeApplicants": 1694556000,
     "hidden": false,
     "rented": 0,
