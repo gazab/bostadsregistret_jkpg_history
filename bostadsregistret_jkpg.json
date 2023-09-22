@@ -286,7 +286,7 @@
     "adText": "Nybyggd lägenhet i 1700-talshus med hög standard.\n",
     "statusText": "Published",
     "statusCode": 1,
-    "mayManageApplicants": false,
+    "mayManageApplicants": true,
     "timeWhenLandlordMaySeeApplicants": 1695420000,
     "hidden": false,
     "rented": 0,
