@@ -286,7 +286,7 @@
     "adText": "Tvättmaskin och torktumlare Hyran avser 2023 års hyresnivå, hyresförhandling pågår. Hyran kommer att bli en annan för 2024.\n",
     "statusText": "Published",
     "statusCode": 1,
-    "mayManageApplicants": false,
+    "mayManageApplicants": true,
     "timeWhenLandlordMaySeeApplicants": 1698012000,
     "hidden": false,
     "rented": 0,
