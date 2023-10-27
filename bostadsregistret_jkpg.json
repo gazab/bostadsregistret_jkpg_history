@@ -202,7 +202,7 @@
     "adText": "Delvis nyrenoverad trea med balkong i fint läge i åker. Nya golv samt nya ytskikt. Ny spis samt uppfräschat kök. Lugnt hus i lugnt område i Åker. Fiber finns indraget i huset\n",
     "statusText": "Published",
     "statusCode": 1,
-    "mayManageApplicants": false,
+    "mayManageApplicants": true,
     "timeWhenLandlordMaySeeApplicants": 1698444000,
     "hidden": false,
     "rented": 0,
