@@ -160,7 +160,7 @@
     "adText": "Stor lägenhet i fin sekelskiftesfastighet med stor tomt som endast delas med 1st lägenhet ytterligare. Boendet passar den stora familjen utmärkt. Angiven hyran avser aktuell hyresnivå 2023 och inkluderar värme, vatten, fiber samt TV.\n",
     "statusText": "Published",
     "statusCode": 1,
-    "mayManageApplicants": false,
+    "mayManageApplicants": true,
     "timeWhenLandlordMaySeeApplicants": 1698793200,
     "hidden": false,
     "rented": 0,
