@@ -538,7 +538,7 @@
     "adText": "Sovalkov, ”kokvrå”\n",
     "statusText": "Published",
     "statusCode": 1,
-    "mayManageApplicants": false,
+    "mayManageApplicants": true,
     "timeWhenLandlordMaySeeApplicants": 1699138800,
     "hidden": false,
     "rented": 0,
