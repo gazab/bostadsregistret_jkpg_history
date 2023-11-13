@@ -286,7 +286,7 @@
     "adText": "Centralt i Huskvarna Totalrenoverad - mycket fin nytt kök nytt badrum ny el, diskmaskin och kabel-tv ingår\n",
     "statusText": "Published",
     "statusCode": 1,
-    "mayManageApplicants": false,
+    "mayManageApplicants": true,
     "timeWhenLandlordMaySeeApplicants": 1699916400,
     "hidden": false,
     "rented": 0,
