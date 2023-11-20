@@ -160,7 +160,7 @@
     "adText": "Ljus lägenhet om 1, 5 rok i centrala Nässjö. Fiberinstallation pågår i fastigheten. Parkeringsplats på innergård. Gemensam tvättstuga i källaren. Källarförråd. Nära till träningsmöjligheter, vårdcentral, bensinmack, buss- och tågstation mm. Obs hyran enligt nivå för 2023.\n",
     "statusText": "Published",
     "statusCode": 1,
-    "mayManageApplicants": false,
+    "mayManageApplicants": true,
     "timeWhenLandlordMaySeeApplicants": 1700521200,
     "hidden": false,
     "rented": 0,
