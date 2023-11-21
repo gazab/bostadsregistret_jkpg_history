@@ -454,7 +454,7 @@
     "adText": "Bra planlösning Fiberanslutning Möjlighet till egen tvättmaskin Egen ingång möjligt att ha utemöbler utanför Hyran är 2023 års hyra kommer höjas efter avklarad förhandling\n",
     "statusText": "Published",
     "statusCode": 1,
-    "mayManageApplicants": false,
+    "mayManageApplicants": true,
     "timeWhenLandlordMaySeeApplicants": 1700607600,
     "hidden": false,
     "rented": 0,
