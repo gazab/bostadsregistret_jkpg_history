@@ -412,7 +412,7 @@
     "adText": "Lägenhet med bra standard. Slipat trägolv, helkaklat badrum. Parkering ingår. Nya val för tapeter och färger kan göras. Möjlighet till tidigare tillträde.\n",
     "statusText": "Published",
     "statusCode": 1,
-    "mayManageApplicants": false,
+    "mayManageApplicants": true,
     "timeWhenLandlordMaySeeApplicants": 1702076400,
     "hidden": false,
     "rented": 0,
