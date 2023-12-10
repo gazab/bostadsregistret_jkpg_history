@@ -118,7 +118,7 @@
     "adText": "En ljus och trivsam lägenhet om 3rok i Centrala Nässjö med öppen planlösning blir ledig 1 april eller ev. något tidigare. Balkong. Hiss. Lugnt och bekvämt boende mitt i centrum. I lägenheten finns tvättmaskin, torktumlare, diskmaskin, mikrovågsugn samt goda förvaringsmöjligheter. Två toaletter med dusch. Stor balkong. Kabel-tv och garageplats ingår.\n",
     "statusText": "Published",
     "statusCode": 1,
-    "mayManageApplicants": false,
+    "mayManageApplicants": true,
     "timeWhenLandlordMaySeeApplicants": 1702249200,
     "hidden": false,
     "rented": 0,
