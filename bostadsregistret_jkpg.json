@@ -244,7 +244,7 @@
     "adText": "Rymlig etta med balkong. Närhet till Åkerskolan, Skogsvallen och Almenäsområdet.\n",
     "statusText": "Published",
     "statusCode": 1,
-    "mayManageApplicants": false,
+    "mayManageApplicants": true,
     "timeWhenLandlordMaySeeApplicants": 1702940400,
     "hidden": false,
     "rented": 0,
