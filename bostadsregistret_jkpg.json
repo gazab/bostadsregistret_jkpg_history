@@ -34,7 +34,7 @@
     "adText": "Trevlig liten lägenhet i ett hus med endast 4 lägenheter. Nyrenoverd tvättstuga i källaren. Nykaklat badrum med dusch. Fiber installeras under 2024. Värme och vatten ingår. Närhet till förskola, skola.\n",
     "statusText": "Published",
     "statusCode": 1,
-    "mayManageApplicants": false,
+    "mayManageApplicants": true,
     "timeWhenLandlordMaySeeApplicants": 1703372400,
     "hidden": false,
     "rented": 0,
