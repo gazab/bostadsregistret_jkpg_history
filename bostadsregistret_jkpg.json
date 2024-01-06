@@ -118,7 +118,7 @@
     "adText": "Centralt läge på Atollen, stor altarn på taket. hyran är 2023 års hyra. ev. inflytt tidigare",
     "statusText": "Published",
     "statusCode": 1,
-    "mayManageApplicants": false,
+    "mayManageApplicants": true,
     "timeWhenLandlordMaySeeApplicants": 1704582000,
     "hidden": false,
     "rented": 0,
