@@ -118,7 +118,7 @@
     "adText": "Här bor ni tryggt och bekvämt mitt i stan. Fastigheten har hiss och lägenheten har hög standard med egen tvättmaskin, torktumlare och diskmaskin samt en stor inglasad balkong. Tillgång till övernattningslägenhet, samlingslokal och bastu. Närhet till tåg och buss.\n",
     "statusText": "Published",
     "statusCode": 1,
-    "mayManageApplicants": false,
+    "mayManageApplicants": true,
     "timeWhenLandlordMaySeeApplicants": 1705100400,
     "hidden": false,
     "rented": 0,
