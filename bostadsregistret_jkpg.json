@@ -286,7 +286,7 @@
     "adText": "Lägenhet i Handskeryd Fiber indraget.\n",
     "statusText": "Published",
     "statusCode": 1,
-    "mayManageApplicants": false,
+    "mayManageApplicants": true,
     "timeWhenLandlordMaySeeApplicants": 1705705200,
     "hidden": false,
     "rented": 0,
