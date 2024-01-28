@@ -76,7 +76,7 @@
     "adText": "Fin mindre 2a på tredje plan med utsikt över Nässjö från vardagsrum och balkongen. Ingen insyn då lägenheten ligger högre än övriga hus. Det är ett lugnt hus. Fiber är indraget. Helkaklat badrum\n",
     "statusText": "Published",
     "statusCode": 1,
-    "mayManageApplicants": false,
+    "mayManageApplicants": true,
     "timeWhenLandlordMaySeeApplicants": 1706482800,
     "hidden": false,
     "rented": 0,
