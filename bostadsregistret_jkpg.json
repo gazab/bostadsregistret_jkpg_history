@@ -34,7 +34,7 @@
     "adText": "Nu har du chansen att hyra en fantastisk 2 rum och kök belägen i ett lugnt område med gångavstånd till Nyhemsskolan och vårdcentralen. Centrum ligger bara en kort promenad bort, vilket ger dig närhet till allt du behöver. Lägenheten har moderna bekvämligheter, inklusive diskmaskin för din bekvämlighet. Dessutom finns det möjlighet att hyra en parkeringsplats utanför fastigheten för din bekvämlighet. Det är möjligt att flytta in från den 1 februari 2024. Du är välkommen att höra av dig till info@cgbostader.se för mer info om visning.\n",
     "statusText": "Published",
     "statusCode": 1,
-    "mayManageApplicants": false,
+    "mayManageApplicants": true,
     "timeWhenLandlordMaySeeApplicants": 1706655600,
     "hidden": false,
     "rented": 0,
