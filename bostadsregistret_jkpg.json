@@ -202,7 +202,7 @@
     "adText": "Stor öppen lägenhet 5rok helt våningsplan centralt mitt emot sjukhuset.vån 2 helkaklat badrum. fiskbensparkett och trägolv/klinker på golven. fönster kommer att bytas innan inflytt och blir nya 3glas. fullt utrustat kök med diskmaskin separat kul/frys.\n",
     "statusText": "Published",
     "statusCode": 1,
-    "mayManageApplicants": false,
+    "mayManageApplicants": true,
     "timeWhenLandlordMaySeeApplicants": 1707519600,
     "hidden": false,
     "rented": 0,
