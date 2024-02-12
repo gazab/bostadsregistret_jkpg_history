@@ -160,7 +160,7 @@
     "adText": "Trevlig lägenhet i lugnt område\n",
     "statusText": "Published",
     "statusCode": 1,
-    "mayManageApplicants": false,
+    "mayManageApplicants": true,
     "timeWhenLandlordMaySeeApplicants": 1707778800,
     "hidden": false,
     "rented": 0,
