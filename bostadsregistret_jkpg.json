@@ -538,7 +538,7 @@
     "adText": "Nyrenoverad lägenhet med hög standard i lugnt och trevligt område. Nära till både naturen och butiker och övrig service samt kommunikationer Badrum med golvvärme och egen tvättmaskin. Välutrustat kök med rostfria vitvaror. Diskmaskin. Fiberanslutning i lägenheten. Trevlig innergård. Bra parkeringsmöjligheter.\n",
     "statusText": "Published",
     "statusCode": 1,
-    "mayManageApplicants": false,
+    "mayManageApplicants": true,
     "timeWhenLandlordMaySeeApplicants": 1708124400,
     "hidden": false,
     "rented": 0,
