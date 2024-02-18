@@ -370,7 +370,7 @@
     "adText": "Mindre lägenhet som lämpar sig bäst som te.x. studentboende eller övernattningslägenhet. Alternativt för någon med lite mindre krav på sin bostad. Lägenheten har kökspentry. Nya golv och ytskikt. Lägenheten saknar dusch i lägenheten, utan har ett duschrum som man delar med en annan lägenhet. Det tillhör en parkeringsplats till lägenheten. Tillträde som tidigast 1a April.\n",
     "statusText": "Published",
     "statusCode": 1,
-    "mayManageApplicants": false,
+    "mayManageApplicants": true,
     "timeWhenLandlordMaySeeApplicants": 1708297200,
     "hidden": false,
     "rented": 0,
