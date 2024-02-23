@@ -118,7 +118,7 @@
     "adText": "Trevlig lägenhet i Handskeryd Fiber finns\n",
     "statusText": "Published",
     "statusCode": 1,
-    "mayManageApplicants": false,
+    "mayManageApplicants": true,
     "timeWhenLandlordMaySeeApplicants": 1708729200,
     "hidden": false,
     "rented": 0,
