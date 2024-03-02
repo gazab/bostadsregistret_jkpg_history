@@ -76,7 +76,7 @@
     "adText": "Nyrenoverad lägenhet i Malmbäck med nytt kök, vitvaror, nytt golv. Nyrenoverat badrum. Ca 50m till Ica\n",
     "statusText": "Published",
     "statusCode": 1,
-    "mayManageApplicants": false,
+    "mayManageApplicants": true,
     "timeWhenLandlordMaySeeApplicants": 1709420400,
     "hidden": false,
     "rented": 0,
