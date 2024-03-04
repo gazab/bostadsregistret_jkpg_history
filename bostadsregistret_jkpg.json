@@ -34,7 +34,7 @@
     "adText": "Etta på bra läge i Åker. Lägenheten har ett pentry och lämpar sig för en person som heltidsboende alternativt övernattningslägenhet för två personer. Parkering finns tillgängligt nära fastigheten på gatan. I hyran ingår bredband via gruppavtal, så det behövs ej tecknas eget internet.\n",
     "statusText": "Published",
     "statusCode": 1,
-    "mayManageApplicants": false,
+    "mayManageApplicants": true,
     "timeWhenLandlordMaySeeApplicants": 1709593200,
     "hidden": false,
     "rented": 0,
