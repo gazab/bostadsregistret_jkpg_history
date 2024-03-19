@@ -76,7 +76,7 @@
     "adText": "Lägenhet om 1 rum och mindre kök. Lämplig som övernattningsbostad eller studentboende. WC finns i lägenhet och dusch i källare. Fiber installeras under våren. Inom 1-2 kilometers avstånd finns möjlighet gå utbildningar på Sörängens folkhögskola, Träcentrum och Brinellgymnasiet. Nära till sjukhus, vårdcentral, centrum, tåg- och busstation. Tidigare tillträde ev möjligt.\n",
     "statusText": "Published",
     "statusCode": 1,
-    "mayManageApplicants": false,
+    "mayManageApplicants": true,
     "timeWhenLandlordMaySeeApplicants": 1710889200,
     "hidden": false,
     "rented": 0,
