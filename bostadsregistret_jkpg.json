@@ -76,7 +76,7 @@
     "adText": "1a med kokvrå och sovalkov. gemensam tvättstuga\n",
     "statusText": "Published",
     "statusCode": 1,
-    "mayManageApplicants": false,
+    "mayManageApplicants": true,
     "timeWhenLandlordMaySeeApplicants": 1711234800,
     "hidden": false,
     "rented": 0,
