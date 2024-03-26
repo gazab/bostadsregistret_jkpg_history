@@ -244,7 +244,7 @@
     "adText": "Trevlig lägenhet i centrala Forserum Nyrenoverat kök Ca 2 min promenad till Coop och gym samt station med goda förbindelser till Nässjö och Jönköping. Parkering på gården ingår.\n",
     "statusText": "Published",
     "statusCode": 1,
-    "mayManageApplicants": false,
+    "mayManageApplicants": true,
     "timeWhenLandlordMaySeeApplicants": 1711494000,
     "hidden": false,
     "rented": 0,
