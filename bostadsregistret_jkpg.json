@@ -118,7 +118,7 @@
     "adText": "Tillgänglig nu! Fin 3rok i ett lugnt familjevänligt område. Belägen inom gångavstånd till Nyhemsförskola, skola och vårdcentral. Endast 4 minuters bilresa från centrum. Hyran inkluderar en diskmaskin och det finns möjlighet att hyra en parkeringsplats utanför fastigheten. För mer information eller för att boka en visning, vänligen kontakta oss på info@cgbostader.se.\n",
     "statusText": "Published",
     "statusCode": 1,
-    "mayManageApplicants": false,
+    "mayManageApplicants": true,
     "timeWhenLandlordMaySeeApplicants": 1714255200,
     "hidden": false,
     "rented": 0,
