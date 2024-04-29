@@ -76,7 +76,7 @@
     "adText": "Lägenheten -Mysig, fräsch och stor 2 ROK. -Egen tvättmaskin Fastigheten -Ny parkering med egen parkering -Trappstädning varannan vecka -Fiber I närheten -Centralt belägen i Forserum -Gångavstånd till Coop, pizzeria, gym, järnvägsstation, bibliotek samt bibliotek. Pendlingsavstånd till Jönköping, Nässjö m.m.\n",
     "statusText": "Published",
     "statusCode": 1,
-    "mayManageApplicants": false,
+    "mayManageApplicants": true,
     "timeWhenLandlordMaySeeApplicants": 1714428000,
     "hidden": false,
     "rented": 0,
