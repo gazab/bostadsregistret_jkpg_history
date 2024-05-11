@@ -34,7 +34,7 @@
     "adText": "Charmig 1:a vid Nässjöcentrum! Perfekt läge bara ett stenkast från kommunaltrafik, matbutiker, restauranger och affärer. Idealiskt för studenter eller ensamstående, perfekt som första lägenhet. Kontakta oss på info@cgbostader.se för mer information och visning. Välkommen!\n",
     "statusText": "Published",
     "statusCode": 1,
-    "mayManageApplicants": false,
+    "mayManageApplicants": true,
     "timeWhenLandlordMaySeeApplicants": 1715464800,
     "hidden": false,
     "rented": 0,
