@@ -160,7 +160,7 @@
     "adText": "Centralt läge\n",
     "statusText": "Published",
     "statusCode": 1,
-    "mayManageApplicants": false,
+    "mayManageApplicants": true,
     "timeWhenLandlordMaySeeApplicants": 1716242400,
     "hidden": false,
     "rented": 0,
