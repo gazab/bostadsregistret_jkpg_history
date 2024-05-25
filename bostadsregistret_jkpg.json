@@ -202,7 +202,7 @@
     "adText": "3 rok i Nässjö – Familjevänligt och Lugnt Område Vi hyr ut en fin 3-rumslägenhet i ett lugnt och familjevänligt område, endast 10 minuters gångavstånd till Nässjö central. Lägenheten har balkong och är utrustad med diskmaskin och tvättmaskin som ingår i hyran. Välkommen på visning tisdagen den 28 maj 2024 kl. 15.30. Vänligen kontakta oss på info@cgbostader.se för att bekräfta att du kommer på visningen.\n",
     "statusText": "Published",
     "statusCode": 1,
-    "mayManageApplicants": false,
+    "mayManageApplicants": true,
     "timeWhenLandlordMaySeeApplicants": 1716674400,
     "hidden": false,
     "rented": 0,
