@@ -160,7 +160,7 @@
     "adText": "Trevlig lägenhet med lugn gemensam innegård, centralt beläggen nära resecentrum och stadskärna. Parkeringsplats finnes i nära anslutning för 235 kr/mån.\n",
     "statusText": "Published",
     "statusCode": 1,
-    "mayManageApplicants": false,
+    "mayManageApplicants": true,
     "timeWhenLandlordMaySeeApplicants": 1716760800,
     "hidden": false,
     "rented": 0,
