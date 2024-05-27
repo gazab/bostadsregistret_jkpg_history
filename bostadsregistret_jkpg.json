@@ -118,7 +118,7 @@
     "adText": "Lägenheten • Mysig lägenhet Fastigheten • Portkod • Trygghetsjour genom Securitas. • Fiber • Parkering utanför I närheten • Nära till mataffär,naturen, förskola, station m.m • Pendlingsavstånd till Jönköping och Eksjö\n",
     "statusText": "Published",
     "statusCode": 1,
-    "mayManageApplicants": false,
+    "mayManageApplicants": true,
     "timeWhenLandlordMaySeeApplicants": 1716847200,
     "hidden": false,
     "rented": 0,
