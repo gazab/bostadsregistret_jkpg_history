@@ -34,7 +34,7 @@
     "adText": "Ny produktion för 3 år sedan Ny kök och badrum och både nya golv och väggar väldigs trevligt med utsikt mot Vättern från fönstret Närhet till busshållplats\n",
     "statusText": "Published",
     "statusCode": 1,
-    "mayManageApplicants": false,
+    "mayManageApplicants": true,
     "timeWhenLandlordMaySeeApplicants": 1717365600,
     "hidden": false,
     "rented": 0,
