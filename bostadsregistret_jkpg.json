@@ -160,7 +160,7 @@
     "adText": "Lägenheten - Badrum med badkar Fastigheten - Fiber, kabel-tv - Trygghetsjour Securitas Området - Precis intill Coop, tågstation med goda pendlingsmöjligheter till både Nässjö och Jönköping. Förskola och vårdcentral.\n",
     "statusText": "Published",
     "statusCode": 1,
-    "mayManageApplicants": false,
+    "mayManageApplicants": true,
     "timeWhenLandlordMaySeeApplicants": 1718575200,
     "hidden": false,
     "rented": 0,
