@@ -76,7 +76,7 @@
     "adText": "Lägenheten -Har rymliga rum - Mysig gård med lekplats Fastigheten - Trygghetsjour Securitas - Fiber , kabeltv Mysigt lugnt område Närhet till tågstation med goda pendlingsmöjligheter till bla Nässjö och Jönköping. Coop, bibliotek Vårdcentral och förskola\n",
     "statusText": "Published",
     "statusCode": 1,
-    "mayManageApplicants": false,
+    "mayManageApplicants": true,
     "timeWhenLandlordMaySeeApplicants": 1718661600,
     "hidden": false,
     "rented": 0,
