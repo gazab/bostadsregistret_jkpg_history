@@ -202,7 +202,7 @@
     "adText": "Lägenheten -Rymlig lägenhet i lugnt område. - Balkong -Diskmaskin. Fastigheten - Kabeltv och fiber -Trygghetsjour Securitas I närheten -Närhet till natur och ca 10 min promenad till station och centrum med Coop, bibliotek, vårdcentral och skola.\n",
     "statusText": "Published",
     "statusCode": 1,
-    "mayManageApplicants": false,
+    "mayManageApplicants": true,
     "timeWhenLandlordMaySeeApplicants": 1718748000,
     "hidden": false,
     "rented": 0,
