@@ -76,7 +76,7 @@
     "adText": "Välkommen till denna tvåa belägen på Storgatan 36A i hjärtat av Nässjö! Perfekt för dig som vill bo centralt med närhet till allt vad staden har att erbjuda. Nässjö tågstation ligger endast ett par minuters promenad bort vilket gör pendlingen smidig. En trevlig 2ROK, vindslägenhet med öppen planlösning och stor balkong över Storgatan. -Tillgång till gemensam tvättstuga -Värme, vatten och hushållsel ingår i hyran. -Hiss -Comhem hus med grundutbud av TV kanaler - Möjlighet att hyra garageplats\n",
     "statusText": "Published",
     "statusCode": 1,
-    "mayManageApplicants": false,
+    "mayManageApplicants": true,
     "timeWhenLandlordMaySeeApplicants": 1719266400,
     "hidden": false,
     "rented": 0,
