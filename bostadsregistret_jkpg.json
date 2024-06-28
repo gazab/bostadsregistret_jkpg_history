@@ -160,7 +160,7 @@
     "adText": "I hyran ingår följande: Tv, internet, värme, varm- och kallvatten. Kök från HTH med kyl/frys, mikro och diskmaskin. Helkaklat badrum med tvättmaskin och torktumlare. OBS! Hela fastigheten är rökfri.\n",
     "statusText": "Published",
     "statusCode": 1,
-    "mayManageApplicants": false,
+    "mayManageApplicants": true,
     "timeWhenLandlordMaySeeApplicants": 1719612000,
     "hidden": false,
     "rented": 0,
