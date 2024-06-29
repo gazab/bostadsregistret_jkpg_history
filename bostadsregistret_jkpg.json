@@ -118,7 +118,7 @@
     "adText": "I hyran ingår värme, varm- och kallvatten. Köket är utrustat med mikro och diskmaskin. Helkaklat badrum med tvättmaskin och torktumlare. Telia fiber finns i lägenheten. Möjlighet till tidigare tillträde finns.\n",
     "statusText": "Published",
     "statusCode": 1,
-    "mayManageApplicants": false,
+    "mayManageApplicants": true,
     "timeWhenLandlordMaySeeApplicants": 1719698400,
     "hidden": false,
     "rented": 0,
