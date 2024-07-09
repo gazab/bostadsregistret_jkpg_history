@@ -118,7 +118,7 @@
     "adText": "Lägenhet 2 RoK Balkong, Hiss, diskmaskin, Möjlighet till att hyra parkeringsplats.\n",
     "statusText": "Published",
     "statusCode": 1,
-    "mayManageApplicants": false,
+    "mayManageApplicants": true,
     "timeWhenLandlordMaySeeApplicants": 1720562400,
     "hidden": false,
     "rented": 0,
