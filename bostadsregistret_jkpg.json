@@ -160,7 +160,7 @@
     "adText": "Trevlig och fräsch lägenhet. Lägenheten har diskmaskin och en parkeringsplats ingår. Lägenheten ligger i ett lugnt område nära till skola och Ingsbergssjön. Inflytt den 1/11 eller enligt överenskommelse.\n",
     "statusText": "Published",
     "statusCode": 1,
-    "mayManageApplicants": false,
+    "mayManageApplicants": true,
     "timeWhenLandlordMaySeeApplicants": 1720821600,
     "hidden": false,
     "rented": 0,
