@@ -118,7 +118,7 @@
     "adText": "Här erbjuds en  fin 1,5:a med balkong. Närhet till Åkerskolan, Skogsvallen och Almenäsområdet.",
     "statusText": "Published",
     "statusCode": 1,
-    "mayManageApplicants": false,
+    "mayManageApplicants": true,
     "timeWhenLandlordMaySeeApplicants": 1720908000,
     "hidden": false,
     "rented": 0,
