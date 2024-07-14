@@ -76,7 +76,7 @@
     "adText": "Total renoverad 2016 Bilderna som visas är ex. på hur de renoverade lägenhet ser ut. Disk- och tvättmaskin finns i lägenheten. Parkett i hela lägenheten förutom badrum där det är klinker. Ansökningarna börjas gå igenom i mitten av augusti.\n",
     "statusText": "Published",
     "statusCode": 1,
-    "mayManageApplicants": false,
+    "mayManageApplicants": true,
     "timeWhenLandlordMaySeeApplicants": 1720994400,
     "hidden": false,
     "rented": 0,
