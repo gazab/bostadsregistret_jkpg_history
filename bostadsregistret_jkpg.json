@@ -34,7 +34,7 @@
     "adText": "Lugnt område i Nässjö\n",
     "statusText": "Published",
     "statusCode": 1,
-    "mayManageApplicants": false,
+    "mayManageApplicants": true,
     "timeWhenLandlordMaySeeApplicants": 1721167200,
     "hidden": false,
     "rented": 0,
