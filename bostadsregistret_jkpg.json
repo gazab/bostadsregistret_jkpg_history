@@ -76,7 +76,7 @@
     "adText": "Ledig lägenhet i Nässjö med gångavstånd till centralstationen, vårdcentralen och Handskerydsskolan. Lägenheten har 3 rum och kök, ca 77 kvm, och kostar 6827 kr/mån. Det finns möjlighet att hyra en parkeringsplats utanför fastigheten. Fastigheten ligger i Handskeryd och har en gemensam tvättstuga samt ett källarförråd. Välkommen att kontakta oss på info@cgbostader.se för information om visning.",
     "statusText": "Published",
     "statusCode": 1,
-    "mayManageApplicants": false,
+    "mayManageApplicants": true,
     "timeWhenLandlordMaySeeApplicants": 1722117600,
     "hidden": false,
     "rented": 0,
