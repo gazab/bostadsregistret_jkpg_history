@@ -34,7 +34,7 @@
     "adText": "Fin 1rok som passar perfekt för dig som är ensam/student eller som första lägenhet. Belägen i ett lugnt område med gångavstånd till centrum och kommunaltrafik. Vatten och uppvärmning ingår i hyran. För information om visning, välkommen att kontakta oss på info@cgbostader.se.",
     "statusText": "Published",
     "statusCode": 1,
-    "mayManageApplicants": false,
+    "mayManageApplicants": true,
     "timeWhenLandlordMaySeeApplicants": 1722290400,
     "hidden": false,
     "rented": 0,
