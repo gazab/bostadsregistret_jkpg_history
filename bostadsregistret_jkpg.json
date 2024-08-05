@@ -286,7 +286,7 @@
     "adText": "Lägenheten ligger i ett attraktivt lugnt område, belägen på andra våningen med en generös balkong på 15kvm i söderläge. Öppen planlösning med mycket ljusinsläpp. Köket är från 2018 med rostfria vitvaror, integrerad diskmaskin. Spishäll och diskho placerad i köksö med utsikt över vardagsrum och balkong som skapar en social sällskapsyta. Badrummet är ljust kaklat med modern inredning samt golvvärme. Speciellt för denna lägenhet är att den är utrustad med en egen mysig bastu i badrummet. Övrig info: - öppet wifi (ingår i hyran) - varmhyra - gemensam tvättstuga - förråd i källare - Rökning förbjuden i hela fastigheten. Krav på dig som hyresgäst är: * krav på fast inkomst/tillsvidareanställning * inga betalningsanmärkningar (vi gör kreditupplysning) *Djurfritt i  lägenheten.  Är lämplig för max 2 personer.",
     "statusText": "Published",
     "statusCode": 1,
-    "mayManageApplicants": false,
+    "mayManageApplicants": true,
     "timeWhenLandlordMaySeeApplicants": 1722895200,
     "hidden": false,
     "rented": 0,
