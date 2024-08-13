@@ -118,7 +118,7 @@
     "adText": "Ljus och trevlig lägenhet 2,5 rum. Finns tillgång till uteplats och utemöbler nere på trädgården. I hyran ingår fiber 100/100. En parkeringsplats ingår. Inflytt enligt överenskommelse, gärna tidigare.\n",
     "statusText": "Published",
     "statusCode": 1,
-    "mayManageApplicants": false,
+    "mayManageApplicants": true,
     "timeWhenLandlordMaySeeApplicants": 1723586400,
     "hidden": false,
     "rented": 0,
