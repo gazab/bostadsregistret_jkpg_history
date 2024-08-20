@@ -34,7 +34,7 @@
     "adText": "En trevlig lägenhet med balkong mot Ingbergssjön. I mindre fastighet med sex lägenheter i lugnt område. Nyrenoverad tvättstuga i källare. Parkering ingår på innergården. I hyran ingår allt förutom hushållsel.\n",
     "statusText": "Published",
     "statusCode": 1,
-    "mayManageApplicants": false,
+    "mayManageApplicants": true,
     "timeWhenLandlordMaySeeApplicants": 1724191200,
     "hidden": false,
     "rented": 0,
