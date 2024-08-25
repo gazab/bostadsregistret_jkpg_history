@@ -34,7 +34,7 @@
     "adText": "Denna ljusa och rymliga lägenhet har precis fått nya golv i sovrum, kök och hall, vilket ger en fräsch känsla i hela bostaden. Köket är utrustat med helt nya vitvaror inklusive en diskmaskin, vilket underlättar vardagen. Här finns också gott om förvaringsutrymmen och plats för en matgrupp. Sovrummet är stort och luftigt med plats för både dubbelsäng och förvaring. Vardagsrummet erbjuder en trivsam yta för både umgänge och avkoppling. Det rymliga badrummet har dusch och plats för tvättmaskin om så önskas. Lägenheten ligger i ett attraktivt område med närhet till skolor, affärer, restauranger, och kollektivtrafik. Med gångavstånd till Nässjö centrum har du allt du behöver inom räckhåll. - Förråd och tvättstuga finns i huset. - Möjlighet till parkering.\n",
     "statusText": "Published",
     "statusCode": 1,
-    "mayManageApplicants": false,
+    "mayManageApplicants": true,
     "timeWhenLandlordMaySeeApplicants": 1724623200,
     "hidden": false,
     "rented": 0,
