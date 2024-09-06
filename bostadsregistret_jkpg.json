@@ -328,7 +328,7 @@
     "adText": "En fräsch lägenhet till uthyrning i Nässjö med stor balkong Lägenheten är en 4:a med 120 m2 bestående av en rymlig balkonng(15m2), 3 sovrum och vardagsrum, fullutrustad kök, badrum med duschkabin. Stor och välkomnade hall med goda förvaringsutrymmen. Lägenheten och fastigheten har solläge tillhörande en stor trädgård med en inhägnad uteplats som ger en trevlig vistelse med villa känsla Lägenheten befinner sig i Nyhem i ett lungt och fint område med gångavstånd centrum Varmhyra inkl. el och parkering-plats Finns möjligt till uthyrning av garage Ledig från 1:a januari\n",
     "statusText": "Published",
     "statusCode": 1,
-    "mayManageApplicants": false,
+    "mayManageApplicants": true,
     "timeWhenLandlordMaySeeApplicants": 1725660000,
     "hidden": false,
     "rented": 0,
