@@ -76,7 +76,7 @@
     "adText": "Mycket trevlig lägenhet med egen uteplats, nära centrum.\n",
     "statusText": "Published",
     "statusCode": 1,
-    "mayManageApplicants": false,
+    "mayManageApplicants": true,
     "timeWhenLandlordMaySeeApplicants": 1726869600,
     "hidden": false,
     "rented": 0,
