@@ -34,7 +34,7 @@
     "adText": "Trevlig lägenhet med vardagsrum med högt i tak Fiberanslutning finns\n",
     "statusText": "Published",
     "statusCode": 1,
-    "mayManageApplicants": false,
+    "mayManageApplicants": true,
     "timeWhenLandlordMaySeeApplicants": 1727560800,
     "hidden": false,
     "rented": 0,
