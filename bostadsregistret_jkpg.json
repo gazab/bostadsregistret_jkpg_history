@@ -118,7 +118,7 @@
     "adText": "\n5rok , 2 balkonger, hyresgästen står för eget elavtal.  Ev möjlighet till parkering på tomten (Separat avtal)",
     "statusText": "Published",
     "statusCode": 1,
-    "mayManageApplicants": false,
+    "mayManageApplicants": true,
     "timeWhenLandlordMaySeeApplicants": 1728856800,
     "hidden": false,
     "rented": 0,
