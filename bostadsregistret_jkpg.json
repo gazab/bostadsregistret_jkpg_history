@@ -244,7 +244,7 @@
     "adText": "Fräsch lägenhet med två större rum och ett mindre rum. Tvättmaskin, torktumlare och diskmaskin finns i lägenheten.",
     "statusText": "Published",
     "statusCode": 1,
-    "mayManageApplicants": false,
+    "mayManageApplicants": true,
     "timeWhenLandlordMaySeeApplicants": 1729029600,
     "hidden": false,
     "rented": 0,
