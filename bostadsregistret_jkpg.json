@@ -328,7 +328,7 @@
     "adText": "Lägenhet om 4rok i Centrala Nässjö. Lägenhet om 4 rok i centrala Nässjö. Mycket bra planlösning. Två toaletter och en dusch samt kök relativt nyrenoverat. Hiss och nära till allt. Gemensam tvättstuga. @bostadsregistret #bostadsregistret ",
     "statusText": "Published",
     "statusCode": 1,
-    "mayManageApplicants": false,
+    "mayManageApplicants": true,
     "timeWhenLandlordMaySeeApplicants": 1729288800,
     "hidden": false,
     "rented": 0,
