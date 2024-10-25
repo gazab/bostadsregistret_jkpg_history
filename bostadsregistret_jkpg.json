@@ -76,7 +76,7 @@
     "adText": "Stor lägenhet med balkong. Egen parkering, Fiberanslutning för tecknande av valfritt bolag. Obs 2024 års hyra höjning efter nyår när förhandling är klar.",
     "statusText": "Published",
     "statusCode": 1,
-    "mayManageApplicants": false,
+    "mayManageApplicants": true,
     "timeWhenLandlordMaySeeApplicants": 1729893600,
     "hidden": false,
     "rented": 0,
