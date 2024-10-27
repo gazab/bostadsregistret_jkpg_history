@@ -34,7 +34,7 @@
     "adText": "**möjligt för inflyttning 2024-12-01** Denna rymliga lägenhet på hela 160 kvadrat ligger i ett mycket attraktivt område i hjärtat av Jönköping. Här bor du med närhet till allt du behöver för ett bekvämt och trivsamt boende. Lägenheten är belägen i ett lugnt och familjevänligt kvarter, med skolor på gångavstånd och utmärkta bussförbindelser som gör det enkelt att ta sig runt i staden. Du har också nära till både vårdcentral och flera matbutiker, vilket ger en smidig vardag. För den som uppskattar naturen är det bara ett stenkast till Vätterns strandpromenad och den vackra rosenträdgården i Rosenlund, där du kan njuta av avkopplande promenader och vackra vyer. Lägenheten passar både en familj som önskar gott om plats eller ett företag som söker en representativ och rymlig lokal för verksamhet. Till boendet hör även fantastiskt fina och välskötta trädgårdsytor, perfekta för avslappning och sociala tillställningar under varmare månader. Nära till rosenlundsbadet, Elmia där många av stadens mässor hålls.",
     "statusText": "Published",
     "statusCode": 1,
-    "mayManageApplicants": false,
+    "mayManageApplicants": true,
     "timeWhenLandlordMaySeeApplicants": 1730070000,
     "hidden": false,
     "rented": 0,
