@@ -34,7 +34,7 @@
     "adText": "Lägenhet om 2rok i Jönköping Centrum. Rymlig och fräsch 2:a. I hyran ingår värme, varm- och kallvatten, Kanalpaket Lagom Telia, Telia internet 100/10 mbit/s.",
     "statusText": "Published",
     "statusCode": 1,
-    "mayManageApplicants": false,
+    "mayManageApplicants": true,
     "timeWhenLandlordMaySeeApplicants": 1730588400,
     "hidden": false,
     "rented": 0,
