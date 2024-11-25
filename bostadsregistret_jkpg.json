@@ -202,7 +202,7 @@
     "adText": "\nLägenheten är belägen mitt i Forserum centrum. Nära till mataffär buss och tåg.",
     "statusText": "Published",
     "statusCode": 1,
-    "mayManageApplicants": false,
+    "mayManageApplicants": true,
     "timeWhenLandlordMaySeeApplicants": 1732575600,
     "hidden": false,
     "rented": 0,
