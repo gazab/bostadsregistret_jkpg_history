@@ -160,7 +160,7 @@
     "adText": "Trevlig lägenhet om 3rok. Nytt badrum. Bänkdiskmaskin. Fiber. Balkong. Möjlighet att flytta in tidigare finns. Hyra enl 2024 års nivå. Nära till träningsmöjligheter, sjukhus, hembygdspark, kulturhus, bibliotek, promenadstråk kring Ingsbergssjön mm\nTenant wishes\tDjur- och rökfri. Utan betalningsanmärkningar.",
     "statusText": "Published",
     "statusCode": 1,
-    "mayManageApplicants": false,
+    "mayManageApplicants": true,
     "timeWhenLandlordMaySeeApplicants": 1733007600,
     "hidden": false,
     "rented": 0,
