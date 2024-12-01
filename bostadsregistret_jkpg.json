@@ -118,7 +118,7 @@
     "adText": "Rymlig lägenhet i etage. Två stora badrum, dusch i båda. Ljus och fräsch. Öppen planlösning Balkong på övre våningsplanet . Två badrum. \nRökning ej tillåtet. ",
     "statusText": "Published",
     "statusCode": 1,
-    "mayManageApplicants": false,
+    "mayManageApplicants": true,
     "timeWhenLandlordMaySeeApplicants": 1733094000,
     "hidden": false,
     "rented": 0,
