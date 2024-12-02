@@ -76,7 +76,7 @@
     "adText": "Nytt kök integrerat ( inbyggda vitvaror) med diskmaskin, mikro, ugn och induktionshäll. Helkaklat badrum med golvvärme. Internet anslutning med tv-kanaler ingår i hyran. Stor balkong. Parkeringsplats på gården ingår i hyran.\nTenant wishes\tFast anställning och inga betalningsanmärkningar.",
     "statusText": "Published",
     "statusCode": 1,
-    "mayManageApplicants": false,
+    "mayManageApplicants": true,
     "timeWhenLandlordMaySeeApplicants": 1733180400,
     "hidden": false,
     "rented": 0,
