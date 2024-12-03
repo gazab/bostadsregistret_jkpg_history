@@ -160,7 +160,7 @@
     "adText": "En ljus och rymlig lägenhet med 2 rum och kök finns nu tillgänglig för uthyrning. Lägenheten ligger i hjärtat av Jönköping, bara några minuters promenad från Munksjön och nära till bussar, livsmedelsaffärer och affärer. Här kan du njuta av stadslivet och samtidigt ha naturen runt hörnet. I hyran ingår: Värme Varm- och kallvatten Kanalpaket genom Telia TV/Telefoni/Bredband: Lägenheten är ansluten till Telias Stadsnät. Önskar man använda sig av Telias tjänster tar man kontakt med Telia. Badrum och kök: Badrummet är utrustat med tvättmaskin och torktumlare. Köket är utrustat med diskmaskin och micro Hyran avser 2023, hyran för 2024 är inte fastställd än.",
     "statusText": "Published",
     "statusCode": 1,
-    "mayManageApplicants": false,
+    "mayManageApplicants": true,
     "timeWhenLandlordMaySeeApplicants": 1733266800,
     "hidden": false,
     "rented": 0,
