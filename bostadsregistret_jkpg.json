@@ -1,6 +1,6 @@
 [
   {
-    "id": 11029,
+    "id": 11030,
     "storedMatchingId": 0,
     "searchingFor": 0,
     "suburbId": 3790,
@@ -30,8 +30,8 @@
     "floor": 2,
     "reference": "",
     "postalCode": "57136",
-    "otherInfo": "En ljus, trevlig och rymlig lägenhet nära centrum i ett lugnt område. P-plats, tvättmaskin och torktumlare ingår i hyran. Obs! Hyran avser 2024 års hyresnivå, förhandlingar för 2025 pågår.",
-    "adText": "En ljus, trevlig och rymlig lägenhet nära centrum i ett lugnt område. P-plats, tvättmaskin och torktumlare ingår i hyran. Obs! Hyran avser 2024 års hyresnivå, förhandlingar för 2025 pågår.",
+    "otherInfo": "En ljus, trevlig och rymlig lägenhet nära centrum i ett lugnt område. P-plats, tvättmaskin och torktumlare ingår i hyran. Obs att hyran avser 2024 års hyresnivå, förhandlingar för 2025 pågår.",
+    "adText": "En ljus, trevlig och rymlig lägenhet nära centrum i ett lugnt område. P-plats, tvättmaskin och torktumlare ingår i hyran. Obs att hyran avser 2024 års hyresnivå, förhandlingar för 2025 pågår.",
     "statusText": "Published",
     "statusCode": 1,
     "mayManageApplicants": false,
