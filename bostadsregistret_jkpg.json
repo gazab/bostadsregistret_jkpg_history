@@ -118,7 +118,7 @@
     "adText": "Trivsam 2 rumslägenhet med stor balkong i söderläge egen tvättmaskin och torktumlare i lägenheten parkering ingår.",
     "statusText": "Published",
     "statusCode": 1,
-    "mayManageApplicants": false,
+    "mayManageApplicants": true,
     "timeWhenLandlordMaySeeApplicants": 1733785200,
     "hidden": false,
     "rented": 0,
