@@ -118,7 +118,7 @@
     "adText": "Nyrenoverad, nytt kök, nytt badrum kakel klinker, tvättmaskin, handdukstork, komod, spegelskåp. Nya parkett golv, plastmatta i kök, klinker i hall. Fiber finns indraget eget abonnemang",
     "statusText": "Published",
     "statusCode": 1,
-    "mayManageApplicants": false,
+    "mayManageApplicants": true,
     "timeWhenLandlordMaySeeApplicants": 1733871600,
     "hidden": false,
     "rented": 0,
