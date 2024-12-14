@@ -118,7 +118,7 @@
     "adText": "20 min från Jönköping i det fina samhället Ölmstad finns denna välskötta villa på 120 kvm m källare , nära natur, skola, idrottsanläggning, närbutik o busshålls plats härlig trädgård m automover o fin uteplats , billig uppvärmning m bergvärme pump\n",
     "statusText": "Published",
     "statusCode": 1,
-    "mayManageApplicants": false,
+    "mayManageApplicants": true,
     "timeWhenLandlordMaySeeApplicants": 1734217200,
     "hidden": false,
     "rented": 0,
