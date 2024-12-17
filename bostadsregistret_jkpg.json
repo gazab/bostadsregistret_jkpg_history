@@ -118,7 +118,7 @@
     "adText": "Lägenhet om 2rok i Centrala Nässjö. Fin lägenhet längst upp i mindre hyresfastighet. Förråd finns och ingår, hushållsel tillkommer på angiven hyra.\n",
     "statusText": "Published",
     "statusCode": 1,
-    "mayManageApplicants": false,
+    "mayManageApplicants": true,
     "timeWhenLandlordMaySeeApplicants": 1734476400,
     "hidden": false,
     "rented": 0,
