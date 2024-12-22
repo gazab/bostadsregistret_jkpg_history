@@ -76,7 +76,7 @@
     "adText": "Stor fin 2a på andra plan i lugna Handskeryd. Diskmaskin, parkeringsplats ingår. Garage finns att hyra om önskas. Tillgång till uteplats i trädgården.",
     "statusText": "Published",
     "statusCode": 1,
-    "mayManageApplicants": false,
+    "mayManageApplicants": true,
     "timeWhenLandlordMaySeeApplicants": 1734908400,
     "hidden": false,
     "rented": 0,
