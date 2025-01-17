@@ -328,7 +328,7 @@
     "adText": "3 rum och kök, nyrenoverad för två år sen.",
     "statusText": "Published",
     "statusCode": 1,
-    "mayManageApplicants": false,
+    "mayManageApplicants": true,
     "timeWhenLandlordMaySeeApplicants": 1737154800,
     "hidden": false,
     "rented": 0,
