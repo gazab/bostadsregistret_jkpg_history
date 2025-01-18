@@ -286,7 +286,7 @@
     "adText": "Nyrenoverad 1:a i Centrala Nässjö.",
     "statusText": "Published",
     "statusCode": 1,
-    "mayManageApplicants": false,
+    "mayManageApplicants": true,
     "timeWhenLandlordMaySeeApplicants": 1737241200,
     "hidden": false,
     "rented": 0,
