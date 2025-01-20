@@ -34,7 +34,7 @@
     "adText": "Central belägen lägenhet ett stenkast ifrån Huskvarna centrum. Nära till vårdcentral, matbutiker, bussförbindelser. Lugnt område som passar alla åldrar och livssituation.",
     "statusText": "Published",
     "statusCode": 1,
-    "mayManageApplicants": false,
+    "mayManageApplicants": true,
     "timeWhenLandlordMaySeeApplicants": 1737414000,
     "hidden": false,
     "rented": 0,
