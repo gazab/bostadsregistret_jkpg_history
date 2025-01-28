@@ -34,7 +34,7 @@
     "adText": "Lägenhet som ska genomgå en större renovering. Badrum ska renoveras med kakel (vitt) på vägg och (grå granitkeramik) klinker på golv. Nytt kök kommer sättas in, diskmaskin, induktionshäll samt varmluftsugn. Tvättmaskin i badrum kan väljas till. Nya trägolv i vardagsrum och sovrum. Vinylgolv i kök. Alla ytor kommer målas och fräschas till. Tillträde enligt överenskommelse. Fiber finns indraget i fastigheten.",
     "statusText": "Published",
     "statusCode": 1,
-    "mayManageApplicants": false,
+    "mayManageApplicants": true,
     "timeWhenLandlordMaySeeApplicants": 1738105200,
     "hidden": false,
     "rented": 0,
