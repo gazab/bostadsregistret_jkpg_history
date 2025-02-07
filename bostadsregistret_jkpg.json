@@ -706,7 +706,7 @@
     "adText": "Lägenheten finns i ett lugnt område i Nyhem. Lägenheten är del i ett parhus i 2 våningar. På 1:a våningen finns det en hall, kök, toalett, garderob, vardagsrum och matsalsrum med altandörr till baksida. På 2:a våning är det 2st sovrum, 2st förvaring kattvind, balkong och badrum. Källarvåning finns det 2st förråd, med delad tvättstuga och torkrum. Utomhus på baksida finns det ett altandäck och en del av trädgård där som man sköter själv. På baksidan finns ett uthus med ett förråd för hyresgästen. Lägenheten är totalrenoverad 2022. Gräsklippning samt snöskottning sköts av hyresgäst.",
     "statusText": "Published",
     "statusCode": 1,
-    "mayManageApplicants": false,
+    "mayManageApplicants": true,
     "timeWhenLandlordMaySeeApplicants": 1738969200,
     "hidden": false,
     "rented": 0,
