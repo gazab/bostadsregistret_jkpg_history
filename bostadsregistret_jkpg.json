@@ -664,7 +664,7 @@
     "adText": "Trevlig lägenhet med gångavstånd till matvarubutik och Centrum. Fiberanslutning finns för eget abonnemang",
     "statusText": "Published",
     "statusCode": 1,
-    "mayManageApplicants": false,
+    "mayManageApplicants": true,
     "timeWhenLandlordMaySeeApplicants": 1739055600,
     "hidden": false,
     "rented": 0,
