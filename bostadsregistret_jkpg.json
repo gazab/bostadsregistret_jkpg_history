@@ -118,7 +118,7 @@
     "adText": "Ljus och trevlig lägenhet i mindre hyreshus med 5 lägenheter i lugnt område. Stort kök. Balkong. Gemensam tvättstuga och tillgång till trädgård. Fiberanslutning.",
     "statusText": "Published",
     "statusCode": 1,
-    "mayManageApplicants": false,
+    "mayManageApplicants": true,
     "timeWhenLandlordMaySeeApplicants": 1739660400,
     "hidden": false,
     "rented": 0,
