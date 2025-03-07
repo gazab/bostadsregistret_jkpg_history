@@ -286,7 +286,7 @@
     "adText": "Trevlig stor lägenhet Trygghetsjour Securitas Fiber Trappstädning vartannan vecka. (Fler bilder kommer!)",
     "statusText": "Published",
     "statusCode": 1,
-    "mayManageApplicants": false,
+    "mayManageApplicants": true,
     "timeWhenLandlordMaySeeApplicants": 1741388400,
     "hidden": false,
     "rented": 0,
