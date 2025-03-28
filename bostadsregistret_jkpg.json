@@ -244,7 +244,7 @@
     "adText": "Bostaden ligger i Åker med närhet till idrottsplats och skola. Helt nyrenoverad (pågår), Nytt kök me kyl/frys, diskmaskin, ugn, induktionshäll, mikrovågsugn, allt helt nytt. Nytt badrum med dusch. Väl tilltaget med garderober, balkong. Parkeringsplats på gården ingår i hyran. Bredband och tv-kanaler ingår. Fin tvättstuga med 2 tvättmaskiner och torktumlare, torkrum med avfuktning. Förråd i källare, även skyddsrum finns. Utanför huset finns buss.",
     "statusText": "Published",
     "statusCode": 1,
-    "mayManageApplicants": false,
+    "mayManageApplicants": true,
     "timeWhenLandlordMaySeeApplicants": 1743202800,
     "hidden": false,
     "rented": 0,
