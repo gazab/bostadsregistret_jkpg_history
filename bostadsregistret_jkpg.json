@@ -160,7 +160,7 @@
     "adText": "Charmig lägenhet i en äldre fastighet som totalrenoverades 2016 med inglasad balkong. Kök med spishäll, diskmaskin, ugn, mikro samt hel kyl och frys. Helkaklat badrum med tvättmaskin och torktumlare. I hyran ingår värme, vatten, bredband och tv från Telia.",
     "statusText": "Published",
     "statusCode": 1,
-    "mayManageApplicants": false,
+    "mayManageApplicants": true,
     "timeWhenLandlordMaySeeApplicants": 1744495200,
     "hidden": false,
     "rented": 0,
