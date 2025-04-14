@@ -412,7 +412,7 @@
     "adText": "Trevlig lägenhet med bra planlösning i lugna området Åker.",
     "statusText": "Published",
     "statusCode": 1,
-    "mayManageApplicants": false,
+    "mayManageApplicants": true,
     "timeWhenLandlordMaySeeApplicants": 1744668000,
     "hidden": false,
     "rented": 0,
