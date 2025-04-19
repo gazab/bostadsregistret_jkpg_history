@@ -34,7 +34,7 @@
     "adText": "Hus nära idrottsplats, gym och fina strövområden nära nybyggd skola o lanthandel, nära och bra bussförbindelser till både Jönköping o Gränna.",
     "statusText": "Published",
     "statusCode": 1,
-    "mayManageApplicants": false,
+    "mayManageApplicants": true,
     "timeWhenLandlordMaySeeApplicants": 1745100000,
     "hidden": false,
     "rented": 0,
