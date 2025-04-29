@@ -118,7 +118,7 @@
     "adText": "Fin och fräsch lägenhet, 2 rum och kök. Helkaklat badrum. Stort och fint kök med plats för större matbord, köket renoverades 2019, diskmaskin, kylskåp och frysskåp. Rostfria vitvaror, induktionshäll. Samtliga ytor vitmålade. Carport finns att hyra. Lägenheten kan tas över tidigare om så önskas.\n",
     "statusText": "Published",
     "statusCode": 1,
-    "mayManageApplicants": false,
+    "mayManageApplicants": true,
     "timeWhenLandlordMaySeeApplicants": 1745964000,
     "hidden": false,
     "rented": 0,
