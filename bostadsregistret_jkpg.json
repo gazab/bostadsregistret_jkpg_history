@@ -118,7 +118,7 @@
     "adText": "Nybyggd lägenhet. Stort kök med inbyggd diskmaskin och separat kyl och frys. Badrum med dusch, tvättmaskin och torktumlare. Även en liten extra toalett i lägenheten.",
     "statusText": "Published",
     "statusCode": 1,
-    "mayManageApplicants": false,
+    "mayManageApplicants": true,
     "timeWhenLandlordMaySeeApplicants": 1746309600,
     "hidden": false,
     "rented": 0,
