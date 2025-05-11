@@ -118,7 +118,7 @@
     "adText": "Trevlig 3 rok på Lasarettsgatan 14 i Nässjö. Lägenheten ligger i ett lugnt och familjevänligt område med gångavstånd till vårdcentral och apotek. Diskmaskin ingår, förråd finns och parkeringsplats går att hyra precis utanför. Vid intresse och information om visning, kontakta oss på info@cgbostader.se.",
     "statusText": "Published",
     "statusCode": 1,
-    "mayManageApplicants": false,
+    "mayManageApplicants": true,
     "timeWhenLandlordMaySeeApplicants": 1747000800,
     "hidden": false,
     "rented": 0,
