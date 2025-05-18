@@ -34,7 +34,7 @@
     "adText": "En ljus och trevlig 3ROK i centrala Nässjö blir ledig 1/5. Här har du ett bekvämt boende med närhet till allt, hiss, balkong och egen tvättmaskin i lägenheten. Bra förvaringsmöjligheter inne i lägenheten och även förråd i källaren. Det är ett comhem hus där 12 tv-kanaler ingår i hyran. Möjlighet till parkeringsplats finns. Sök lägenheten inne på Bostadsregistret.se",
     "statusText": "Published",
     "statusCode": 1,
-    "mayManageApplicants": false,
+    "mayManageApplicants": true,
     "timeWhenLandlordMaySeeApplicants": 1747605600,
     "hidden": false,
     "rented": 0,
