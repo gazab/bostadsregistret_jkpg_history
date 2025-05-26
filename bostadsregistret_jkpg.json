@@ -76,7 +76,7 @@
     "adText": "Belägen i byggnad mot Kanalgatan. Egen ingång från innergård. Bottenvåning med rum mot gata och innergård. Inbyggd veranda mot innergård. Träbyggnad från 1885. Helrenoverad 1998 med nytt kök, badrum och tvätt- och toalettrum. Lägenheten har egen ingång genom veranda i markplan. En inre hall med ingång till stort rum med kakelugn och tre fönster mot söder. I hallen ingång till badrum och gästtoalett. Från hallen ingång till kök, vardagsrum med utgång till uterum, ett stort sovrum och ett mindre sovrum och ett förrådsrum, Kök med snickerier i ek. Spis, diskmaskin och separata stora kyl - och frysskåp. Badrummet är kombinerat med tvättrum med tvättmaskin och torktumlare. Genomgående trägolv. Äldre och nytillverkade dörrar i gammal stil. Listverk i gammal stil.. Målade väggar i ljus färg. TV-anslutning och Tele med uttag i alla rum. Kabel TV, Tele 2, med basutbud och möjlighet till tillägg. Bredband och basutbud TV ingår i hyran. Värme- och vatten inkluderat i hyran. Tillgång till uteplats på innergården och tillgång till nybyggt lusthus. Parkerings- och garageplatser finns ej på gården.",
     "statusText": "Published",
     "statusCode": 1,
-    "mayManageApplicants": false,
+    "mayManageApplicants": true,
     "timeWhenLandlordMaySeeApplicants": 1748296800,
     "hidden": false,
     "rented": 0,
