@@ -34,7 +34,7 @@
     "adText": "Fin trevlig 2:a centralt nära resecentrum, gemensam innegård med egen liten altan.",
     "statusText": "Published",
     "statusCode": 1,
-    "mayManageApplicants": false,
+    "mayManageApplicants": true,
     "timeWhenLandlordMaySeeApplicants": 1748383200,
     "hidden": false,
     "rented": 0,
