@@ -14,7 +14,7 @@
     "otherLength": "0",
     "area": 40,
     "rooms": 2,
-    "kitchenette": true,
+    "kitchenette": false,
     "sovalkov": false,
     "rent": 4900,
     "warm": 2,
