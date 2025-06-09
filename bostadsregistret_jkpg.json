@@ -34,7 +34,7 @@
     "adText": "",
     "statusText": "Published",
     "statusCode": 1,
-    "mayManageApplicants": false,
+    "mayManageApplicants": true,
     "timeWhenLandlordMaySeeApplicants": 1749506400,
     "hidden": false,
     "rented": 0,
