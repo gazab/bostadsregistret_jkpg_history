@@ -118,7 +118,7 @@
     "adText": "Nyproducerad lägenhet som färdigställdes november 2023. Stor och rymlig 2 ROK mitt i centrala Jönköping. Ett stenkast ifrån alla nödvändigheter. Huset har bastu, takterass, gym, gemensamhetslokal, övernattningsrum m.m. Lägenheten är tillgänglig från 1 juli men går även att diskutera senare inflyttningsdatum.",
     "statusText": "Published",
     "statusCode": 1,
-    "mayManageApplicants": false,
+    "mayManageApplicants": true,
     "timeWhenLandlordMaySeeApplicants": 1750024800,
     "hidden": false,
     "rented": 0,
