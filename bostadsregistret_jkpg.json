@@ -202,7 +202,7 @@
     "adText": "Rymlig och yteffektiv 2:a på 65 kvm belägen på andra våningen i lugnt hus i Handskeryd. Lägenheten har god standard och erbjuder balkong, fiber (eget abonnemang), tvättstuga i samma trappuppgång samt möjlighet till parkering. Passar en eller två personer. Tidigare inflyttning möjlig.",
     "statusText": "Published",
     "statusCode": 1,
-    "mayManageApplicants": false,
+    "mayManageApplicants": true,
     "timeWhenLandlordMaySeeApplicants": 1751061600,
     "hidden": false,
     "rented": 0,
