@@ -34,7 +34,7 @@
     "adText": "Mitt i centrala Jönköping. Passar dig som är student eller vill bo i centralt läge med närhet till stadsliv.",
     "statusText": "Published",
     "statusCode": 1,
-    "mayManageApplicants": false,
+    "mayManageApplicants": true,
     "timeWhenLandlordMaySeeApplicants": 1752012000,
     "hidden": false,
     "rented": 0,
