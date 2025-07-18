@@ -454,7 +454,7 @@
     "adText": "Ledig 3:a\n\nFin lägenhet ledig på Handskerydsvägen 9B i Nässjö. Lägenheten ligger i ett lugnt och trevligt område med närhet till både natur och service. Diskmaskin och tvättmaskin finns installerat i lägenheten för extra bekvämlighet. Tillhörande förråd ingår och parkeringsplats finns att hyra utanför fastigheten.",
     "statusText": "Published",
     "statusCode": 1,
-    "mayManageApplicants": false,
+    "mayManageApplicants": true,
     "timeWhenLandlordMaySeeApplicants": 1752876000,
     "hidden": false,
     "rented": 0,
