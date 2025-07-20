@@ -412,7 +412,7 @@
     "adText": "Ledig 2:a i Nässjö\n\nFin lägenhet i lugnt område. Tillgång till uteplats i trädgården. Fräsch tvättstuga i källaren. Halvtrappa upp till lägenheten från markplan. Öppet bredband finns. Fina golv, högt till tak.",
     "statusText": "Published",
     "statusCode": 1,
-    "mayManageApplicants": false,
+    "mayManageApplicants": true,
     "timeWhenLandlordMaySeeApplicants": 1753048800,
     "hidden": false,
     "rented": 0,
