@@ -370,7 +370,7 @@
     "adText": "Taklägenhet med högsta mysfaktor. Man har utsikt över taken från vardagsrum och kök. Parkettgolv i hela lägenheten, fräscht fint kök. Fiber är indraget. Ett lugnt och bra hus. El ingår i hyran.",
     "statusText": "Published",
     "statusCode": 1,
-    "mayManageApplicants": false,
+    "mayManageApplicants": true,
     "timeWhenLandlordMaySeeApplicants": 1753135200,
     "hidden": false,
     "rented": 0,
