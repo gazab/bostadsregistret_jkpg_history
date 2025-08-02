@@ -34,7 +34,7 @@
     "adText": "5:a i Nässjö!\n\nSällsynt tillfälle att hyra en stor lägenhet på första plan med egen uteplats. Fastigheten ligger på lugn gata intill sjö med närhet till natur. - Parkering ingår - Diskmaskin - Fin tvättstuga en trappa ner - Fiber bredband Tillträde 1 November eller enligt överenskommelse",
     "statusText": "Published",
     "statusCode": 1,
-    "mayManageApplicants": false,
+    "mayManageApplicants": true,
     "timeWhenLandlordMaySeeApplicants": 1754172000,
     "hidden": false,
     "rented": 0,
