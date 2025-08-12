@@ -244,7 +244,7 @@
     "adText": "Lägenhet om 2rok på första våning i populärt område. Från kök finns balkong med trappa ner till trädgård. Äldre kök men diskmaskin finns. Öppet fiber finns installerat och hyresgästen väljer själv eventuella tjänster. Källarförråd. Gemensam tvättstuga och torkrum i källare.",
     "statusText": "Published",
     "statusCode": 1,
-    "mayManageApplicants": false,
+    "mayManageApplicants": true,
     "timeWhenLandlordMaySeeApplicants": 1755036000,
     "hidden": false,
     "rented": 0,
