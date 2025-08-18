@@ -76,7 +76,7 @@
     "adText": "Centralt belägen lägenhet med gångavstånd till kommunaltrafik, butiker och övrig service. Perfekt läge för dig som vill ha nära till allt. För mer information om lägenheten och visning, kontakta oss på info@cgbostader.se.",
     "statusText": "Published",
     "statusCode": 1,
-    "mayManageApplicants": false,
+    "mayManageApplicants": true,
     "timeWhenLandlordMaySeeApplicants": 1755554400,
     "hidden": false,
     "rented": 0,
