@@ -118,7 +118,7 @@
     "adText": "Trevlig etta med gott om förvaring. Sovalkov där iaf 140 säng kan stå. Kommer att målas om och fräshas upp inför inflytt. Fiber är indraget till lägenheten. Inflytt sker enligt överenskommet datum. Blir ledig i månadsskiftet, 20250901. El ingår i hyran.",
     "statusText": "Published",
     "statusCode": 1,
-    "mayManageApplicants": false,
+    "mayManageApplicants": true,
     "timeWhenLandlordMaySeeApplicants": 1755640800,
     "hidden": false,
     "rented": 0,
