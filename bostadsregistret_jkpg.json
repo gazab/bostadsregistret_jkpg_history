@@ -244,7 +244,7 @@
     "adText": "Trevlig lägenhet i Handskeryd. Finns rullstolsramp in i fastigheten. Fiber finns för eget abonnemang\n",
     "statusText": "Published",
     "statusCode": 1,
-    "mayManageApplicants": false,
+    "mayManageApplicants": true,
     "timeWhenLandlordMaySeeApplicants": 1756764000,
     "hidden": false,
     "rented": 0,
