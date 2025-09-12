@@ -496,7 +496,7 @@
     "adText": "Lägenhet med bra standard. Fönster åt alla väderstreck, helt våningsplan. Trägolv, nyrenoverat badrum. Diskmaskin, Parkering ingår. Tillgång till fiber stadsnätet. (eget abonnemang).",
     "statusText": "Published",
     "statusCode": 1,
-    "mayManageApplicants": false,
+    "mayManageApplicants": true,
     "timeWhenLandlordMaySeeApplicants": 1757714400,
     "hidden": false,
     "rented": 0,
