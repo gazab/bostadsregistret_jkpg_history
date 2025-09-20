@@ -160,7 +160,7 @@
     "adText": "Lägenhet i Handskeryd. Handikappsramp till entren. Fiberanslutning för eget abonnemang. Obs 2025 års hyra.\n",
     "statusText": "Published",
     "statusCode": 1,
-    "mayManageApplicants": false,
+    "mayManageApplicants": true,
     "timeWhenLandlordMaySeeApplicants": 1758405600,
     "hidden": false,
     "rented": 0,
