@@ -118,7 +118,7 @@
     "adText": "Central charmig lägenhet vid Jönköping. Diskmaskin, tvättmaskin/torktumlare. Stor balkong med kvällssol.",
     "statusText": "Published",
     "statusCode": 1,
-    "mayManageApplicants": false,
+    "mayManageApplicants": true,
     "timeWhenLandlordMaySeeApplicants": 1758492000,
     "hidden": false,
     "rented": 0,
