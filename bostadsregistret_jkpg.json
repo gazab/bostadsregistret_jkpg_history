@@ -34,7 +34,7 @@
     "adText": "Fint och lugnt familjeområde med nära avstånd till Huskvarna centrum. Nära avstånd till kollektivtrafik och goda möjligheter till parkering utanför huset. Ingår i hyran: varmvatten, el, värme, avfall.",
     "statusText": "Published",
     "statusCode": 1,
-    "mayManageApplicants": false,
+    "mayManageApplicants": true,
     "timeWhenLandlordMaySeeApplicants": 1759183200,
     "hidden": false,
     "rented": 0,
