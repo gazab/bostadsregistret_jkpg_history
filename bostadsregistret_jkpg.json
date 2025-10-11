@@ -34,7 +34,7 @@
     "adText": "Ljus 3:a i det trevliga lasarettsområdet med gångavstånd till centrum. Lägenheten ligger på 2:a våningen med balkong, tillgång till gemensam trädgård. Lägenheten har nya fönster, ljusinsläpp från tre väderstreck. I köket finns moderna vitvaror samt möjlighet till bänkdiskmaskin. Lägenheten är delvis ganska nyligen målad bl a skåpsluckor och väggarna i köket. \n\n- P-plats på gården ingår i hyran\n- Fiber indraget \n- Gemensam tvättstuga \n- Goda förvaringsmöjligheter \n- Varmhyra \n\nVåra lägenheter och övriga utrymmen är djur- och rökfria. Lägenheten hyrs ut i första hand med en månadshyra i deposition. Vi söker dig med ordnad ekonomi och utan betalningsanmärkningar. Passar dig som vill bo i ett lugnt hus. Välkommen att personligen skriva några rader om dig själv/er samt namn och telefonnummer.",
     "statusText": "Published",
     "statusCode": 1,
-    "mayManageApplicants": false,
+    "mayManageApplicants": true,
     "timeWhenLandlordMaySeeApplicants": 1760220000,
     "hidden": false,
     "rented": 0,
