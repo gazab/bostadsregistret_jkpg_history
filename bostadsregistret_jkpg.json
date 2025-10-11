@@ -1030,7 +1030,7 @@
     "balcony": true,
     "floor1Sub": false,
     "floor1Ground": false,
-    "floor1Stairs": false,
+    "floor1Stairs": true,
     "attic": false,
     "duplex": false,
     "furnished": false,
