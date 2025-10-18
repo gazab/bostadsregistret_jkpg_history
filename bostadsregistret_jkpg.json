@@ -76,7 +76,7 @@
     "adText": "Trevlig lägenhet om 1 rok med stor balkong. Tillträde möjligt redan från 1 januari. Badkar. Öppet fiber indraget i fastigheten där hyresgästen tecknar egna eventuella tjänster. Gemensam tvättstuga och torkrum i källare. Källarförråd. Hyresnivå enl 2025. Nära till resecentrum, träningsmöjligheter, hembygdspark, vårdcentral mm.",
     "statusText": "Published",
     "statusCode": 1,
-    "mayManageApplicants": false,
+    "mayManageApplicants": true,
     "timeWhenLandlordMaySeeApplicants": 1760824800,
     "hidden": false,
     "rented": 0,
