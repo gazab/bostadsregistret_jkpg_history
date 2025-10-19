@@ -34,7 +34,7 @@
     "adText": "Fin lägenhet i Handskeryd med balkong, fiber för eget abonnemang finns. 2025 års hyra.",
     "statusText": "Published",
     "statusCode": 1,
-    "mayManageApplicants": false,
+    "mayManageApplicants": true,
     "timeWhenLandlordMaySeeApplicants": 1760911200,
     "hidden": false,
     "rented": 0,
