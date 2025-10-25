@@ -664,7 +664,7 @@
     "adText": "Rymlig och trevlig lägenhet om 2rok i Jönköping med inglasad balkong i trevliga Torpa.",
     "statusText": "Published",
     "statusCode": 1,
-    "mayManageApplicants": false,
+    "mayManageApplicants": true,
     "timeWhenLandlordMaySeeApplicants": 1761429600,
     "hidden": false,
     "rented": 0,
