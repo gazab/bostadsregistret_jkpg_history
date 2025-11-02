@@ -34,7 +34,7 @@
     "adText": "Stor lägenhet med 2 våningar. Ett badrum på första våningen med möjlighet till egen tvättmaskin. 1 separat toalett på andra våningen.",
     "statusText": "Published",
     "statusCode": 1,
-    "mayManageApplicants": false,
+    "mayManageApplicants": true,
     "timeWhenLandlordMaySeeApplicants": 1762124400,
     "hidden": false,
     "rented": 0,
