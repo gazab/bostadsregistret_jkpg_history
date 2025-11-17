@@ -34,7 +34,7 @@
     "adText": "Nu har du chansen att hyra en ljus och trivsam 3-rumslägenhet med kök och balkong, perfekt belägen nära köpcentrum, bussförbindelser, vårdcentral och andra viktiga nödvändigheter. - i hyran ingår vatten och värme - el tillkommer",
     "statusText": "Published",
     "statusCode": 1,
-    "mayManageApplicants": false,
+    "mayManageApplicants": true,
     "timeWhenLandlordMaySeeApplicants": 1763420400,
     "hidden": false,
     "rented": 0,
